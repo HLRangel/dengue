@@ -1,0 +1,78 @@
+{
+  "id": "5b29524b-59da-4215-8cea-098c992e6143",
+  "name": "dengue_mata_brasil",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "10de5f88-2b81-4ad2-897e-b464002af2f3",
+          "name": "date",
+          "required": false,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4e24131c-5d75-4d9e-8fc1-dc1effd7f405",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e488ed9a-ed97-4bbd-9084-2060124021d7",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A dengue é fatal, e em 2024, provocou 5.972 mortes no Brasil (1). No total, de 2000-2024, provocou em torno de 16.274 mortes, levando em conta a série histórica de óbitos apresentada pelo Ministério da Saúde. (2)\n\nFonte: \n\n(1) - Agência Brasil (https://agenciabrasil.ebc.com.br/saude/noticia/2025-01/casos-de-dengue-em-2024-passam-de-64-milhoes-mortes-somam-59-mil)\n(2) - Ministério da Saúde (https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue/situacao-epidemiologica/serie-historica-casos-de-obitos-dengue-2000-2023/view)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

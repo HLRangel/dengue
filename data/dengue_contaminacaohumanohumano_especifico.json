@@ -1,0 +1,35 @@
+{
+  "id": "7fd9feb5-bca8-44c8-b49c-04d305bcb47a",
+  "name": "dengue_contaminacaohumanohumano_especifico",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A contaminação de humano para humano é extremamente rara, tendo relevância imaterial. Você tem uma chance maior de ser atingido por um raio do que pegar dengue de outra pessoa.\n\nFonte: Governo Federal (https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

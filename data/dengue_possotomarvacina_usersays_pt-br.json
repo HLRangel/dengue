@@ -1,0 +1,507 @@
+[
+  {
+    "id": "c76b39a4-c21a-4ffe-afb0-9ab30137d59a",
+    "data": [
+      {
+        "text": "Meus familiares podem ficar imunes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "411a1d53-1925-49d7-bd39-2ab12b959ceb",
+    "data": [
+      {
+        "text": "Meus familiares podem ",
+        "userDefined": false
+      },
+      {
+        "text": "se vacinar?",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fea6497a-3e67-4d47-b339-5e95f8b4252f",
+    "data": [
+      {
+        "text": "Posso me ",
+        "userDefined": false
+      },
+      {
+        "text": "vacinar?",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b15dc0f2-4dd0-44ef-b29d-699f9568daad",
+    "data": [
+      {
+        "text": "Posso me imunizar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6e3cd474-b30d-461a-b70e-ddc6412ba443",
+    "data": [
+      {
+        "text": "Como que eu sei se eu posso me imunizar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c9c5de44-31c9-4d8f-88e6-4c51ca8384fe",
+    "data": [
+      {
+        "text": "Eu posso tomar vacina?",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "88918d83-bcdf-4640-9254-cf624c48f8ba",
+    "data": [
+      {
+        "text": "Quem ",
+        "userDefined": false
+      },
+      {
+        "text": "usa",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " droga ",
+        "userDefined": false
+      },
+      {
+        "text": "pode tomar vacina?",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "387bbbb3-2a9f-47dc-8140-fb3cab10bfdd",
+    "data": [
+      {
+        "text": "Meu pai",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pode tomar vacina?",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "558d2507-83fc-4202-bdeb-7b14994370c5",
+    "data": [
+      {
+        "text": "Minha mãe",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pode tomar vacina?",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "82d4b7aa-0792-4964-a81b-4d3523af246b",
+    "data": [
+      {
+        "text": "Meu vô",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pode tomar vacina?",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0b908a7c-3164-4c4b-be0c-686b39aacb3e",
+    "data": [
+      {
+        "text": "Meu tio",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pode tomar vacina?",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f1c1678-319c-47d9-a3b7-d717e6243896",
+    "data": [
+      {
+        "text": "Crianças podem ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar vacina?",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4d38d78f-0031-4aa8-8301-6f42dc99171a",
+    "data": [
+      {
+        "text": "Meu filho",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pode tomar vacina?",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d80e0366-3186-4214-89c9-446123e80550",
+    "data": [
+      {
+        "text": "Posso tomar vacina?",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9fc14984-8559-430c-8890-e60e9528dd47",
+    "data": [
+      {
+        "text": "Como que sei ",
+        "userDefined": false
+      },
+      {
+        "text": "se posso tomar a vacina?",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c9d58a64-bcc3-4ef3-9a9d-f8c05ea8d632",
+    "data": [
+      {
+        "text": "Posso tomar a vacina da",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "af2b474e-b5dd-45b6-bf06-169d64c3a503",
+    "data": [
+      {
+        "text": "eu posso ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Onde posso encontrar a vacina a da",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " dengue ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Qual ",
+        "userDefined": false
+      },
+      {
+        "text": "local mais próximo para tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "vacina da",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " dengue ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quando ",
+        "userDefined": false
+      },
+      {
+        "text": "posso tomar a vacina?",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Posso tomar vacina da",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " denv ",
+        "userDefined": false
+      },
+      {
+        "text": "e de influenza",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " no mesmo dia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "No ",
+        "userDefined": false
+      },
+      {
+        "text": "presente",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " momento, quais ",
+        "userDefined": false
+      },
+      {
+        "text": "vacinas",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " estão disponíveis ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " individuo ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " através ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " sus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

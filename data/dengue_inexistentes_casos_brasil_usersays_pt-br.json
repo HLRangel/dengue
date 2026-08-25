@@ -1,0 +1,122 @@
+[
+  {
+    "id": "7802b9a1-13cf-4ef9-a1da-fdf281b208f4",
+    "data": [
+      {
+        "text": "Quantos casos de dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "Santa Rosa de Viterbo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " registrou",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8502c5e8-2fa8-4271-a347-86c87ab37535",
+    "data": [
+      {
+        "text": "menor cidade com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6c09b445-3c21-4d4f-acef-bba0f9d66f9d",
+    "data": [
+      {
+        "text": "santa rosa",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1089b5f5-8872-496b-8ddc-bbcd9a358d5f",
+    "data": [
+      {
+        "text": "qual lugar tem o menor indice de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "02e5cf2a-2bf3-437d-822b-52838bd155f8",
+    "data": [
+      {
+        "text": "tem casos que nao tem dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b5075e9c-1a80-47e5-8506-23188914f45c",
+    "data": [
+      {
+        "text": "Existe cidade sem casos de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Existe casos que não houverem dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Existe casos que não houveram dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

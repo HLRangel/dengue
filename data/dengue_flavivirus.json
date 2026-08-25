@@ -1,0 +1,50 @@
+{
+  "id": "a979760d-0f99-409b-b8c2-8b29a186b07e",
+  "name": "dengue_flavivirus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9fd9c1e7-20eb-443d-af4b-1633638d6c26",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Pelo Ministério da Saúde: \"O vírus da dengue é um arbovírus do gênero Flavivírus.\"\n\nFonte: Governo Federal (https://bvsms.saude.gov.br/bvs/publicacoes/dengue_aspecto_epidemiologicos_diagnostico_tratamento.pdf)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,454 @@
+[
+  {
+    "id": "234bd4c1-427b-479c-8e17-dffc2ddf8175",
+    "data": [
+      {
+        "text": "To",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " liberado pra ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " o que nesse ",
+        "userDefined": false
+      },
+      {
+        "text": "caso",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0995507e-26aa-4619-8edd-e23ab9c84f35",
+    "data": [
+      {
+        "text": "Que remédio posso ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "39bcd9d0-fe34-46bb-9a95-7a5a19cf2537",
+    "data": [
+      {
+        "text": "Caso a",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " pessoa seja acometida ",
+        "userDefined": false
+      },
+      {
+        "text": "por",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " dengue, qual medicação é permitida?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ddb1c41b-a83d-4903-a73d-bd14ffb734b9",
+    "data": [
+      {
+        "text": "Fui acometido por dengue, é permitido que remédio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ed11c06c-32f6-44aa-99a0-3367267711dc",
+    "data": [
+      {
+        "text": "Com dengue, é liberado qual remédio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f49f37fc-99b3-497e-859a-823bf5c27fcb",
+    "data": [
+      {
+        "text": "Aqui no Sus, que medicamentos posso usar atualmente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cd1204af-446b-4372-8a07-b2132b9f791a",
+    "data": [
+      {
+        "text": "Tô",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " c/ dengue, qual remédio posso usar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4ba3d616-e434-4780-a89c-ddedcb4f7da6",
+    "data": [
+      {
+        "text": "É liberado que remédio se deve se tiver a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6458a284-15c6-4626-a40b-4957ae2a1ecc",
+    "data": [
+      {
+        "text": "Que medicamento é permitido ",
+        "userDefined": false
+      },
+      {
+        "text": "durante a",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e424baee-a0e5-4558-842d-6d4484148cf1",
+    "data": [
+      {
+        "text": "Qual remédio pode usar durante a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a2690a59-937b-4422-8b8c-a6a67af52419",
+    "data": [
+      {
+        "text": "Quais medicamentos são liberados ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pessoa acometida pela dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1f01f583-9350-4e24-b5ff-7f676c1b31c4",
+    "data": [
+      {
+        "text": "Qual remédio pode usar ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e200a3fc-dcd3-4319-af97-6a2a6ebdbe47",
+    "data": [
+      {
+        "text": "Posso ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ansiolítico enquanto estou com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fc4a6a52-ce0c-418c-8799-b0db18107210",
+    "data": [
+      {
+        "text": "Quais remedios devo ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " com dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d727b3fe-1423-4452-bd64-67f338d8113c",
+    "data": [
+      {
+        "text": "Quais remedios eu devo ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " com dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bf8bdc49-85e9-4c02-801d-900b5f1a8d3b",
+    "data": [
+      {
+        "text": "Quais remédios pode ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4c7979b6-9e0e-4c0c-a2b4-02664910c499",
+    "data": [
+      {
+        "text": "Remedios ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7843c766-22c4-42e8-9b0a-60f1e27fb9c2",
+    "data": [
+      {
+        "text": "Qual remédio ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " pra dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Existe remédio ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 10,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Posso ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " qualquer remédio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

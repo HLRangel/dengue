@@ -1,0 +1,2288 @@
+[
+  {
+    "id": "98cb24f0-b92a-4d2c-b647-290d36e9dc2d",
+    "data": [
+      {
+        "text": "O que fazer ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " se manter longe da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e170a837-f33c-4190-8b45-5297c2bb8ed8",
+    "data": [
+      {
+        "text": "Como me prevenir da dengue em ",
+        "userDefined": false
+      },
+      {
+        "text": "casa",
+        "meta": "@sys.music-genre",
+        "alias": "music-genre",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4b1d82d6-418b-4394-a471-340141635565",
+    "data": [
+      {
+        "text": "Quais ",
+        "userDefined": false
+      },
+      {
+        "text": "são",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " as precauções ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "se",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " proteger da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d11b60af-7dba-4469-ae3e-ce02b32b185f",
+    "data": [
+      {
+        "text": "Como evitar a dengue no dia a dia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9ce0957a-33c4-484c-af64-0daac7437f6b",
+    "data": [
+      {
+        "text": "O que é importante ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " prevenir a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3433eb0e-d10b-4d61-9670-1c73b32edeaf",
+    "data": [
+      {
+        "text": "Como me proteger ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " mosquito que transmite a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6134b41e-aee8-4ac5-bfb1-818ec5f601c4",
+    "data": [
+      {
+        "text": "Quais são as orientações ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " evitar a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5e0d0c45-81e0-43c4-a439-34cd81d3ae7a",
+    "data": [
+      {
+        "text": "Como me prevenir da infecção por dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b2900264-01bf-4335-8167-8a3aabb27bed",
+    "data": [
+      {
+        "text": "O que fazer ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " não contrair dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5547f287-f738-4a9d-b8d8-aa00770ae477",
+    "data": [
+      {
+        "text": "Como me proteger ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " risco de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a7966500-2599-4494-815f-ce7c439d32b9",
+    "data": [
+      {
+        "text": "Quais são as práticas ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " evitar a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "594f95f1-18e1-4dca-9f49-8cd898abed69",
+    "data": [
+      {
+        "text": "Como me prevenir da picada ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " Aedes albopictus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fbc7dbb2-9c44-44ba-9395-990cf0228da2",
+    "data": [
+      {
+        "text": "Como me prevenir da picada ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " Aedes aegypti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "637deecf-c84f-43f3-b3e7-ee484faf4ad8",
+    "data": [
+      {
+        "text": "O que é essencial ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " se proteger da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d6323036-9ab8-4a6c-b7af-3fe1330f218b",
+    "data": [
+      {
+        "text": "Como evitar a proliferação ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " mosquito da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "99429399-f6d3-41b5-a799-cf78ea8c1e13",
+    "data": [
+      {
+        "text": "Quais são as ações ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " prevenir a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "82b7fac5-65bd-48a8-8f85-df01e37808c4",
+    "data": [
+      {
+        "text": "Como me manter longe da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f1793d28-b48a-4535-b57f-a1a76c1745e7",
+    "data": [
+      {
+        "text": "O que ",
+        "userDefined": false
+      },
+      {
+        "text": "devo",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " fazer ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " não pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9313adf5-11df-4e2e-801e-853fcca43cc8",
+    "data": [
+      {
+        "text": "Como me proteger ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " o mosquito transmissor da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0b377415-54e4-4fe3-b960-b5328f9dfac8",
+    "data": [
+      {
+        "text": "Quais ",
+        "userDefined": false
+      },
+      {
+        "text": "são",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " os ",
+        "userDefined": false
+      },
+      {
+        "text": "passos para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " evitar a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a9a7b5f5-5066-4cc1-918d-c0cb04dcc8a7",
+    "data": [
+      {
+        "text": "Como me prevenir da doença da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b668adcd-66e4-458a-bd77-e0a512a2aca4",
+    "data": [
+      {
+        "text": "O que fazer ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " não ser infectado pela dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "db2578d8-2b5c-4bd0-9d62-99b6b203ba67",
+    "data": [
+      {
+        "text": "Como me proteger da transmissão da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3fc24d94-6971-4461-9440-224ff3d411e0",
+    "data": [
+      {
+        "text": "Quais são as recomendações ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " evitar a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cc16493c-9b35-4820-8616-140d97f8626b",
+    "data": [
+      {
+        "text": "Como me prevenir ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " Aedes albopictus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6137468d-d08b-4085-9d74-49034894bed8",
+    "data": [
+      {
+        "text": "Como me prevenir ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " Aedes aegypti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "48285b59-de8f-41cc-a18f-7cf749e93352",
+    "data": [
+      {
+        "text": "O que posso fazer ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " me proteger da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c7e7ef00-3171-4fe6-8afb-5187a1b3a20d",
+    "data": [
+      {
+        "text": "Como evitar que o mosquito da dengue me infecte?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "86508e08-455c-460a-9648-e452ec35d1d1",
+    "data": [
+      {
+        "text": "Quais são as estratégias ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " prevenir a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c53efcfb-3232-47ab-9a8e-a93da2284e60",
+    "data": [
+      {
+        "text": "Como se proteger ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " vírus da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "87b99133-87b2-474d-bd22-02540dc96800",
+    "data": [
+      {
+        "text": "O que é necessário ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " evitar a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "032d35b7-ff77-4688-b43e-c23ee87e06f3",
+    "data": [
+      {
+        "text": "Como se blindar ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "48f8eff2-df6f-4c1e-987c-4b3db07af07f",
+    "data": [
+      {
+        "text": "Quais são as dicas ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " prevenir a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "56264e41-b264-4fe6-b6a1-2f460dec3766",
+    "data": [
+      {
+        "text": "Como evitar a picada ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " mosquito da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7a9d9f8e-8a08-4be1-9d34-991be176d59a",
+    "data": [
+      {
+        "text": "O que fazer ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " se livrar da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e275742a-be81-4291-9944-16dde3577d0e",
+    "data": [
+      {
+        "text": "Como me manter seguro ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ddb92718-8a4f-4944-acfc-3bdd59948e16",
+    "data": [
+      {
+        "text": "Quais são os métodos ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " prevenir a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1a5b1efd-b0e3-4c9c-862f-655d03238895",
+    "data": [
+      {
+        "text": "Como reduzir o risco de contrair dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8a88ed9f-7fcb-4193-b7ad-0900d6fc56de",
+    "data": [
+      {
+        "text": "O que é preciso fazer ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " se proteger da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6cc21447-2c53-4784-becb-0d34fae72319",
+    "data": [
+      {
+        "text": "Como me proteger ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " Aedes albopictus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "25822d67-7fae-42e8-9f0f-54235be501fd",
+    "data": [
+      {
+        "text": "Como me proteger ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " Aedes aegypti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c501681e-99c2-4fe0-a2b1-8689b97d455b",
+    "data": [
+      {
+        "text": "Quais ",
+        "userDefined": false
+      },
+      {
+        "text": "são",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " as maneiras de evitar a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dea2cf69-4f35-4fc6-b501-a30e887aabd1",
+    "data": [
+      {
+        "text": "Como garantir que não vou pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5d148161-1135-47bd-a4c6-e807c3bee9f4",
+    "data": [
+      {
+        "text": "Quais medidas posso ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " evitar ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.unit-length-name",
+        "alias": "unit-length-name",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a7d9c1ad-0bd3-479f-ab1f-47c8c7d5a7e0",
+    "data": [
+      {
+        "text": "O que ",
+        "userDefined": false
+      },
+      {
+        "text": "devo",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " fazer ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " me prevenir da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4c9ff1fa-43f4-49fb-a6fd-77d599a60533",
+    "data": [
+      {
+        "text": "Como me proteger ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " mosquito da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "efbb2e1f-4d74-4d9a-a343-6f60531863c3",
+    "data": [
+      {
+        "text": "Quais cuidados ",
+        "userDefined": false
+      },
+      {
+        "text": "devo",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " ter ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " não contrair dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f68e015e-9767-4f6e-8ed1-ea373a385d3a",
+    "data": [
+      {
+        "text": "Como afastar o perigo da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c6d9f7c3-ac24-4110-87b4-82e7ccdf66d2",
+    "data": [
+      {
+        "text": "De que jeito posso me prevenir ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b4366c2c-89bd-4298-9d1d-981a6f30682b",
+    "data": [
+      {
+        "text": "Como posso me livrar ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " risco de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b5376a59-4daa-4fc9-b052-7574ba2001b1",
+    "data": [
+      {
+        "text": "Quais ",
+        "userDefined": false
+      },
+      {
+        "text": "são",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " as formas de ",
+        "userDefined": false
+      },
+      {
+        "text": "se",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " proteger da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8ee79304-ea3c-45ce-a86f-76daccdf6a9f",
+    "data": [
+      {
+        "text": "O que fazer ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " não pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e4ae0660-5283-470e-823a-1bbbf5ced110",
+    "data": [
+      {
+        "text": "Como evitar a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6d5e42f2-8c3e-4710-add6-b418f11b54b0",
+    "data": [
+      {
+        "text": "Eu evito a doença como?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "48cc779c-8c6c-4f56-938a-e4c7b473f4f7",
+    "data": [
+      {
+        "text": "Como previno a doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f1b91c26-4000-4999-8c5a-cf23f4280c13",
+    "data": [
+      {
+        "text": "A vacina é a",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " única forma de proteção ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " a doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "79315c94-618a-4075-ae5a-9058d2f39609",
+    "data": [
+      {
+        "text": "Como posso me proteger ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " a picada ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " mosquito Aedes albopictus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d66a156d-6eca-46f6-8fc2-657481fac5eb",
+    "data": [
+      {
+        "text": "Como posso me proteger ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " a picada ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " mosquito Aedes aegypti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "832964e7-c83d-4e09-a92c-6c7a187bd205",
+    "data": [
+      {
+        "text": "Como se proteger da doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4f7e57e3-06c2-4629-a83e-4152a8596ca8",
+    "data": [
+      {
+        "text": "Como se proteger da doença da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1abe2ff9-a9f9-4d4a-88d6-6e6b0d69a388",
+    "data": [
+      {
+        "text": "Quais são os tipos de prevenção da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7179ce6d-e07f-41ab-85ec-1d49ae4079e7",
+    "data": [
+      {
+        "text": "Posso prevenir da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5d7e1921-7611-49de-b640-b25d59c82c8b",
+    "data": [
+      {
+        "text": "De que forma ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pessoa pode se prevenir da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "709ef4df-639b-49ed-95a4-9a02de7cf606",
+    "data": [
+      {
+        "text": "De que maneira ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pessoa pode se prevenir da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f0c96a3b-2e03-4922-b2f8-85fc099b6d4a",
+    "data": [
+      {
+        "text": "Como eu previno da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e39a2aa4-6e3c-4ecf-95e4-45306734c2b2",
+    "data": [
+      {
+        "text": "A doença da dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "se",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " previne como?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fa728d3e-38ce-440c-ac08-124191134cd6",
+    "data": [
+      {
+        "text": "De que maneira eu previno da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "54d0cdb0-6fbc-48ed-a1c2-ba848a776145",
+    "data": [
+      {
+        "text": "Eu previno da dengue como?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "250cf843-5642-4c3c-8578-f345e62f7ed8",
+    "data": [
+      {
+        "text": "Como se prevenir da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d6cd4c36-f9e7-4972-b900-bbc48c583a74",
+    "data": [
+      {
+        "text": "Como prevenir a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "377e4744-e35e-449e-8e1f-a354e2fe20ee",
+    "data": [
+      {
+        "text": "Quais as medidas preventivas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ff793ecd-718e-43be-97f5-8bcef0321ad2",
+    "data": [
+      {
+        "text": "O que fazer ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " evitar a reprodução ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " aedes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "079834c6-7f18-4efc-af69-755a6b619378",
+    "data": [
+      {
+        "text": "Quais os principais criadouros ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " mosquito da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f0eb12cd-3645-406e-8ed4-09968a0d9071",
+    "data": [
+      {
+        "text": "Como o mosquito da dengue se prolifera?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "42ac2c8c-3de4-4b7c-b9a3-4a8b04222648",
+    "data": [
+      {
+        "text": "Como repelir o mosquito da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "41523027-b854-4370-a55b-bd6c55e500f3",
+    "data": [
+      {
+        "text": "Qual o vetor da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3e50107c-2583-4c84-8f48-9b45e46f55ed",
+    "data": [
+      {
+        "text": "De onde vem o mosquito da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e416ddee-ba7b-415d-a6ee-9cc2a6638fe5",
+    "data": [
+      {
+        "text": "Como afasto o mosquito da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ff48cae6-91b9-4417-a5fa-e395cdc3566f",
+    "data": [
+      {
+        "text": "como que eu me protejo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "44331442-fbb7-47a5-b829-9b6f20ad05a6",
+    "data": [
+      {
+        "text": "Vi ",
+        "userDefined": false
+      },
+      {
+        "text": "agua",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " corrente, o mosquito da dengue ta ",
+        "userDefined": false
+      },
+      {
+        "text": "ali",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "359c11ac-b3d9-4708-b9d2-55e309c54f56",
+    "data": [
+      {
+        "text": "Quais são os fatores que contribuem ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " a disseminação da dengue em area urbana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c55badf4-2e51-4a47-ace0-dfb787a7590a",
+    "data": [
+      {
+        "text": "como tratar dengue em ",
+        "userDefined": false
+      },
+      {
+        "text": "casa",
+        "meta": "@sys.music-genre",
+        "alias": "music-genre",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "08612bd7-3805-4097-8d14-511f8100b923",
+    "data": [
+      {
+        "text": "qual o tratamento da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "da969f39-f245-4ade-b0e3-a121bd1f930b",
+    "data": [
+      {
+        "text": "como tratar a dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a754d48e-950d-4046-aeb7-ae3b61e5e847",
+    "data": [
+      {
+        "text": "Como podemos nos prevenir de pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0132dce6-b727-46df-902d-e170ff85ddff",
+    "data": [
+      {
+        "text": "Como podemos nos prevenir da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c440b6c6-78ae-4be1-8c90-248d5f3ed8c9",
+    "data": [
+      {
+        "text": "Como nos proteger da infecção da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "40c91017-08f5-4d5a-821b-390c3e8e0ea3",
+    "data": [
+      {
+        "text": "Como devemos nos previnir ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a23e495b-8e77-446e-9aef-114825ceba35",
+    "data": [
+      {
+        "text": "Como posso prevenir meus familiares ",
+        "userDefined": false
+      },
+      {
+        "text": "da",
+        "meta": "@sys.unit-weight-name",
+        "alias": "unit-weight-name",
+        "userDefined": false
+      },
+      {
+        "text": " dengue.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "eb4fdee7-0584-4a12-a431-fee1bf6d2faf",
+    "data": [
+      {
+        "text": "O que faço ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " evitar a dengue ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quais os metodos de controle biologico de controle ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " aedes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como ",
+        "userDefined": false
+      },
+      {
+        "text": "a educação",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " em ",
+        "userDefined": false
+      },
+      {
+        "text": "saude",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " pode contribuir ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " a prevenção da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como educar as pessoas ajuda a prevenir a denv?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Que chá ",
+        "userDefined": false
+      },
+      {
+        "text": "sara",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " a denv?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Canela",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " ajuda a sarar denv?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Capim limão ",
+        "userDefined": false
+      },
+      {
+        "text": "sara",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Se eu esfregar citronela onde o mosquito picou eu consigo evitar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como o controle ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " vetor pode ser usado de forma eficaz?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Qual ",
+        "userDefined": false
+      },
+      {
+        "text": "o papel",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " da comunidade no controle da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como nos prevenir de focos de dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 10,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Metodos ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " erradicar a dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como posso prevenir a dengue no meu ",
+        "userDefined": false
+      },
+      {
+        "text": "ambiente",
+        "meta": "@sys.music-genre",
+        "alias": "music-genre",
+        "userDefined": false
+      },
+      {
+        "text": " doméstico?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como podemos prevenir a reprodução ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " Aedes aegypti em ",
+        "userDefined": false
+      },
+      {
+        "text": "casa",
+        "meta": "@sys.music-genre",
+        "alias": "music-genre",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como posso evitar o mosquito da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 10,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como proteger minha família ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 10,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Existe algum alimento que pode prevenir ou curar a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "O consumo de vitaminas pode prevenir a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quais os cuidados necessarios durante a gravidez ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " evitar a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quais os cuidados necessarios durante a gravidez para evitar a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como não contrair na dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Qual a melhor prevenção ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como não contrairna dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

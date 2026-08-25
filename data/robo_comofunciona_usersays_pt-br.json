@@ -1,0 +1,339 @@
+[
+  {
+    "id": "afdfa2d6-2f47-4589-abff-9997922d399d",
+    "data": [
+      {
+        "text": "Seus criadores usaram de quel paradigma ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " te criar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3feebf1f-0823-4e49-b476-b62ca6ba5ee3",
+    "data": [
+      {
+        "text": "Seus criadores usaram qual produto ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " te fazer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b2222eb2-8f3e-40a4-a54c-b1a91c9488e7",
+    "data": [
+      {
+        "text": "Em que produto te fizeram?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e1e1c148-0bce-4f9e-b0e9-158c47039ba7",
+    "data": [
+      {
+        "text": "Em que linguagem te programaram?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c6bf9140-d8c4-489d-bc59-02331c1d80fb",
+    "data": [
+      {
+        "text": "Fizeram você em PHP?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e0f14f07-3059-4380-a03e-84a86ed6efbe",
+    "data": [
+      {
+        "text": "Fizeram você em Erlang?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ed0e2e7c-7b77-4a66-b11c-a774fe282236",
+    "data": [
+      {
+        "text": "Fizeram você em ",
+        "userDefined": false
+      },
+      {
+        "text": "Haskell",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b4e2c5a4-23a0-46e6-93d3-44e1ee8dfc41",
+    "data": [
+      {
+        "text": "Fizeram você em Lisp?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a8c9865e-04c3-421d-ae4f-5ca880a6ddb7",
+    "data": [
+      {
+        "text": "Fizeram você em C?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b402412-d9fd-4ad6-8800-a02b1279b613",
+    "data": [
+      {
+        "text": "Fizeram você em C++?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0662ca8f-c67d-4319-bfba-a1477509997d",
+    "data": [
+      {
+        "text": "Fizeram você em C#?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d0e6062d-0e70-4af1-bf26-bc7692ed1695",
+    "data": [
+      {
+        "text": "Fizeram você em JavaScript?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1f9cd1f5-304a-44c2-922c-66914ff17a34",
+    "data": [
+      {
+        "text": "Fizeram você em Python?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "57719847-2a76-4dc0-9e6c-aec1fc84babe",
+    "data": [
+      {
+        "text": "Como que você nasceu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f5493e9e-a740-40c4-8dfc-949b36b8ab16",
+    "data": [
+      {
+        "text": "Como criaram você?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "27b2e0b1-e570-4c41-b152-618ffdbcdfa8",
+    "data": [
+      {
+        "text": "Como te programaram?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ed99d263-0671-4eb0-860f-ed341943b8d3",
+    "data": [
+      {
+        "text": "Como fizeram você?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a75ddb26-ce21-497f-9cc5-4a870223a0ac",
+    "data": [
+      {
+        "text": "Como você foi feito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "89835acc-5713-42d7-8911-24f6bf660c50",
+    "data": [
+      {
+        "text": "Como você funciona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "como de fizeram",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como vc foi criado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "C foi criado como?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Porque escolheu esse como bot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Qual sua função?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 9,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

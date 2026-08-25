@@ -1,0 +1,181 @@
+[
+  {
+    "id": "ebe170af-7787-4d1e-b36f-5acebbb70253",
+    "data": [
+      {
+        "text": "Qual país da ",
+        "userDefined": false
+      },
+      {
+        "text": "Centroamérica",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " tem pais dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "706aca90-3785-4092-98a7-a3cccbb6851f",
+    "data": [
+      {
+        "text": "Qual parte da ",
+        "userDefined": false
+      },
+      {
+        "text": "América Central",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " tem mais dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "21c7503e-4cf5-490a-a6f3-da3851b6e8fd",
+    "data": [
+      {
+        "text": "Quais partes da ",
+        "userDefined": false
+      },
+      {
+        "text": "América Central",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " foram mais afetadas pelo arbovírus DENV?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ac0237fc-984f-473a-bdc5-0d7b7424648e",
+    "data": [
+      {
+        "text": "Qual parte da ",
+        "userDefined": false
+      },
+      {
+        "text": "América Central",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " foi mais afetada pela dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c9c1382d-fa98-41fc-b69f-65b62b8edf58",
+    "data": [
+      {
+        "text": "Quais ",
+        "userDefined": false
+      },
+      {
+        "text": "países da América Central",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sofreram mais com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Na ",
+        "userDefined": false
+      },
+      {
+        "text": "américa central",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": ", qual pais tem maior incidencia ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Na ",
+        "userDefined": false
+      },
+      {
+        "text": "américa central",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": ", tem dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

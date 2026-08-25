@@ -1,0 +1,445 @@
+[
+  {
+    "id": "01228b4d-53d0-4b0a-aa9c-90c78157d656",
+    "data": [
+      {
+        "text": "Você é ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " robô?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d8ccd5a6-3815-4b57-afc3-f2646e1aca21",
+    "data": [
+      {
+        "text": "Que tipo de animal você é?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ba7a7101-65c5-459f-9d1b-a2f51a1d1540",
+    "data": [
+      {
+        "text": "Você tem ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " cérebro?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1da673bb-6aa6-4c5d-848c-27b6c57df3cd",
+    "data": [
+      {
+        "text": "Você sabe das coisas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b2348064-5ccf-4516-8c98-efed89e063b7",
+    "data": [
+      {
+        "text": "Você é ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pessoa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "59b1eda5-202f-45ec-a638-a600c42624ab",
+    "data": [
+      {
+        "text": "Você é humano?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3ce2baa2-9a3e-48d2-ab64-ce270d450706",
+    "data": [
+      {
+        "text": "Qual sua opinião sobre a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f7fe0313-bdf1-48db-9b91-0077c2bae577",
+    "data": [
+      {
+        "text": "Você consegue identificar o vírus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0fdc36bb-111d-4ebd-baa4-4b0cb146abfa",
+    "data": [
+      {
+        "text": "Você consegue diagnosticar o vírus da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f387a2b9-10bb-41bd-9716-211a60acbc36",
+    "data": [
+      {
+        "text": "Você diagnostica?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "36473536-0bf9-4941-a1da-38039588c172",
+    "data": [
+      {
+        "text": "Qual o diagnóstico?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a5cffefc-1032-4901-9832-8248b885330e",
+    "data": [
+      {
+        "text": "Você faz diagnóstico?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0734af25-27dd-4c53-9d4d-7ff4713d8691",
+    "data": [
+      {
+        "text": "Você consegue diagnosticar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "05348a30-c543-49de-9986-6f25714d01f8",
+    "data": [
+      {
+        "text": "Você acha isso feio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "566be9db-c21b-4350-8aaa-b4cd6bef8fed",
+    "data": [
+      {
+        "text": "Com que você se emociona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "84e40b9e-9ee0-4610-a0e9-dc7bdceb9540",
+    "data": [
+      {
+        "text": "O que você pensa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7d2a59e8-0605-4419-bc86-7e2c749f54c2",
+    "data": [
+      {
+        "text": "O que você acha?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ed8dc66d-e610-4318-8089-690460158560",
+    "data": [
+      {
+        "text": "O que você pensa sobre isso?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8f86a0ee-52d7-4154-b86f-be07305d1029",
+    "data": [
+      {
+        "text": "Você se emociona com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2ae6bc9a-837f-466c-9a63-51f348493b1d",
+    "data": [
+      {
+        "text": "Você sente emoções?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8634b485-6a83-473e-bbb4-bd40542bc30c",
+    "data": [
+      {
+        "text": "Você é ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " large language model?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3c62d0aa-da72-42e7-85b3-f7c55bd7fe70",
+    "data": [
+      {
+        "text": "Você realmente sabe de alguma coisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c00c9283-e131-43d5-ad91-21d8f39365f2",
+    "data": [
+      {
+        "text": "Você tem sentimentos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "044a4ce2-2364-469e-ac2d-5626f025aa43",
+    "data": [
+      {
+        "text": "Você é inteligente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "eac138e4-0525-4f14-8de4-0810d72332f0",
+    "data": [
+      {
+        "text": "Você é ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " modelo massivo de linguagem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d8f97dd5-2d71-4a4b-9318-200401896ad9",
+    "data": [
+      {
+        "text": "Você é tipo o DeepSeek?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b8b36c7-c209-40a0-bf85-7d5094b660e9",
+    "data": [
+      {
+        "text": "Você é tipo o ChatGPT?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Voce sabe das coisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "vc sabe dos bagui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "voce é doutor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

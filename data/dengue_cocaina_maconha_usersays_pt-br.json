@@ -1,0 +1,505 @@
+[
+  {
+    "id": "401946b9-d2e4-4330-a5fc-e1f6d824b0af",
+    "data": [
+      {
+        "text": "O ópio",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " cura a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "93eb010e-3928-4b28-9793-e0e79578feaf",
+    "data": [
+      {
+        "text": "O remédio ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "monge",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " cura a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e092835b-051c-4cc0-98e6-bc0f8ce6455a",
+    "data": [
+      {
+        "text": "Experimentar o próprio produto cura a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f0df169d-f8ca-4f2b-a0df-807ca9494da5",
+    "data": [
+      {
+        "text": "Usar o produtinho ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Walter White",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " cura a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "11df6af1-cc69-459b-9188-5ef4f656d315",
+    "data": [
+      {
+        "text": "Metanfetamina cura a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f2d669f5-d0a7-48a1-8e7b-7b2da40ead1a",
+    "data": [
+      {
+        "text": "Alcóolismo me dá ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vantagem evolutiva ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d9eeb54f-019b-4aa1-ad84-fb3dcb68dacd",
+    "data": [
+      {
+        "text": "Beber álcool cura a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3931f10a-c876-4f90-9df3-e88e6a8ef7d9",
+    "data": [
+      {
+        "text": "Lança-perfume cura a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f645a4dc-f197-4a02-ba9a-d518813d49ee",
+    "data": [
+      {
+        "text": "Deslizar ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pela ",
+        "userDefined": false
+      },
+      {
+        "text": "porta",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " de trás cura a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bdb2dc2e-4989-42ea-b22c-e8804c726323",
+    "data": [
+      {
+        "text": "Dar ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " cheiradinha cura a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e9f8c735-9dad-46d2-8a90-0f2e052e1e14",
+    "data": [
+      {
+        "text": "Tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "vinho",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " cura a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e3a19242-00da-45f2-8f6f-707e628fdc07",
+    "data": [
+      {
+        "text": "Tomar cerveja",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " cura dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bcf26780-e92d-4972-965a-d43439096f57",
+    "data": [
+      {
+        "text": "Tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " pinga cura dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c07a12ad-4637-4ccc-8107-a4bd63634c75",
+    "data": [
+      {
+        "text": "Ayahuasca cura a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e965e4d8-a645-4cc3-b76a-d1ef9a2ecafc",
+    "data": [
+      {
+        "text": "LSD cura a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b4f6ade5-c53f-4451-8730-6674bf643661",
+    "data": [
+      {
+        "text": "Maconha cura a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "256dd9ab-7ea6-452a-bbe9-fbd99eb44dc6",
+    "data": [
+      {
+        "text": "Cocaína cura a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c0ca1f73-acfe-4d68-b301-615690d82a25",
+    "data": [
+      {
+        "text": "Beber pinga esteriliza da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "021b9c8c-cb67-40e3-bca3-3b1ce9403233",
+    "data": [
+      {
+        "text": "Beber pinga cura dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fbf97fe1-3280-4854-8140-2c12523a3878",
+    "data": [
+      {
+        "text": "Eu posso cheirar cocaína ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " tratar a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4771ceba-abcd-4bfd-ab6e-ac5cc99e24d1",
+    "data": [
+      {
+        "text": "Cocaína",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ad62745e-71c2-447e-b649-2c19e4333fb4",
+    "data": [
+      {
+        "text": "Maconha é bom ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "905ed687-8eb5-4531-b57d-4d2db6d84446",
+    "data": [
+      {
+        "text": "Quem tem dengue pode fazer uso de cannabis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "34e1d3dc-a641-451a-aa4f-d81c5e284427",
+    "data": [
+      {
+        "text": "Se eu beber alcool com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue eu curo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a4296a74-5fcf-4802-9f85-6e3b1bfd8d71",
+    "data": [
+      {
+        "text": "Tem que hidratar com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue, beber alcool não ajuda a hidratar então?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Pode usar maconha ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

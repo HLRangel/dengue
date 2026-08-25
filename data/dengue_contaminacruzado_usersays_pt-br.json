@@ -1,0 +1,199 @@
+[
+  {
+    "id": "6eb9f482-65f2-4254-8078-6f63a5752551",
+    "data": [
+      {
+        "text": "Se o mosquito tiver ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "contaminação cruzada de dengue com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " chikungunya, eu pego os ",
+        "userDefined": false
+      },
+      {
+        "text": "dois",
+        "meta": "@sys.number",
+        "alias": "number1",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "215a6b0d-d148-4139-a54c-3f5e548786ce",
+    "data": [
+      {
+        "text": "Da pra pegar dengue e chikungunya ao mesmo tempo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "37659f38-2ffa-48da-9764-ef14151e53c7",
+    "data": [
+      {
+        "text": "Eu posso pegar dengue e chikunguya ao mesmo tempo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "87bfa9d5-c85d-4d03-a112-05114aef2f86",
+    "data": [
+      {
+        "text": "Eu posso pegar dengue e ",
+        "userDefined": false
+      },
+      {
+        "text": "zika",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " ao mesmo tempo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fc6ab744-e7d0-4740-b72f-585ef5d506ea",
+    "data": [
+      {
+        "text": "Se o mosquito tiver ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "contaminação cruzada de dengue com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "zika",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": ", eu pego os ",
+        "userDefined": false
+      },
+      {
+        "text": "dois",
+        "meta": "@sys.number",
+        "alias": "number1",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Se o mosquito tiver ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "contaminação cruzada de dengue com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "zika",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": ", eu pego os ",
+        "userDefined": false
+      },
+      {
+        "text": "dois",
+        "meta": "@sys.number",
+        "alias": "number1",
+        "userDefined": false
+      },
+      {
+        "text": "? Tem algum artigo que mostra algo assim?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 7,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

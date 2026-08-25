@@ -1,0 +1,136 @@
+{
+  "id": "1df1eb8a-2f5c-4425-997b-2ef06a2eafd3",
+  "name": "dengue_transmissao_exaustivo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "52fec178-16ea-4233-b448-484245246a59",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "663b4a0f-399f-4fbc-9e90-fee86d580b2b",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4415983a-b6e2-4916-81ee-3dd737a1b62d",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4254d0b8-2956-44c2-8790-c1561582ffe0",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6d4fdd96-2ac7-4663-ac61-7309e8c8b3d2",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "028ec3de-7665-4335-b9cd-17a35373b185",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7359e8e5-7eb4-47ae-983b-968e67a4a49e",
+          "name": "language",
+          "required": false,
+          "dataType": "@sys.language",
+          "value": "$language",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A dengue é uma doença viral, causada pelo vírus da dengue (DENV), que pertence à família dos flavivírus. Classificada como arbovirose, a transmissão ocorre principalmente por meio da picada do mosquito Aedes aegypti. Embora a transmissão entre humanos seja rara, existem registros de casos de transmissão vertical (de gestante para feto) e por transfusão de sangue. (1)",
+            "O vírus da dengue (DENV) pode ser transmitido ao homem principalmente por via vetorial, pela picada de fêmeas de Aedes aegypti infectadas, no ciclo urbano humano–vetor–humano. Existem os relatos de transmissão por via vertical (de mãe para filho durante a gestação) e transfusional, mas são raros. (2)",
+            "As formas de transmissão da dengue são as seguintes:\n\nPelo mosquito: O vírus da dengue é transmitido pela picada de fêmeas do Aedes aegypti e, em menor grau, do Aedes albopictus. Após picar uma pessoa infectada, o mosquito leva 8 a 12 dias para se tornar transmissor e pode espalhar o vírus por toda a vida.\n\nMaterna: Embora rara, a transmissão da mãe para o bebê pode causar parto prematuro e baixo peso ao nascer.\n\nOutras formas: Existem casos isolados de transmissão por transfusões, transplantes e entre gerações de mosquitos. (3)\n\nFontes:\n(1) - Secretaria da Saúde de Minas Gerais (https://www.saude.mg.gov.br/aedes/doencastransmitidas)\n(2) - Ministério da Saúde (https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue/faq)\n(3) - Organização Mundial da Saúde (https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "6d2c6304-93e0-482c-9e59-d274a7bfb8c1",
+  "name": "aedes_outras_doencas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O Aedes aegypti, mesmo sendo popularmente conhecido como o \"mosquito da dengue\", também transmite outras doenças, as \"arboviroses\", das quais as mais conhecidas no Brasil são a dengue, chikunguya, febre amarela, e zika.\n\nFonte: Governo Federal (https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/aedes-aegypti)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

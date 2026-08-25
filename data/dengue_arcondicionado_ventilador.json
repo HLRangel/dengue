@@ -1,0 +1,35 @@
+{
+  "id": "53e07c12-d238-4a8f-8967-52682248e8ca",
+  "name": "dengue_arcondicionado_ventilador",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O uso de ar condicionados e ventiladores não contribuí ao combate à dengue.\n\nFonte: Governo do Estado do Espírito Santo (https://mosquito.saude.es.gov.br/mitos-e-verdades-aesdes-aegypti)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

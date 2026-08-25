@@ -1,0 +1,64 @@
+{
+  "id": "3237c20b-97eb-4a71-9ca0-ebb249f6281d",
+  "name": "dengue_nome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b1ee6d16-a9f5-4ddc-b188-99bffd998a5c",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ed9c4d24-fa15-48cc-ac91-b946572aed20",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Existem várias teorias acerca do nome da dengue, com uma das mais famosas afirmando que o nome vem do termo \"ki denga pepo\", que significa \"súbita tomada por um espírito maligno\" em suaíli, com os espanhóis criando a versão encurtada, \"dengue\". (1)\n\nEnquanto ao nome do mosquito \"Aedes aegypti\", a espécie vetora foi descrita cientificamente pela primeira vez em 1762, sob o nome Culex aegypti — termo derivado do latim Culex (\"mosquito\") e aegypti (\"egípcio\"), resultando na designação \"mosquito egípcio\". Entretanto, a criação do gênero Aedes ocorreu apenas em 1818, durante avanços na entomologia. Anos depois, estudos comparativos revelaram que a espécie aegypti apresentava traços morfológicos e biológicos alinhados ao gênero Aedes (como padrões de coloração e comportamento reprodutivo) e não ao gênero Culex, até então associado. Essa correção taxonômica levou à reclassificação definitiva da espécie como Aedes aegypti – nome que significa \"odioso do Egito\" -  consolidando sua identidade científica. (2)\n\nQuanto à nomenclatura do vírus transmitido pelo mosquito, DENV 1-4, refere-se a vírus da dengue. (3) \n\nFontes:\n\n(1) - BBC Brasil (https://www.bbc.com/portuguese/articles/c25lepy4r1do)\n\n(2) - Fiocruz (https://www.ioc.fiocruz.br/dengue/textos/curiosidades.html)\n\n(3) - Governo Federal (https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

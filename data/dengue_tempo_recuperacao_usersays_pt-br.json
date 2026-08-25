@@ -1,0 +1,148 @@
+[
+  {
+    "id": "92fa596d-9c11-4793-8e1c-462ee2232ce3",
+    "data": [
+      {
+        "text": "Tempo de repouso por causa da dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d2eaaf33-50cc-4717-a5ba-73a5fb537a00",
+    "data": [
+      {
+        "text": "Em quantos dias eu consigo estar melhor da doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e65e392a-3a1f-4510-aacc-2e730974bf0e",
+    "data": [
+      {
+        "text": "A fase crônica leva quanto tempo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d2110da9-b40b-4e89-81da-3e9b10be1ba5",
+    "data": [
+      {
+        "text": "A fase aguda leva quanto tempo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5558adff-d376-4fb4-b7bd-9f026d7f1814",
+    "data": [
+      {
+        "text": "Eu consigo me recuperar em quanto tempo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3a89f2c3-3656-41a4-9f4f-d6469c725cb0",
+    "data": [
+      {
+        "text": "Quanto tempo leva a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2544fee4-4990-4666-ad55-2015d6bf368a",
+    "data": [
+      {
+        "text": "Quanto tempo leva para se recuperar completamente da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0de6f4ee-ca41-43eb-84d8-339a3f98571c",
+    "data": [
+      {
+        "text": "Quanto tempo leva ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " se recuperar completamente ",
+        "userDefined": false
+      },
+      {
+        "text": "da",
+        "meta": "@sys.unit-weight-name",
+        "alias": "unit-weight-name",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quanto tempo demora ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " passar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

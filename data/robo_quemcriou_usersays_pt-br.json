@@ -1,0 +1,398 @@
+[
+  {
+    "id": "c901d737-f8a2-4d64-bb82-bc360d92e608",
+    "data": [
+      {
+        "text": "Quem projetou você?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6d56af38-36de-4102-a1c0-f9bdd8bf78df",
+    "data": [
+      {
+        "text": "Qual ",
+        "userDefined": false
+      },
+      {
+        "text": "empresa",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " está por trás de você?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "47227615-4803-41b2-b097-fd9cadb1cbb6",
+    "data": [
+      {
+        "text": "De onde você surgiu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "53d895fd-3f0b-4349-9303-0bf71595a761",
+    "data": [
+      {
+        "text": "Quem é o responsável pela sua criação?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "987073f4-9eed-4ef2-b413-33e7519ecce8",
+    "data": [
+      {
+        "text": "Você foi feito ",
+        "userDefined": false
+      },
+      {
+        "text": "por",
+        "meta": "@sys.language",
+        "alias": "language",
+        "userDefined": false
+      },
+      {
+        "text": " humanos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c43d786f-efeb-4b9f-8440-f2c7ed1ab008",
+    "data": [
+      {
+        "text": "Quem é o autor ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " seu código?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "59e8a773-f424-465b-9872-e316115f76bc",
+    "data": [
+      {
+        "text": "Qual é a origem ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " seu desenvolvimento?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1f517b30-21a4-462f-94e8-c81ad0b3fafc",
+    "data": [
+      {
+        "text": "Quem fez você existir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4a233256-ca7a-415d-bab8-359bb5a4b71c",
+    "data": [
+      {
+        "text": "Você foi desenvolvido por ",
+        "userDefined": false
+      },
+      {
+        "text": "uma empresa",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "46d8baa4-71c6-4fcb-ac68-64b3f90a6df5",
+    "data": [
+      {
+        "text": "Quem é o ",
+        "userDefined": false
+      },
+      {
+        "text": "pai",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "/",
+        "userDefined": false
+      },
+      {
+        "text": "mãe",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": " da inteligência artificial aqui?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e786ec1f-26b7-4ed9-9172-9760108d9210",
+    "data": [
+      {
+        "text": "Qual time te programou?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b4583810-3882-4e4a-bcba-aedaf217df35",
+    "data": [
+      {
+        "text": "Quem é o seu criador?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "388b3920-7511-46dc-bdbe-8d1bb3d203fa",
+    "data": [
+      {
+        "text": "Quem está por trás ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " seu desenvolvimento?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d8a0f6ac-60ca-49e8-bb68-9679142047b4",
+    "data": [
+      {
+        "text": "De onde você veio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d5d75dff-93d7-417c-a511-abb778cfcc17",
+    "data": [
+      {
+        "text": "Você foi criado por ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " equipe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c3c5150-1200-4beb-8a57-66060249b64d",
+    "data": [
+      {
+        "text": "Quem foi que inventou você?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5b32babd-645d-42ea-85ff-008b5889b67a",
+    "data": [
+      {
+        "text": "Qual ",
+        "userDefined": false
+      },
+      {
+        "text": "empresa",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " te fez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "067ed010-6473-477a-af04-5d71deb6061b",
+    "data": [
+      {
+        "text": "Quem desenvolveu você?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b0604db9-4f56-4b46-8ecb-35f9ad477fa3",
+    "data": [
+      {
+        "text": "Quem é o responsável por criar você?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f38fc791-94c6-462e-957a-1c946ce06b22",
+    "data": [
+      {
+        "text": "Quem te criou?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 9,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quem fez vc?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 7,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quem te criou",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quem fez o bot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

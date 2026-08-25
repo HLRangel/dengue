@@ -1,0 +1,64 @@
+{
+  "id": "ebed939f-aaa2-4ba5-a3e0-56d583d132b3",
+  "name": "dengue_resistencia_inseticida_selecao_natural",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ab5e1e9c-2dba-4306-a0a8-dac497870e7b",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "46b16a14-fba4-45bf-bfbe-3471aaf92f0b",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O estudo demonstrou que a resistência a inseticidas impõe um custo evolutivo aos mosquitos, prejudicando seu desenvolvimento, longevidade e capacidade reprodutiva. Foram analisadas populações naturais de mosquitos coletadas em cinco cidades brasileiras: Fortaleza (CE), Maceió (AL), Uberaba (MG), Aparecida de Goiânia (GO) e Cuiabá (MT). Paralelamente, mosquitos originários de Natal (RN) foram submetidos a um experimento de pressão seletiva em laboratório, utilizando inseticida piretróide (aplicado contra adultos) ao longo de nove gerações consecutivas. Esse grupo foi dividido entre uma colônia exposta ao inseticida e outra mantida sem exposição, simulando condições naturais de seleção.\n\nOs mosquitos de populações naturais e do experimento laboratorial foram avaliados quanto à resistência ao larvicida organofosforado temephos e ao adulticida piretróide deltametrina. Além disso, parâmetros biológicos como número de ovos postos, consumo de sangue, tempo de desenvolvimento larval e longevidade do adulto foram medidos.\n\nAs populações mais resistentes apresentaram desvantagens significativas em ambientes sem inseticida, o grupo submetido à pressão seletiva em laboratório (nove gerações) exibiu os efeitos negativos mais acentuados, possivelmente devido ao acúmulo de genes letais associados à resistência. Os dados reforçam evidências anteriores sobre os impactos fisiológicos negativos da resistência a inseticidas em mosquitos.\n\n“Esses achados destacam o dilema evolutivo enfrentado pelos vetores: a resistência oferece vantagem imediata em ambientes com inseticidas, mas compromete a aptidão biológica em cenários livres desses químicos”, explicou Ademir Martins, pesquisador do Instituto Oswaldo Cruz (IOC/Fiocruz), que liderou o estudo em colaboração com a estudante Camila Ribeiro e equipe dos Laboratórios de Fisiologia e Controle de Artrópodes Vetores e de Biologia Molecular de Insetos.\n\nFonte: Fiocruz (https://portal.fiocruz.br/noticia/pesquisa-mostra-os-efeitos-da-resistencia-inseticidas-no-mosquito-da-dengue)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

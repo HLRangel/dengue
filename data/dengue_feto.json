@@ -1,0 +1,50 @@
+{
+  "id": "93dda9c3-d4f1-4bbc-89ac-8d63d30781af",
+  "name": "dengue_feto",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2b18efaa-859f-43ee-b196-f9b87b2a1dfc",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Existe a possibilidade de que mulheres grávidas transmitam o vírus da dengue para os fetos, especialmente se o contraem alguns dias antes do parto. A apresentação de sintomas no bebê é rara, mas se acontecer, pode ser grave.\n\nFonte: Globo (https://oglobo.globo.com/saude/medicina/noticia/2024/06/27/mito-ou-verdade-dengue-pode-ser-transmitida-para-o-bebe-na-gestacao.ghtml)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

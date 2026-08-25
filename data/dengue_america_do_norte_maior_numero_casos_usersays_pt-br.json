@@ -1,0 +1,456 @@
+[
+  {
+    "id": "936bc465-f85a-4b89-9307-63e80ab69955",
+    "data": [
+      {
+        "text": "O México",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " tem quantos casos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f33af112-fbaf-4b61-b4c6-3f24e13fa618",
+    "data": [
+      {
+        "text": "Quantos casos de dengue tem no ",
+        "userDefined": false
+      },
+      {
+        "text": "México",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a7372051-f0e0-478e-a7f0-f8f31502f253",
+    "data": [
+      {
+        "text": "Os ",
+        "userDefined": false
+      },
+      {
+        "text": "Estados Unidos é o país",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " com mais casos ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "meta": "@sys.location",
+        "alias": "location1",
+        "userDefined": false
+      },
+      {
+        "text": " dengue na ",
+        "userDefined": false
+      },
+      {
+        "text": "América do Norte",
+        "meta": "@sys.location",
+        "alias": "location1",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5b756d3e-5d7a-4e61-b06d-15e6d9203462",
+    "data": [
+      {
+        "text": "O Canada é o país",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " com mais casos ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " dengue na ",
+        "userDefined": false
+      },
+      {
+        "text": "América do Norte",
+        "meta": "@sys.location",
+        "alias": "location1",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "800e0bd0-d168-4dae-b63f-985bef3deaad",
+    "data": [
+      {
+        "text": "Qual ",
+        "userDefined": false
+      },
+      {
+        "text": "o lugar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " mais infestado ",
+        "userDefined": false
+      },
+      {
+        "text": "pela",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " dengue na ",
+        "userDefined": false
+      },
+      {
+        "text": "América do Norte",
+        "meta": "@sys.location",
+        "alias": "location1",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "43945385-08bb-4ab8-90c5-673fde9caccb",
+    "data": [
+      {
+        "text": "Qual ",
+        "userDefined": false
+      },
+      {
+        "text": "o lugar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " da ",
+        "userDefined": false
+      },
+      {
+        "text": "América do Norte",
+        "meta": "@sys.location",
+        "alias": "location1",
+        "userDefined": false
+      },
+      {
+        "text": " com mais infecções?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3831df4d-3ed5-4473-8f4b-a95b0f760c76",
+    "data": [
+      {
+        "text": "Qual ",
+        "userDefined": false
+      },
+      {
+        "text": "o país",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " mais infectado nos ",
+        "userDefined": false
+      },
+      {
+        "text": "Estados Unidos",
+        "meta": "@sys.location",
+        "alias": "location1",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b0d8f56a-d34e-4484-a390-25b5fea96445",
+    "data": [
+      {
+        "text": "Qual ",
+        "userDefined": false
+      },
+      {
+        "text": "o país",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " mais infectado na ",
+        "userDefined": false
+      },
+      {
+        "text": "América do Norte",
+        "meta": "@sys.location",
+        "alias": "location1",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "466426df-e23a-42e9-a646-fe356029ad1a",
+    "data": [
+      {
+        "text": "Qual é ",
+        "userDefined": false
+      },
+      {
+        "text": "o país",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " com mais ",
+        "userDefined": false
+      },
+      {
+        "text": "alta",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " incidência ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " dengue na ",
+        "userDefined": false
+      },
+      {
+        "text": "América do Norte",
+        "meta": "@sys.location",
+        "alias": "location1",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "eb802676-ac86-4f86-a055-eb1582f29bb1",
+    "data": [
+      {
+        "text": "Qual pais da ",
+        "userDefined": false
+      },
+      {
+        "text": "américa do norte",
+        "meta": "@sys.location",
+        "alias": "location1",
+        "userDefined": false
+      },
+      {
+        "text": " mais tem caso ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "802d1f2a-a3ce-4859-86ca-0475e833a19b",
+    "data": [
+      {
+        "text": "Quais paises da ",
+        "userDefined": false
+      },
+      {
+        "text": "america latina",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " mais tem dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "67ec7771-578d-4bd8-8c3e-bd1e59a78464",
+    "data": [
+      {
+        "text": "Na ",
+        "userDefined": false
+      },
+      {
+        "text": "america do sul",
+        "meta": "@sys.location",
+        "alias": "location1",
+        "userDefined": false
+      },
+      {
+        "text": " qual pais tem maior incidencia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2712d401-aad5-43a6-9b30-bc5d8e0e8a14",
+    "data": [
+      {
+        "text": "Na ",
+        "userDefined": false
+      },
+      {
+        "text": "america do sul",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " qual pais tem maior incidencia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "41e74a91-62e9-49f7-add1-e73fed2ea5a7",
+    "data": [
+      {
+        "text": "Em quais países é comum ter casos de dengue além ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Brasil",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

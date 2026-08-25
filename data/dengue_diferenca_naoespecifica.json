@@ -1,0 +1,65 @@
+{
+  "id": "75625ebc-7293-4a4b-afbf-4f1ec96e89ce",
+  "name": "dengue_diferenca_naoespecifica",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "38f6d289-8315-4e74-8cb5-b24927c174e9",
+          "name": "geo-state-us",
+          "required": false,
+          "dataType": "@sys.geo-state-us",
+          "value": "$geo-state-us",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7c594d23-b399-4b62-9c91-cd7cce34a35b",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A dengue se diferencia de outras doenças comuns pelo seu meio de transmissão. Em vez da transmissão pelo contato humano, que é popularmente relacionada com os vírus, a dengue é transmitida através da picada de mosquitos fêmeas do gênero Aedes, especialmente o Aedes aegypti. (1)",
+            "A dengue se diferencia de doenças como a zika, chikungunya e a malária pelos sintomas que ela apresenta. Apesar das quatro doenças serem transmitidas pelo Aedes aegypti, a dengue é caracterizada por febres súbitas, dores musculares intensas, dores de cabeça, e sangramento (em casos mais graves).\n\nEm comparação, o chikungunya causa inchaços visíveis, e dores mais duradouras, enquanto o zika causa apenas febres leves, mas, em gestantes, é responsável por microcefalia e outras malformações congenitais. (2)\n\nJá a malária está predominantemente concentrada nas regiões tropicais da África, Ásia e América do Sul. No Brasil, 99% dos casos registrados estão na Região Amazônica. As infecções ocorrem por meio da transmissão do parasita protozoário unicelular Plasmodium vivax, pelo Anopheles sp. (3)\n\nFontes: \n(1) - Governo Federal (https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue)\n(2) - Fiocruz (https://agencia.fiocruz.br/zika-chikungunya-e-dengue-entenda-diferencas)\n(3) - Fapeam (https://www.fapeam.am.gov.br/malaria-e-dengue-sao-as-doencas-febris-de-maior-ocorrencia-no-am/)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

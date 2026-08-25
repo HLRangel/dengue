@@ -1,0 +1,64 @@
+{
+  "id": "03c47530-5ac9-49f1-a041-dab16d61885b",
+  "name": "dengue_inexistentes_casos_brasil",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4e0fa1c8-a5c9-4b16-b3a3-6cf0e7ecfbd9",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8427eacf-b4af-4a21-b3d0-01a063cd73cc",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Santa Rosa de Viterbo (SP) não registrou nenhum caso de dengue durante todo o segundo semestre de 2023. Em contraste com o panorama nacional, o município do interior paulista passou os últimos seis meses do ano sem nenhuma infecção pela doença. Além disso, o total de casos no município em 2023 apresentou uma queda de 62,9% em comparação com 2022.\n\nFonte: G1 (https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2024/01/25/dengue-como-armadilha-e-tecnologia-ajudaram-cidade-no-interior-de-sp-a-passar-6-meses-sem-casos.ghtml)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

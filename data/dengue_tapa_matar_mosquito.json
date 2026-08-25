@@ -1,0 +1,50 @@
+{
+  "id": "bbe674d4-fdbf-48f1-8b65-38ef70387651",
+  "name": "dengue_tapa_matar_mosquito",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "969dc079-9061-4738-87e5-363163fec08a",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A exterminação do mosquito da dengue é ideal. Matar o mosquito da dengue com suas mãos não causa dengue, pois somente a penetração da pele pelo mosquito e a introdução da saliva causam a infecção. Porém, a lavagem das mãos ainda é necessária devido à outras doenças.\n\nFonte: Governo da Nova Zelândia (https://info.health.nz/conditions-treatments/infectious-diseases/dengue)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

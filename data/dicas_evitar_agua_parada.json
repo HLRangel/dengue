@@ -1,0 +1,64 @@
+{
+  "id": "648c3bdd-7067-4ad0-a6a0-5c6b4db57422",
+  "name": "dicas_evitar_agua_parada",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "784b92d9-100d-493f-9824-e3395cb2151d",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "28a07cef-61cc-421d-908b-9de69a5ba471",
+          "name": "location1",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Deixe sempre bem tampados e lave com bucha e sabão as paredes internas de caixas d\u0027água, poços, cacimbas, tambores de água ou tonéis, cisternas, jarras e filtros;\n\nNão deixe acumular água em pratos de vasos de plantas e xaxins. Coloque areia fina até a borda do pratinho.\n\nPlantas que possam acumular água devem ser tratadas com água sanitária na proporção de uma colher de sopa para um litro de água, regando no mínimo, duas vezes por semana. Tire sempre a água acumulada nas folhas.\n\nNão junte vasilhas e utensílios que possam acumular água (tampinha de garrafa, casca de ovo, latinha, saquinho plástico de cigarro, embalagem plástica e de vidro, copo descartável etc.) e guarde garrafas vazias de cabeça para baixo.\n\nEntregue pneus velhos ao serviço de limpeza urbana, caso precise mantê-los, guarde em local coberto.\nDeixe a tampa do vaso sanitário sempre fechado. Em banheiros pouco usados, dê descarga pelo menos uma vez por semana.\n\nRetire sempre a água acumulada da bandeja externa da geladeira e lave com água e sabão.\n\nSempre que for trocar o garrafão de água mineral, lave bem o suporte no qual a água fica acumulada.\n\nMantenha sempre limpo: lagos, cascatas e espelhos d\u0027água decorativos. Crie peixes nesses locais, eles se alimentam das larvas dos mosquitos.\n\nLave e troque a água dos bebedouros de aves e animais no mínimo uma vez por semana.\n\nLimpe frequentemente as calhas e a laje das casas, coloque areia nos cacos de vidro no muro que possam acumular água.\n\nMantenha a água da piscina sempre tratada com cloro e limpe-a uma vez por semana. Se não for usá-la, evite cobrir com lonas ou plásticos.\n\nMantenha o quintal limpo, recolhendo o lixo e detritos em volta das casas, limpando os latões e mantendo as lixeiras tampadas. Não jogue lixo em terrenos baldios, construções e praças. Chame a limpeza urbana quando necessário.\n\nPermita sempre o acesso do agente de controle de zoonoses em sua residência ou estabelecimento comercial.\n\nFonte: https://www.dengue.pr.gov.br/Pagina/Como-combater"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

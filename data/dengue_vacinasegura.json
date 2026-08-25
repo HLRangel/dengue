@@ -1,0 +1,92 @@
+{
+  "id": "99ff9935-8192-467a-9a1f-efbe736f5ed0",
+  "name": "dengue_vacinasegura",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c555c609-fdc6-4255-823b-5863935a5dfa",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "14bf69b5-c1a4-45fc-b53d-fed21d922df9",
+          "name": "location1",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location1",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8e2e7e5f-73e2-4038-87fa-5141d68232a3",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2a841afe-ab83-4977-9ba0-c1626fb8f056",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "As vacinas contêm fragmentos enfraquecidos ou inativados de um agente infeccioso (antígeno) para estimular a resposta imunológica do organismo. (1)\n\nA vacina Qdenga mostrou eficácia de 69,8% contra o DENV-1, 95,1% contra o DENV-2 e 48,9% contra o DENV-3, segundo a Sociedade Brasileira de Imunizações (SBim). O DENV-4 não foi avaliado devido à baixa incidência de casos. A proteção contra hospitalizações por dengue confirmada foi de 84,1%.\nContraindicações incluem gestantes, lactantes e pessoas com imunodeficiência, como ocorre com vacinas de vírus vivo. Antes da Qdenga, a Dengvaxia foi aprovada, mas restrita a quem já teve dengue, o que impediu sua adoção pelo SUS. (2)\n\nCada vacina é desenvolvida para prevenir uma doença específica, e sua segurança e eficácia são validadas por estudos e órgãos reguladores, como a Anvisa no Brasil. Cada imunizante possui um propósito e indicação específicos. (3)\n\nFontes: \n\n(1) - Organização Mundial da Saúde (https://www.who.int/pt/news-room/feature-stories/detail/how-do-vaccines-work)\n(2) - Conselho Federal de Enfermagem (https://www.cofen.gov.br/entenda-como-funciona-a-vacina-contra-dengue-ofertada-pelo-sus/)\n(3) - Governo Federal (https://www.gov.br/saude/pt-br/assuntos/saude-com-ciencia/noticias/2024/abril/atencao-as-vacinas-contra-a-dengue-sao-seguras-e-efetivas)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

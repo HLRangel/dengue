@@ -1,0 +1,148 @@
+{
+  "id": "9f84e574-3b0a-4909-9916-e9bc7896b887",
+  "name": "dengue_ivermectina",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "77d596e2-caac-4dd0-82a7-b22f8115af37",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7e91a0aa-f52e-4cd1-a1cc-58f0b016c45e",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e02ef6da-d839-49bf-9d66-460c0b14dea3",
+          "name": "person1",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e4864735-7331-49db-b74a-b4be083c1dc3",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "779fee6d-02d1-41f7-b6bb-2df8ad1682e9",
+          "name": "location1",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "69ff6967-1b5d-4940-81fc-90c998cd72d9",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b47bad33-f27c-4c05-b960-55a96000a3b8",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "167484ed-ed98-4daa-af3a-17e227bddca2",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Não. A ivermectina é um antiparasitário, e sua eficácia no tratamento ou prevenção da dengue não é comprovada. Nenhum efeito positivo já foi observado no uso da ivermectina para o tratamento da dengue. (1)\n\nÉ importante ressaltar que o uso indevido da ivermectina pode resultar  em dificuldades no movimento, axilas doloridas, inchaço, dores no peito, friagem, tosse, tontura, febre, entre outros sintomas. (2)\n\nFontes: \n\n(1) - Governo Federal (https://www.gov.br/saude/pt-br/assuntos/saude-com-ciencia/noticias/2024/fevereiro/e-boato-ivermectina-nao-e-eficaz-no-combate-a-dengue)\n\n(2) - Mayo Clinic (https://www.mayoclinic.org/drugs-supplements/ivermectin-oral-route/description/drg-20064397#drug-side-effects)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

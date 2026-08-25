@@ -1,0 +1,175 @@
+[
+  {
+    "id": "26025a9b-f72f-444c-9473-86c595c6c5a6",
+    "data": [
+      {
+        "text": "O Aedes aegypti fica na ",
+        "userDefined": false
+      },
+      {
+        "text": "água",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " corrente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "58038b5f-7de0-4ec8-afc4-862ad9e1dc45",
+    "data": [
+      {
+        "text": "O mosquito fica na ",
+        "userDefined": false
+      },
+      {
+        "text": "água",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " corrente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9971919d-6a5b-44e7-b620-12bcdcc27c64",
+    "data": [
+      {
+        "text": "Tem mosquito da dengue em aquífero?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6f5fd0b5-c2f0-4e2d-a5dc-c25d588f2cbc",
+    "data": [
+      {
+        "text": "Tem mosquito da dengue em corpo de ",
+        "userDefined": false
+      },
+      {
+        "text": "água",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " fluvial?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6323f21b-c0a2-43cf-b1be-9d035ca62c4e",
+    "data": [
+      {
+        "text": "Tem mosquito da dengue no ",
+        "userDefined": false
+      },
+      {
+        "text": "rio",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a7fc123a-81d5-4c49-96db-86574da2038b",
+    "data": [
+      {
+        "text": "Tem mosquito em córrego?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3b9c1420-58a9-429a-9309-d01f5eb94f46",
+    "data": [
+      {
+        "text": "O mosquito da dengue existe na ",
+        "userDefined": false
+      },
+      {
+        "text": "água",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " corrente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Vi ",
+        "userDefined": false
+      },
+      {
+        "text": "agua",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " corrente, o mosquito da dengue ta ",
+        "userDefined": false
+      },
+      {
+        "text": "ali",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "id": "3bb479f0-df50-476d-88f7-8196317165f3",
+    "data": [
+      {
+        "text": "Caso eu seja picado por ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " Aedes, vou desenvolver a doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9156df3c-62a1-4215-bb9a-c8e9c7479a6e",
+    "data": [
+      {
+        "text": "Se o mosquito me picou, vou ter dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3fbb3151-b8a7-476d-9df0-95d8c94f53aa",
+    "data": [
+      {
+        "text": "Se eu for picada pelo mosquito da dengue, é certeza que peguei a doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f49fe1f9-6987-414b-ae57-2b30fcfe1639",
+    "data": [
+      {
+        "text": "Toda picada de mosquito pode ser dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

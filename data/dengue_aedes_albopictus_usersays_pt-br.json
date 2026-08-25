@@ -1,0 +1,67 @@
+[
+  {
+    "id": "f7633b10-7ca0-4735-9b05-4912377f273c",
+    "data": [
+      {
+        "text": "E o outro Aedes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0113f6e6-45a5-4911-9138-c2f832683d04",
+    "data": [
+      {
+        "text": "E o Aedes albopictus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "72e4f4e0-d6c4-4ef8-a598-6f6b282e4b58",
+    "data": [
+      {
+        "text": "A dengue é transmitida pelo Aedes albopictus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9ef6938d-bfa9-476b-8ee1-0d73e9fb600e",
+    "data": [
+      {
+        "text": "É verdade que ja encontraram aedes albopictus selvagem contaminado pelo virus da dengue naturalmente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d2cbb7e1-d930-45cd-b2ca-f884fc4e584d",
+    "data": [
+      {
+        "text": "Existe algum outro vetor que transmite a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

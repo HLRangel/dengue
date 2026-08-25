@@ -1,0 +1,92 @@
+{
+  "id": "9c869482-73ef-4394-ae13-bf16be2f2d2c",
+  "name": "dengue_anoquesurgiu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9f64e522-f9c7-49bc-8368-80d5077e4510",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e5f2c960-9c36-4780-bdfc-57bad5804cd2",
+          "name": "date",
+          "required": false,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "216ea24e-af95-4535-b069-b623fd6285bd",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "08fb5367-1e56-4f0b-8f55-d544a224b66d",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "No final do século XVIII, os primeiros registros relacionados à epidemias de dengue foram realizados na Ásia, Africa, e América do Norte, com uma possível epidemia sendo registrada em torno do século IV. (1)\n\nA primeira epidemia de dengue no Brasil foi registrada em 1982, na cidade de Boa Vista, no estado do Roraima. (2)\n\nFontes:\n\n(1) - Revista Brasileira de Análises Clínicas (https://www.rbac.org.br/artigos/dengue-e-seus-avancos/)\n\n(2) - Ministério da Saúde  (https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

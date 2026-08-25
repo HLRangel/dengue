@@ -1,0 +1,64 @@
+{
+  "id": "b60ad018-90b3-44d3-9336-fcc0e5acf5ba",
+  "name": "dengue_picada",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fb97c14f-798d-48ef-a816-3233c0c8a726",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "65340971-4bd2-4c3b-b37b-4aa29920ac9f",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O mosquito Aedes aegypti, transmissor da dengue, geralmente pica pernas, tornozelos e pés. Suas picadas são indolores e não causam coceira, devido às substâncias anestésicas e anticoagulantes em sua saliva. Embora seja mais ativo durante o dia, especialmente no início da manhã e no final da tarde, pode picar à noite. A picada não deixa sinais evidentes na pele, como ocorre com outros mosquitos. Portanto, é crucial estar atento a sintomas como febre alta, dor de cabeça, dores musculares e articulares, náusea ou vômito, que podem indicar dengue. \n\nFonte: Tua Saúde (https://www.tuasaude.com/como-identificar-o-mosquito-da-dengue/)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

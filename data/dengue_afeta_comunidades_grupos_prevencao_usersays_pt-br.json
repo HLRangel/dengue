@@ -1,0 +1,170 @@
+[
+  {
+    "id": "3e3cabde-1db9-4314-8596-2a0eb08be8c4",
+    "data": [
+      {
+        "text": "A responsabilidade individual é o suficiente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2194c7ff-7cc9-4017-91ed-922f81016d3f",
+    "data": [
+      {
+        "text": "A prevenção é responsabilidade de quem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a25cfc3a-b134-4579-9205-f865929239e2",
+    "data": [
+      {
+        "text": "Quem responde pela dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a0fe6695-6aa8-4061-aa9f-db449c7d74bd",
+    "data": [
+      {
+        "text": "Quem é responsável pela prevenção da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3196ddd2-c998-4e1b-838b-87872c0b39a5",
+    "data": [
+      {
+        "text": "A dengue é ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " responsabilidade coletiva?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "50608afc-a607-43bf-adb6-64d752ea1c18",
+    "data": [
+      {
+        "text": "Como que a dengue afeta as comunidades?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bf5ce271-3386-4cbb-b9a9-d2dcb99ae50f",
+    "data": [
+      {
+        "text": "Como a dengue afeta comunidades em diferentes regiões ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " país?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "03b3c1ed-1570-494d-824e-ba16051f0c43",
+    "data": [
+      {
+        "text": "Qual ",
+        "userDefined": false
+      },
+      {
+        "text": "o papel",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " da comunidade no combate à doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "O que fazer se meu vizinho não limpa ",
+        "userDefined": false
+      },
+      {
+        "text": "o quintal",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como ajudar a comunidade a evitar a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

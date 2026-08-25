@@ -1,0 +1,247 @@
+[
+  {
+    "id": "b30c6eba-1d52-47b5-9706-2fdc3229f62a",
+    "data": [
+      {
+        "text": "E se eu usar ",
+        "userDefined": false
+      },
+      {
+        "text": "roupa",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a6b63cf6-d753-4274-bb84-d8bf212b836b",
+    "data": [
+      {
+        "text": "Se usar ",
+        "userDefined": false
+      },
+      {
+        "text": "roupa",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " estou de ",
+        "userDefined": false
+      },
+      {
+        "text": "bem",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "26ac9643-4666-4481-a27b-9060d05dd5c9",
+    "data": [
+      {
+        "text": "Minha roupa me protege",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e146c024-c1e3-4bfa-a171-4d683043c655",
+    "data": [
+      {
+        "text": "Minha camisa ",
+        "userDefined": false
+      },
+      {
+        "text": "me protege",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c9789f9b-b4f4-4c86-b697-34267ad85a1e",
+    "data": [
+      {
+        "text": "Estou protegido se usar camisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bb1958e9-390d-4840-962c-eb2ecb5c4b65",
+    "data": [
+      {
+        "text": "O aedes pica por cima da ",
+        "userDefined": false
+      },
+      {
+        "text": "roupa",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fbaac258-42ed-4386-8e64-c614d4a545da",
+    "data": [
+      {
+        "text": "O mosquito pica por cima da ",
+        "userDefined": false
+      },
+      {
+        "text": "roupa",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Se eu usar ",
+        "userDefined": false
+      },
+      {
+        "text": "roupa",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": ", tem menor chance de ser picado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "O mosquito da dengue pica por cima da ",
+        "userDefined": false
+      },
+      {
+        "text": "roupa",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "O inseto pica pela ",
+        "userDefined": false
+      },
+      {
+        "text": "roupa",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Qual ",
+        "userDefined": false
+      },
+      {
+        "text": "roupa",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ajuda a evitar picadas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

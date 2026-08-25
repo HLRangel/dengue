@@ -1,0 +1,35 @@
+{
+  "id": "e3068377-6485-4719-a6eb-f80d8bbb25ba",
+  "name": "dengue_filariose",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Filariose Linfática (Elefantíase) é uma doença parasitária crônica, reconhecida como uma das principais causas globais de incapacidades permanentes ou de longo prazo. É causada pelo verme nematódeo Wuchereria bancrofti e transmitida pela picada do mosquito Culex quinquefasciatus (conhecido como pernilongo doméstico ou \"muriçoca\") infectado com larvas do parasita. Entre as manifestações clínicas mais relevantes da filariose linfática estão edemas graves (acúmulo anormal de líquido) em membros, mamas e bolsa escrotal, que podem resultar em deformidades permanentes e incapacidade.\n\nfonte: Governo Federal (https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/f/elefantiase)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

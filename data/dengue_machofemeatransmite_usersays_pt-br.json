@@ -1,0 +1,291 @@
+[
+  {
+    "id": "89e5b872-3447-402b-9a68-56858e0f5f84",
+    "data": [
+      {
+        "text": "E as fêmeas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e2051c73-9c21-418f-9545-01d89868ba22",
+    "data": [
+      {
+        "text": "Somente as fêmeas transmitem dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a375a444-25f5-4b8a-be2b-e3db7a78ac7a",
+    "data": [
+      {
+        "text": "Fêmeas ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " Aedes albopictus e Aedes aegypti transmitem dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d13bd455-a178-43b2-a62b-5317bd5cb285",
+    "data": [
+      {
+        "text": "Fêmeas transmitem dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "54b68e71-6684-4ede-97d9-616be1c4222a",
+    "data": [
+      {
+        "text": "Fêmeas transmitem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "01509632-f6cd-423e-bc8c-e5c179f3aed4",
+    "data": [
+      {
+        "text": "Machos transmitem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bdc5dacf-bb58-4047-9ceb-8949bb66aabb",
+    "data": [
+      {
+        "text": "Só machos transmitem dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6cda3da6-b6e4-4ce4-a7c3-93bbb2b6597f",
+    "data": [
+      {
+        "text": "E a transmissão por macho?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4415944e-54d5-4df7-8b32-517656de71b6",
+    "data": [
+      {
+        "text": "Machos transmitem dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9f122f64-a8bf-484d-ae2b-ccc6f1c87cd5",
+    "data": [
+      {
+        "text": "O macho transmite dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3539d96b-4df7-4095-96fc-5b61fcd04430",
+    "data": [
+      {
+        "text": "O macho transmite o vírus da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f92ea353-76cd-4b38-ad38-5e7e2a941acc",
+    "data": [
+      {
+        "text": "Tanto os machos quanto as fêmeas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "54070d63-a9ff-404a-97b0-1701479bece0",
+    "data": [
+      {
+        "text": "Tanto os mosquitos machos quanto os mosquitos fêmea podem transmitir dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bd6f5471-bf13-4de8-b854-a7a8917f5c72",
+    "data": [
+      {
+        "text": "São as fêmeas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3199b4f4-8c3e-4c43-99e0-b914f0b55e77",
+    "data": [
+      {
+        "text": "A femea infectada se alimenta mais que a femea não infectada?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ee254fbb-46d3-4a8b-9349-927eb3b2f0e4",
+    "data": [
+      {
+        "text": "É só a femea que transmite dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f4e21ce2-cf7f-4035-a6b2-88dc797375d8",
+    "data": [
+      {
+        "text": "E quanto a femea consegue consumir de sangue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "O mosquito macho tem diferença da femea em tamanho?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "O mosquito macho tem diferença da femea em cor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Se o macho não pica, ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " que ele se alimenta?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "A picada da femea é a unica forma de contrair a doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

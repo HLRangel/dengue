@@ -1,0 +1,96 @@
+[
+  {
+    "id": "0cb2c7f4-1bc1-4990-9043-c0f3c78edf31",
+    "data": [
+      {
+        "text": "Posso pegar dengue nadando no ovo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c26bfcdd-2c9c-4379-bf8e-169c3bd74d21",
+    "data": [
+      {
+        "text": "Se eu entrar no criadouro, eu pego dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "159844d3-21fb-436d-a0d5-1b95bf20f58b",
+    "data": [
+      {
+        "text": "Se eu nadar no criadouro, eu pego dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f1ae27f9-9ab0-463b-8beb-0ef139179ac5",
+    "data": [
+      {
+        "text": "Eu posso ser infectado com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue nadando entre os ovos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0d335688-4ae3-4bbf-a57c-9fb7ce325e34",
+    "data": [
+      {
+        "text": "Eu pego dengue se nadar entre as larvas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "de15d2ba-cf53-4a67-9515-5ce30d1d9908",
+    "data": [
+      {
+        "text": "Se eu nadar ao ",
+        "userDefined": false
+      },
+      {
+        "text": "meio",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " das larvas, pego dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

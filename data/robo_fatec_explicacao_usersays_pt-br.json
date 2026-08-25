@@ -1,0 +1,212 @@
+[
+  {
+    "id": "d01f9d6b-3968-4f15-b86b-40ef7c65e33f",
+    "data": [
+      {
+        "text": "Qual instituição criou o bot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cb9edc51-a99a-4d7e-8988-e85f3ff3a0f3",
+    "data": [
+      {
+        "text": "A Fatec",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " é ",
+        "userDefined": false
+      },
+      {
+        "text": "a Faculdade",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " de Tecnologia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "71d71223-929e-453c-9293-9c4ee04812c3",
+    "data": [
+      {
+        "text": "Em que localização ",
+        "userDefined": false
+      },
+      {
+        "text": "se",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " encontra ",
+        "userDefined": false
+      },
+      {
+        "text": "a Fatec",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cc770383-4278-436e-8658-06068e81cbe3",
+    "data": [
+      {
+        "text": "Onde fica ",
+        "userDefined": false
+      },
+      {
+        "text": "a Fatec",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "05417b93-0668-4e80-b08e-1d768cd87084",
+    "data": [
+      {
+        "text": "O que é ",
+        "userDefined": false
+      },
+      {
+        "text": "a Fatec",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ea890630-78ee-4d69-a2f1-4f0ada620fd7",
+    "data": [
+      {
+        "text": "Onde fica ",
+        "userDefined": false
+      },
+      {
+        "text": "a fatec",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "23353b22-dbff-4f4e-91b3-dfed0eccc62e",
+    "data": [
+      {
+        "text": "Onde está ",
+        "userDefined": false
+      },
+      {
+        "text": "a fatec",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b39f7eb5-b2e3-42a0-81b4-7425f2e4bb08",
+    "data": [
+      {
+        "text": "Localização da ",
+        "userDefined": false
+      },
+      {
+        "text": "fatec",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Qual o intuito desse bot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Qual o propósito desse bot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

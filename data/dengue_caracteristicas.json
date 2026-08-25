@@ -1,0 +1,64 @@
+{
+  "id": "c1e32407-de37-4f73-beff-d3097826941d",
+  "name": "dengue_caracteristicas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c150701c-c092-4790-9943-e1686dc78002",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7b6fa891-a09c-410b-9473-567a5584a0fd",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Enquanto o Aedes aegypti, principal transmissor da dengue, possui um corpo preto com listras brancas e mede entre 5 e 7 milímetros, o pernilongo (Culex quinquefasciatus) tem uma coloração uniforme marrom e é ainda menor, não ultrapassando os 4 milímetros.\n\nComo destacado pela Agência Brasil, o horário também pode ser um indicativo para identificar esses insetos. O mosquito transmissor da dengue age de forma silenciosa e costuma estar mais ativo entre 9h e 13h — embora isso não signifique que ele não possa picar em outros horários.\n\nJá o Culex entra em cena principalmente à noite, a partir das 18h, com seu característico zumbido e voo lento. Suas picadas geralmente deixam inchaços avermelhados que causam muita coceira. Em contraste, a picada do Aedes aegypti normalmente não coça nem deixa marcas visíveis.\n\nFonte: GloboRural (https://globorural.globo.com/vida-na-fazenda/noticia/2023/06/pernilongo-x-mosquito-da-dengue-qual-e-a-diferenca-e-como-se-proteger.ghtml)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

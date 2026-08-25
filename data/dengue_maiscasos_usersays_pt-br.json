@@ -1,0 +1,332 @@
+[
+  {
+    "id": "5b6c80e0-2515-498e-8197-c176639900ac",
+    "data": [
+      {
+        "text": "Que estado tem + dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "09393eea-dd4e-4461-88e8-06cada27e022",
+    "data": [
+      {
+        "text": "Qual é o estado c/ mais análises + graves “da dengue”?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "24fcde02-676a-457d-94c2-b767b7b10b45",
+    "data": [
+      {
+        "text": "O estado + acometido + agravos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "490c11bb-bb62-42d8-9b44-721b1f45a30e",
+    "data": [
+      {
+        "text": "Em qual estado a situação de dengue é + grave?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3e79f95a-a869-44f9-aa8e-cde1716eb6c9",
+    "data": [
+      {
+        "text": "A dengue está mais ",
+        "userDefined": false
+      },
+      {
+        "text": "presente",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " em qual estado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c930ef28-e350-4c2d-912c-70d3221d1b83",
+    "data": [
+      {
+        "text": "Que estado tem mais casos de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5b1ff13c-7e73-4032-9072-78078942ade7",
+    "data": [
+      {
+        "text": "A dengue acomete mais qual estado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "61be13a7-df92-4d1d-9084-0fba9f1987df",
+    "data": [
+      {
+        "text": "O estado mais acometido pela dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a4434396-a549-4e21-af55-994f2c519cfa",
+    "data": [
+      {
+        "text": "O estado com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " mais casos é?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f8765350-0148-48b6-976d-42f87c8a05bd",
+    "data": [
+      {
+        "text": "Qual é o estado com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " mais casos de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7fa935d8-459b-4455-8a0f-e4a1a8794002",
+    "data": [
+      {
+        "text": "Quantas pessoas já foram diagnosticadas com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6e9493fe-1f8f-4e90-abbd-87d1175c4155",
+    "data": [
+      {
+        "text": "Quais regiões do Brasil mais sofrem com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cf472614-348e-4bda-a8bd-04a4cbaef960",
+    "data": [
+      {
+        "text": "Quantas pessoas foram infectadas com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "em 2024",
+        "meta": "@sys.flight-number",
+        "alias": "flight-number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3151a869-4b3e-4e6c-bd5f-288beeaa1bb7",
+    "data": [
+      {
+        "text": "Qual ",
+        "userDefined": false
+      },
+      {
+        "text": "o lugar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " que tem mais dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quantas pessoas morrem de dengue por ",
+        "userDefined": false
+      },
+      {
+        "text": "ano",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Existem casos de dengue muito pesados?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quantos casos de dengue já aconteceram no ",
+        "userDefined": false
+      },
+      {
+        "text": "Brasil",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quantas mortes tem ",
+        "userDefined": false
+      },
+      {
+        "text": "o estado",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "São Paulo",
+        "meta": "@sys.location",
+        "alias": "location1",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

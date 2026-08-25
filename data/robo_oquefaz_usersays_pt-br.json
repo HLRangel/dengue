@@ -1,0 +1,248 @@
+[
+  {
+    "id": "08895d7d-c624-4971-ab10-4cebdbb9349b",
+    "data": [
+      {
+        "text": "Para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " que você fala?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2f0bd1ce-4758-4a6a-8347-56358da4361e",
+    "data": [
+      {
+        "text": "Pra que você serve?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7235ef8d-82ed-4014-b394-04d3b39bf54c",
+    "data": [
+      {
+        "text": "Você fala sobre o quê?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f2dec18-1f5c-4113-bdb9-5208b68cf273",
+    "data": [
+      {
+        "text": "Te configuraram ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " que?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bebbb620-f79f-4b45-a636-f10b5ac9bfea",
+    "data": [
+      {
+        "text": "Para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " que te configuraram?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ea4f0134-ccb2-4486-8845-88c95093b79d",
+    "data": [
+      {
+        "text": "Te programaram pra fazer o que?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f1a9e34-73dc-4d10-8bec-7d0d0634bbc5",
+    "data": [
+      {
+        "text": "Pra que te programaram?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "279bcd2e-7738-4024-96e3-9e70f3ed43de",
+    "data": [
+      {
+        "text": "O que você faz, exatamente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ca46e9d3-3cb3-42e7-8b55-3f6382251a7c",
+    "data": [
+      {
+        "text": "Você tem capacidade de fazer o que?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b4a3f3bc-7874-4a5d-9d1f-ab1ea02b3447",
+    "data": [
+      {
+        "text": "O que você consegue fazer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fb889490-cad5-4bb6-858d-fbd1127b5b30",
+    "data": [
+      {
+        "text": "O que você faz?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "386a3956-f66c-4e31-97a1-005b3b13fb8b",
+    "data": [
+      {
+        "text": "O que tu faz?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b2a315c4-61ed-45cf-9660-26badcc84e3a",
+    "data": [
+      {
+        "text": "Tu fazes o quê?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "de57c131-18ab-4e45-a2fb-8839e07be3f4",
+    "data": [
+      {
+        "text": "O que você pode fazer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Você fala sobre o que?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " que você serve?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Qual é o seu propósito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

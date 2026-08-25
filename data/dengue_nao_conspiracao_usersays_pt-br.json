@@ -1,0 +1,1334 @@
+[
+  {
+    "id": "54f69b7e-72ab-4009-94b6-b4a0bf7ea4f4",
+    "data": [
+      {
+        "text": "Tem pessoas que não acreditam em dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "47c69d9e-3569-47d4-ae81-1b0f29a2da73",
+    "data": [
+      {
+        "text": "alexandre de ",
+        "userDefined": false
+      },
+      {
+        "text": "moraes",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d323bb8d-e8ff-4bda-a4a0-ef457e0f25b6",
+    "data": [
+      {
+        "text": "A ditadura ",
+        "userDefined": false
+      },
+      {
+        "text": "militar",
+        "meta": "@sys.music-genre",
+        "alias": "music-genre",
+        "userDefined": false
+      },
+      {
+        "text": " inventou a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "44b30e84-58bc-4b4c-b306-8ee10e7a886e",
+    "data": [
+      {
+        "text": "O ",
+        "userDefined": false
+      },
+      {
+        "text": "Fernando Henrique",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " inventou a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ec573487-86f0-449d-88cf-b3828e91f5d8",
+    "data": [
+      {
+        "text": "O ",
+        "userDefined": false
+      },
+      {
+        "text": "FHC",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " inventou a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ec91edc3-6123-481a-848d-879fabac47a3",
+    "data": [
+      {
+        "text": "O ",
+        "userDefined": false
+      },
+      {
+        "text": "Collor",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " inventou a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d5c989e3-1036-4fc2-88d3-1fe0b21b00c6",
+    "data": [
+      {
+        "text": "O ",
+        "userDefined": false
+      },
+      {
+        "text": "Bolsonaro",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " inventou a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cf56642a-fe57-4852-8bb2-72ddff2a29ce",
+    "data": [
+      {
+        "text": "O ",
+        "userDefined": false
+      },
+      {
+        "text": "Lula",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " inventou a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "261098b0-de55-4fa2-9185-8f5e45b88000",
+    "data": [
+      {
+        "text": "A ",
+        "userDefined": false
+      },
+      {
+        "text": "Dilma",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " inventou a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e6833579-4b85-4b24-a6aa-909cc5ccbaf9",
+    "data": [
+      {
+        "text": "A dengue é usada ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " controlar a população humana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "467fcc06-91c5-4838-8cab-f4f2f541a65b",
+    "data": [
+      {
+        "text": "A dengue é fruto ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " conspiração internacional ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " controlar a população ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " países ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "terceiro",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8f9a7309-66a0-4677-9d11-1420ce5a8461",
+    "data": [
+      {
+        "text": "alexandre de ",
+        "userDefined": false
+      },
+      {
+        "text": "moraes",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " vulgo ",
+        "userDefined": false
+      },
+      {
+        "text": "xandao",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0ebeb504-74a3-4720-ad02-47929a161ddd",
+    "data": [
+      {
+        "text": "xandao",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "56a01c3b-d298-45fe-be9e-f1ac85caddde",
+    "data": [
+      {
+        "text": "xandao",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "79d2f9f4-378b-4627-85c0-89a45043b36d",
+    "data": [
+      {
+        "text": "o alexandre de ",
+        "userDefined": false
+      },
+      {
+        "text": "moraes",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " gosta da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "68161375-51a5-4c04-8a7f-ba24cc9b4775",
+    "data": [
+      {
+        "text": "A dengue foi ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " arma criada em ",
+        "userDefined": false
+      },
+      {
+        "text": "um laboratório",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " secreto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9643b4d6-6c81-46f8-bd6d-1f64f4b38f05",
+    "data": [
+      {
+        "text": "A dengue provém de criação humana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b9849372-d8e4-4430-a9a4-72116a768deb",
+    "data": [
+      {
+        "text": "Os ",
+        "userDefined": false
+      },
+      {
+        "text": "americanos",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " inventaram a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "01fda3f0-0d25-4fb5-9787-1ec62ca362ee",
+    "data": [
+      {
+        "text": "Os ",
+        "userDefined": false
+      },
+      {
+        "text": "russos",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " inventaram a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "35fabda1-9e7d-4dea-aab6-ac523850ab58",
+    "data": [
+      {
+        "text": "Os ",
+        "userDefined": false
+      },
+      {
+        "text": "chineses",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " inventaram a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c2ff21bc-b7dc-4560-9dea-5116df50b0ff",
+    "data": [
+      {
+        "text": "Os comunistas inventaram a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1cbfdacd-ebbb-45f6-9d95-bba5761b3069",
+    "data": [
+      {
+        "text": "Cuba",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " inventou a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "25202558-d8f8-4d19-b6c0-06b6ed2356d6",
+    "data": [
+      {
+        "text": "A União Soviética",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " inventou a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "28a8a1f3-c671-4cd2-aeb2-fb1223afe1ab",
+    "data": [
+      {
+        "text": "A URSS",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " inventou a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d48fba43-bd2b-4f7a-83dc-14824a006564",
+    "data": [
+      {
+        "text": "A América",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " inventou a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "20eda77e-aeb0-499c-a053-4182372fa91c",
+    "data": [
+      {
+        "text": "Os ",
+        "userDefined": false
+      },
+      {
+        "text": "Estados Unidos",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " inventaram a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bfe6993a-4e6a-4f4e-bfca-5bb9ec41ebed",
+    "data": [
+      {
+        "text": "A dengue vem ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " bioterrorismo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c03f005f-ce82-4286-86e9-cf6ff24a5ce8",
+    "data": [
+      {
+        "text": "A dengue é ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " bioarma?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f9a6031c-6091-4082-aea9-6e3a4e8a6f3c",
+    "data": [
+      {
+        "text": "A dengue foi inventada em ",
+        "userDefined": false
+      },
+      {
+        "text": "um laboratório",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "779053f2-a2d5-4213-bd09-b3456b18556b",
+    "data": [
+      {
+        "text": "A dengue vem de ",
+        "userDefined": false
+      },
+      {
+        "text": "um laboratório",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e733b9b5-e14c-49cf-bf2c-3622ec2470ed",
+    "data": [
+      {
+        "text": "A dengue foi inventada pelo ser humano?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "13a5c81b-d6db-4ace-9d57-f4b769d4cad9",
+    "data": [
+      {
+        "text": "A dengue é ",
+        "userDefined": false
+      },
+      {
+        "text": "real",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bff70699-5366-48ac-9286-de610e04eeac",
+    "data": [
+      {
+        "text": "Comunismo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 13,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6e5c2990-ae16-4982-b618-f8bddc004b9f",
+    "data": [
+      {
+        "text": "Comunista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 27,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "842cb976-0018-4634-87a9-ba19c4650621",
+    "data": [
+      {
+        "text": "Bolsonaro",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 39,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "029b7fcd-07da-4598-a50a-32cc43d02820",
+    "data": [
+      {
+        "text": "Lula",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 34,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b42c17e3-fd9c-40aa-b1b6-246548a2baf8",
+    "data": [
+      {
+        "text": "Bolsonaro",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "lula",
+        "meta": "@sys.last-name",
+        "alias": "last-name1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d0546ea1-967b-4156-9856-af8c7500e5b7",
+    "data": [
+      {
+        "text": "Lula",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " ladrão",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 20,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "07d154f1-04c6-43f4-927a-a646f71d62aa",
+    "data": [
+      {
+        "text": "Bolsonaro",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "lula",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 19,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a2742c10-96ce-4ab3-94e8-2cc4dcbc2404",
+    "data": [
+      {
+        "text": "Lula",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " ladrão roubou meu coração",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 17,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "da6593eb-d1e6-4ce3-a994-be72f38ec6e6",
+    "data": [
+      {
+        "text": "Bolsonaro",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " preso ",
+        "userDefined": false
+      },
+      {
+        "text": "amanhã",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 8,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "342672f3-3c49-4324-9a45-8e7f892a8f6a",
+    "data": [
+      {
+        "text": "Lula",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ama a",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 7,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e1a426fe-e5ae-4f56-b21f-5edeff54fae3",
+    "data": [
+      {
+        "text": "Bolsonaro",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " fez a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 7,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f611b234-d142-4f51-b385-1bd2df7e1ebe",
+    "data": [
+      {
+        "text": "Bolsonaro",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " vai ser preso?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "72574e13-ee28-4172-8925-7d8145a4c963",
+    "data": [
+      {
+        "text": "Lula",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f906b55e-3693-4b00-a38b-9b5d8aab7180",
+    "data": [
+      {
+        "text": "Por",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " quantos ",
+        "userDefined": false
+      },
+      {
+        "text": "anos",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " o ",
+        "userDefined": false
+      },
+      {
+        "text": "bolsonaro",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " vai ser preso?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e28df0f4-6fc5-4870-b585-2c9b3a1ef5b6",
+    "data": [
+      {
+        "text": "Xandão",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "034a7a59-0c3e-42c1-84fb-300354508469",
+    "data": [
+      {
+        "text": "Stalin",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cec3e26d-4e6d-4ce3-baf3-612f60a64117",
+    "data": [
+      {
+        "text": "Alexandre de ",
+        "userDefined": false
+      },
+      {
+        "text": "Morais",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b3f6c2ba-adfc-40b4-93c6-b5629c9ae5fc",
+    "data": [
+      {
+        "text": "Lenin",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3909311b-2ff6-4c44-b275-4a7e8c93558a",
+    "data": [
+      {
+        "text": "União soviética",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "70ec0af0-2ada-4582-93cd-aca26378e725",
+    "data": [
+      {
+        "text": "Qual a relação entre Alexandre de ",
+        "userDefined": false
+      },
+      {
+        "text": "Morais",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " e o centrão na política ",
+        "userDefined": false
+      },
+      {
+        "text": "brasileira",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "79a354b8-8415-4482-afe9-64a289b3c2f6",
+    "data": [
+      {
+        "text": "Fake news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "75921fee-0f26-46fa-94c6-ab83783e5a6d",
+    "data": [
+      {
+        "text": "Dengue fake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f66696ff-708f-4f4e-af9c-50ee79542ce1",
+    "data": [
+      {
+        "text": "Quem criou a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8dbde593-e8c7-4da4-a4fc-2ac3bd348711",
+    "data": [
+      {
+        "text": "Tem criadouro artificial de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "A dengue é ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " arma biológica criada pela ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " comunista?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "A dengue é ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " arma comunista?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "O Vladimir ",
+        "userDefined": false
+      },
+      {
+        "text": "putin",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " criou a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "o ",
+        "userDefined": false
+      },
+      {
+        "text": "fhc",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " criou a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "A china",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " criou a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "A governo criou a dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " fazer controle populacional?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

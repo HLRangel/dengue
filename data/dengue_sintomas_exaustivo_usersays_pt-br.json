@@ -1,0 +1,1534 @@
+[
+  {
+    "id": "c11d1670-d928-4dbf-9019-3d5b194c2a42",
+    "data": [
+      {
+        "text": "Porque desidrata ficar com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b0111fa0-eea1-4d35-9804-f1244691feea",
+    "data": [
+      {
+        "text": "Qual órgão sofre mais com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2692bd66-5e0a-4538-883f-bdd9b8449cd8",
+    "data": [
+      {
+        "text": "Quais os sintomas da dengue mais conhecidos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e062bdbe-353f-45e2-9288-febf5bac5ee4",
+    "data": [
+      {
+        "text": "Se eu tiver com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue, vou sentir o que?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "eaf145c5-1b94-4fda-a6bf-fd89c319650b",
+    "data": [
+      {
+        "text": "Caso eu ",
+        "userDefined": false
+      },
+      {
+        "text": "pegue",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " a dengue, o que vou sentir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8f5424a1-da21-4835-98b2-e6f1f5708c7b",
+    "data": [
+      {
+        "text": "Se eu contrair dengue sinto o que?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b667236f-1d2e-421b-abc8-1a7cba049d42",
+    "data": [
+      {
+        "text": "Como a dengue faz a gente se sentir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8c259831-282d-4f28-8bf5-c8398bca3365",
+    "data": [
+      {
+        "text": "Quais ",
+        "userDefined": false
+      },
+      {
+        "text": "são",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " os sintomas que indicam a necessidade de procurar ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " médico?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d30d7801-84a7-445f-964c-44811fbb5934",
+    "data": [
+      {
+        "text": "Quais são os principais sintomas da dengue clássica?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "81c57fb4-e8cf-4918-bc8c-f27f5d9939a8",
+    "data": [
+      {
+        "text": "Como",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "é que eu sei se estou com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5a96e529-4661-4e80-8868-d0df5e26ab88",
+    "data": [
+      {
+        "text": "Como saber se estou com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f0998391-63d8-4c61-a9bc-74fa72d8d286",
+    "data": [
+      {
+        "text": "Como saber ",
+        "userDefined": false
+      },
+      {
+        "text": "se",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " os sintomas ",
+        "userDefined": false
+      },
+      {
+        "text": "são",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " de dengue ou de outra doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cff62249-8920-4c83-8a26-52b17c715006",
+    "data": [
+      {
+        "text": "Quais sintomas indicam a presença da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "394b2820-a5f8-41e3-88b2-3e0fa981f8d5",
+    "data": [
+      {
+        "text": "Quais os sinais que indicam dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "eccc12f3-66df-4ef3-8ad0-6b502d93fa65",
+    "data": [
+      {
+        "text": "Quais são os principais sinais de alerta da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d39268f0-0650-4f4c-8677-41bf9b7308d3",
+    "data": [
+      {
+        "text": "Como o corpo reage à dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "47dc1b37-4ab4-4c12-90cc-aae61d9fc9e3",
+    "data": [
+      {
+        "text": "A dengue gera quais sintomas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2325b11f-86dd-4b16-9857-32c0bf10846a",
+    "data": [
+      {
+        "text": "A dengue faz o que?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1c385ef2-ad4a-4092-b0bd-eafaf7728a1f",
+    "data": [
+      {
+        "text": "Se estou com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue sinto o que?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2fdbf5df-2daf-40ee-958e-7b72b5f8e09b",
+    "data": [
+      {
+        "text": "Os sintomas gerais ",
+        "userDefined": false
+      },
+      {
+        "text": "da",
+        "meta": "@sys.unit-weight-name",
+        "alias": "unit-weight-name",
+        "userDefined": false
+      },
+      {
+        "text": " dengue são quais?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9872af27-0d24-464c-8fa0-ef5a10699836",
+    "data": [
+      {
+        "text": "Como identificar se é dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "08ec32f4-c932-4031-bfb1-bfdcccf7c559",
+    "data": [
+      {
+        "text": "Como descobrir se é dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "40e4a06f-5abf-4e59-bee0-c3a41d7f557f",
+    "data": [
+      {
+        "text": "Como identificar os sintomas da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e4c47b15-4061-430e-8ff7-798d8aa2b79f",
+    "data": [
+      {
+        "text": "Como a dengue se manifesta no corpo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "919d01df-a39f-4afc-8190-f2443967b6c0",
+    "data": [
+      {
+        "text": "Caso eu contraia dengue, sentirei o que?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c192c3db-79a4-4b33-bde5-cc16429fbd28",
+    "data": [
+      {
+        "text": "A dengue causa quais sintomas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5a824f16-6661-4ce5-a588-9a3210402fc8",
+    "data": [
+      {
+        "text": "Uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pessoa acometida por dengue sente o que?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f2ce906d-a65b-4d75-bf06-031689b3df8c",
+    "data": [
+      {
+        "text": "Quais são os principais sintomas da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7c09209f-27fd-42ca-a193-77a3bb0a2dc9",
+    "data": [
+      {
+        "text": "Quais os sintomas da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4b332ca9-0611-4fcb-80f3-c0b7248d6d75",
+    "data": [
+      {
+        "text": "E quais sintomas vou sentir se eu for acometido por dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7a38da86-2a40-4c14-bf35-3c0200f59419",
+    "data": [
+      {
+        "text": "O que sinto quando estou com dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a7d75cec-dd08-43de-b140-43b52e8b3e90",
+    "data": [
+      {
+        "text": "O que a pessoa sente quando está com dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2f3d09f6-2e4d-4a77-8a6d-c5b7208adfa5",
+    "data": [
+      {
+        "text": "Quais são os sintomas típicos da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5af36664-be9a-40c5-9981-640c562cff0f",
+    "data": [
+      {
+        "text": "Quais são os sintomas característicos da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "06b61c91-1cbc-4ac2-970f-0a81c483e7e6",
+    "data": [
+      {
+        "text": "A dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "faz mal",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "86a5d53d-4e74-4e37-9e80-102dae594999",
+    "data": [
+      {
+        "text": "O que a dengue causa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6b6f359a-862c-403f-a43e-7a22010fe59c",
+    "data": [
+      {
+        "text": "Quais são os sintomas da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5e8609c1-159a-4151-b429-fa153a489aa2",
+    "data": [
+      {
+        "text": "Dengue da ferida?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "651795dc-1384-49b5-a3f1-b0ff7dd74336",
+    "data": [
+      {
+        "text": "Dengue da tremedeira?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "af87459b-2e3a-4fb7-af15-913ba74df4be",
+    "data": [
+      {
+        "text": "Dengue da calafrio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5a947397-27bc-4b95-8928-14a2404b44b0",
+    "data": [
+      {
+        "text": "A dengue da muita coceira?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5976b5e9-321a-45ca-bf80-d137f7e7def3",
+    "data": [
+      {
+        "text": "Quantos dias a dengue permanece ativa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "da35b9ea-9c3f-41b0-b4b4-78fc40c6d254",
+    "data": [
+      {
+        "text": "Quanto tempo dura a dengue no organismo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "82830e03-be9f-4eab-9628-676cb089ca9e",
+    "data": [
+      {
+        "text": "Quais são os sinais de alerta da dengue grave?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "51117f83-9128-4ed4-9371-05725cb44437",
+    "data": [
+      {
+        "text": "dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fbc6846f-04b1-418c-a3af-84efde98b085",
+    "data": [
+      {
+        "text": "Quais são os sintomas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "21bfb0f1-016f-4c22-b712-546f4fd8e40c",
+    "data": [
+      {
+        "text": "Posso ficar ",
+        "userDefined": false
+      },
+      {
+        "text": "calvo",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " se pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 28,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f2fe3736-1d9a-4c28-8f1a-3d2b40b75fc9",
+    "data": [
+      {
+        "text": "Dengue da vermelhidão?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fd8f1621-a069-4b30-8050-194624a5347b",
+    "data": [
+      {
+        "text": "Como a dengue funciona no corpo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "db1af15a-d576-4ccc-9546-0aa473d03474",
+    "data": [
+      {
+        "text": "Dengue da tontura?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6d27c8d6-85ae-4241-a48a-31fa5f6cdbda",
+    "data": [
+      {
+        "text": "Denv da tontura?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b46bd4a1-e608-4ea6-9660-d19a88581084",
+    "data": [
+      {
+        "text": "Andei no ",
+        "userDefined": false
+      },
+      {
+        "text": "mato",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "to com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " umas manchas ",
+        "userDefined": false
+      },
+      {
+        "text": "vermelhas",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " que ",
+        "userDefined": false
+      },
+      {
+        "text": "doem",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " e diarreia, é dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6b0259c4-75dc-4201-b1d0-ac76d02d9191",
+    "data": [
+      {
+        "text": "O que acontece se eu pegar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7f76b016-a711-41ca-a67d-bba2a7d384af",
+    "data": [
+      {
+        "text": "Fui pro ",
+        "userDefined": false
+      },
+      {
+        "text": "mato",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "voltei com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " umas coceira e ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " região ",
+        "userDefined": false
+      },
+      {
+        "text": "vermelha",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " que doi, é dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "aac67921-e5bc-4e25-9a63-94cc6cb95cf4",
+    "data": [
+      {
+        "text": "Quais os sintomas da dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8bc7f173-80f2-4af7-9b74-a35b6578aeb1",
+    "data": [
+      {
+        "text": "Dengue causa febre?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "06e14505-3d76-451e-b4c5-ab11a6f065c0",
+    "data": [
+      {
+        "text": "Sinto dor ",
+        "userDefined": false
+      },
+      {
+        "text": "barriga e falta de ar estou com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue, é normal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "aebe2399-10e0-41e3-8eda-e7af4a5e59d5",
+    "data": [
+      {
+        "text": "É normal parecer ",
+        "userDefined": false
+      },
+      {
+        "text": "ingua no pescoço quando se ta com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ec059a10-7a16-47ea-adcb-5cdf011f7aa7",
+    "data": [
+      {
+        "text": "Que sintoma posso ter se tiver com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4831dd05-5f5d-48dc-ba3c-55899c4056f7",
+    "data": [
+      {
+        "text": "Qual órgão é mais acometido pela dengueM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "80e59b14-817d-4af8-8750-ee7c04293911",
+    "data": [
+      {
+        "text": "Como eu sei que estou com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "752980ae-1889-421e-b56b-17365d88da8c",
+    "data": [
+      {
+        "text": "Eu posso ficar ",
+        "userDefined": false
+      },
+      {
+        "text": "careca",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1450a1aa-d73c-4755-8915-b0a381e3f7ab",
+    "data": [
+      {
+        "text": "Pode dar vomito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "32c4cc1b-33d9-4854-8f66-c97bff9c3524",
+    "data": [
+      {
+        "text": "Quais os sintomas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1ff7ddae-a957-49fa-b759-eae9db4baaa4",
+    "data": [
+      {
+        "text": "Dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "20acc360-a1e7-489d-b041-af1453b73712",
+    "data": [
+      {
+        "text": "Quais ",
+        "userDefined": false
+      },
+      {
+        "text": "são",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " os sinais de alarme que indicam progressão ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " a dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "severa",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "08ff56cb-e4ca-48b7-a3d2-7583bc34777f",
+    "data": [
+      {
+        "text": "A dengue tem sequela?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e29c2746-a893-4283-a2a2-1f1e2359c8d1",
+    "data": [
+      {
+        "text": "Quais os sinais clinicos que indicam necessidade de internação hospitalar em casos de denv?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ad07ef9c-fbeb-4083-afa0-e3d708200d42",
+    "data": [
+      {
+        "text": "Que sequela a ",
+        "userDefined": false
+      },
+      {
+        "text": "denv",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " deixa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dbedaf24-88b9-468c-9443-8e2038344501",
+    "data": [
+      {
+        "text": "A denv deixa sequelado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b30e51ca-843e-4b88-b636-55ecb1887a32",
+    "data": [
+      {
+        "text": "A dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "incha",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " o saco?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f99fe8b4-8725-46bd-a4bb-884dbc7d2e3f",
+    "data": [
+      {
+        "text": "A dengue da diarreia?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "520a3749-d984-4c5d-8d6d-b3f6cebc4a6a",
+    "data": [
+      {
+        "text": "Caganeira é sintoma de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f32ff583-0b51-44ae-971d-6f97c9e721da",
+    "data": [
+      {
+        "text": "Dengue tira fome?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7f327d23-3d3a-4821-80c2-ee2be799bbe0",
+    "data": [
+      {
+        "text": "Dengue engorda?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d420412e-23f9-41fd-a6a0-4569f9165c23",
+    "data": [
+      {
+        "text": "Dengue da mais fome?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3ad29516-714e-4189-bc07-f268be005fe1",
+    "data": [
+      {
+        "text": "Dengue emagrece?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7b1cb547-7f52-4daf-9887-7dbd60cb1a7d",
+    "data": [
+      {
+        "text": "Dengue faz cair cabelo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6929279c-9d50-48e3-a9cc-5989f14aeb23",
+    "data": [
+      {
+        "text": "Dengue faz crescer mais cabelo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d054c8cb-e116-4825-ae6c-4a54b3725699",
+    "data": [
+      {
+        "text": "Dengue mexe com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " o estomago?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a4221ec2-df3b-4732-af6a-4ca568fbec1a",
+    "data": [
+      {
+        "text": "Dengue da caganeira?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "66741651-4272-4615-b574-cfbf42ef596f",
+    "data": [
+      {
+        "text": "Dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "solta",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " o intestino?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Qual órgão é mais afetado pela dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "A dengue faz vomitar sangue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Qual o pior sintoma transmitido pelo vírus da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Qual o sintoma ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " virus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Estou cansado, ",
+        "userDefined": false
+      },
+      {
+        "text": "será que estou com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quais são os sintomas principais?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 10,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quais são os sinais de alerta de complicações graves da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Estou com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dor de cabeça, quais os sintomas da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Estou sentindo dores, pode ser dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Meu corpo está doendo pode ser dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

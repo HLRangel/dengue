@@ -1,0 +1,64 @@
+{
+  "id": "826ad2dd-d8d6-4477-95c7-ec49c79ed7dd",
+  "name": "dengue_sus_politicas_publicas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b7f066ba-bd57-4ff4-b949-f16329d05bcc",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1f647b22-5f35-4557-95fa-01578a52207b",
+          "name": "music-artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$music-artist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O Sistema Único de Saúde (SUS) é extremamente importante no combate contra a dengue, com seu funcionamento sendo especialmente crucial nas áreas rurais do país. Políticas de saúde municipais servem como um auxílio ao combate unificado contra a doença.\n\nFonte: Governo Federal (https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

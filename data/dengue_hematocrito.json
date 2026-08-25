@@ -1,0 +1,148 @@
+{
+  "id": "01305328-bbf3-4476-8ff3-f4034911ea4f",
+  "name": "dengue_hematocrito",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d21fe48b-f06e-4ff0-91cd-af3a04614539",
+          "name": "music-artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$music-artist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f83412ac-d86d-4ae6-b3a3-33e693feee25",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8ebd28a2-3895-45bd-a5dd-cb9b3eefd1a8",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ce51423d-ff8c-4538-932b-c440812803bd",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "43073e5d-3050-4375-9feb-7ef86db07797",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0213c2de-9039-457c-8b42-f704d8505a7d",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "13fd5f5e-73c5-44f0-ab7d-d6063a7bb0b2",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "03f344df-1aae-4326-8d08-e3412b2b33c0",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O hematócrito nada mais é que um exame de sangue capaz de realizar a medição da porcentagem de glóbulos vermelhos no volume total de sangue, (1) destacando a trombocitopenia (queda das plaquetas) e alterações nos glóbulos brancos. O hematócrito, em especial, é crucial para avaliar a gravidade da doença, pois seu aumento (acima de 20% do valor basal) indica hemoconcentração, comum na dengue hemorrágica devido ao extravasamento plasmático. Monitorar o hematócrito auxilia na identificação de complicações, orientação da reposição de líquidos e acompanhamento da resposta ao tratamento, sendo um parâmetro fundamental para decisões clínicas. (2)\n\nO monitoramento do hematócrito permite:\n-Avaliar a gravidade da doença e o risco de complicações.\n- Orientar a reposição de líquidos em caso de desidratação.\n- Acompanhar a evolução e a resposta ao tratamento.\n-Em casos graves, o hematócrito é um indicador importante para decisões clínicas. (3)\n\nFontes: \n\n(1) - https://kasvi.com.br/hematocrito-exame-nossa-saude/\n(2) - Revista Brasileira de Análises Clínicas (https://www.rbac.org.br/artigos/avaliacao-de-parametros-hematologicos-na-dengue-uma-revisao/)\n(3) - LabVital (https://labvital.com.br/glossario/hemograma-e-dengue-como-o-exame-ajuda-no-diagnostico/)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

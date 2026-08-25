@@ -1,0 +1,92 @@
+[
+  {
+    "id": "18d1be9a-071b-4bed-85b0-eac2c67a2b8f",
+    "data": [
+      {
+        "text": "dengue e elefantíase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7bdf0a75-43bd-4aa6-8597-68b317fbb648",
+    "data": [
+      {
+        "text": "dengue e filariose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "016607c0-35b2-4cb8-8ce7-8a7c9bd2ee5c",
+    "data": [
+      {
+        "text": "tem como passar elefantíase ou filariose?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e7dc4340-7688-4b72-ae16-92bce2d2d336",
+    "data": [
+      {
+        "text": "o mosquito pode dar elefantíase ou filariose?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e1b6a627-9871-4caa-965c-99b1e8994020",
+    "data": [
+      {
+        "text": "elefantíase",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1bff7790-13cb-4321-8921-724f957443ba",
+    "data": [
+      {
+        "text": "filariose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Diferença de dengue e filariose?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

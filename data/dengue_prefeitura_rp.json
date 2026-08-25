@@ -1,0 +1,120 @@
+{
+  "id": "97a64d8c-2b31-42f5-9703-1b79aea9efca",
+  "name": "dengue_prefeitura_rp",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "16394ad1-e7b8-4e88-9170-c99f7506745f",
+          "name": "unit-length-name",
+          "required": false,
+          "dataType": "@sys.unit-length-name",
+          "value": "$unit-length-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "51de1108-865b-44f2-a479-f7a1203763d4",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "70e8331d-a9b4-46f6-80ec-25e93408e579",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ba584c91-753d-47b6-bf80-8e9e972385f9",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "20d9eed1-9f2f-423f-86e6-b227acee34d9",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2ed436d0-722e-422e-8951-480ac532336e",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Ribeirão Preto (SP) confirmou a primeira morte por dengue em 2025 e já registra 1.894 casos da doença. No ano anterior, segundo a Prefeitura, a cidade contabilizou 26 óbitos e 44.712 casos confirmados.(1)\n\n“O município enfrenta o início de uma epidemia de dengue, e é essencial que as secretarias trabalhem em conjunto para conter a proliferação do mosquito”, destacou o secretário de Saúde, Maurício Godinho.\n\n“O combate ao descarte irregular de lixo está diretamente relacionado à luta contra a dengue, pois muitos resíduos acumulam água, criando um ambiente propício para a proliferação do mosquito. Esse é um desafio que envolve diversas secretarias, e, por isso, adotaremos uma abordagem integrada: a Secretaria de Infraestrutura será responsável pela remoção de resíduos e manutenção da cidade, enquanto as equipes de Fiscalização e Meio Ambiente atuarão na autuação de infratores que cometerem esse crime ambiental”, explicou a secretária de Infraestrutura, Juliana Ogawa. (2)\n\nFontes: \n(1) - G1 (https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2025/02/12/ribeirao-preto-tem-primeira-morte-confirmada-por-dengue-e-mais-de-18-mil-casos-positivos.ghtml)\n\n(2) - Prefeitura Municipal de RP (https://www.ribeiraopreto.sp.gov.br/portal/noticia/secretarias-municipais-se-unem-para-intensificar-combate-a-dengue-em-ribeirao-preto)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

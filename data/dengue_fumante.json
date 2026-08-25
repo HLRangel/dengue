@@ -1,0 +1,35 @@
+{
+  "id": "7521a7de-10be-42f0-8526-dacffc05ace9",
+  "name": "dengue_fumante",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Fumantes e diabéticos que são infectados com a dengue se deparam com um risco elevado de sintomas graves. Também podem ser mais afetados pelas dores causadas pela doença.\n\nFonte: Globo (https://extra.globo.com/noticias/saude-e-ciencia/dengue/dengue-pode-causar-problemas-nos-olhos-fumantes-correm-mais-riscos-12166189.html)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

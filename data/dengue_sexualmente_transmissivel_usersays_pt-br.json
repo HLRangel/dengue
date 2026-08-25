@@ -1,0 +1,138 @@
+[
+  {
+    "id": "4bfc7da1-23f8-41d0-8f24-6e8f58de908d",
+    "data": [
+      {
+        "text": "Pega dengue na foda?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f95ac3ae-dbdd-44e1-88e3-c10ababf0c38",
+    "data": [
+      {
+        "text": "Dá pra pegar dengue durante o coito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "eeda417b-c736-4354-9ea6-ef3b6c1ed129",
+    "data": [
+      {
+        "text": "Pego dengue no sexo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "812f8865-a222-4a6e-8ad9-9e447ab09bec",
+    "data": [
+      {
+        "text": "Dengue é sexualmente transmissível?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "087be52b-ccf0-4168-a7f0-d95298ae1e00",
+    "data": [
+      {
+        "text": "Dengue é DST?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "13caa73f-44f4-4e90-b5a5-7a1d261ca900",
+    "data": [
+      {
+        "text": "Dengue transmite pelo sexo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Posso pegar dengue transando?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Se eu praticar o coito eu pego dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Dengue pode ser transmitida pelo ato sexual?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Se eu ",
+        "userDefined": false
+      },
+      {
+        "text": "fizer sexo e a pessoa tiver com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue, posso pegar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

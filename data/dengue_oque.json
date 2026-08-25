@@ -1,0 +1,36 @@
+{
+  "id": "27431cc3-e7af-47ac-b0e9-c85bc1bf5bdc",
+  "name": "dengue_oque",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A dengue é uma doença viral transmitida por mosquitos, principalmente pelo Aedes aegypti, que é comum em regiões tropicais e subtropicais ao redor do mundo, incluindo no Brasil. (1)",
+            "Trata-se de uma doença infecciosa transmitida principalmente pela fêmea do mosquito Aedes Aegypti, gerando sintomas tanto leves quanto graves, e pode levar à morte. (2)\n\nFontes: \n(1) - Governo Federal (https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue)\n(2) - Instituto Butantan (https://butantan.gov.br/dengue)."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

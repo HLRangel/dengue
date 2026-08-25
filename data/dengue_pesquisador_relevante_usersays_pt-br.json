@@ -1,0 +1,292 @@
+[
+  {
+    "id": "4e46a32d-1ebf-47f0-9cf3-cc765489515d",
+    "data": [
+      {
+        "text": "Instituto ",
+        "userDefined": false
+      },
+      {
+        "text": "Oswaldo Cruz",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "96a87db8-8f9e-4d22-a67d-6dcf9e2afff4",
+    "data": [
+      {
+        "text": "Por que os estudos de ",
+        "userDefined": false
+      },
+      {
+        "text": "Peryassú",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ainda são relevantes atualmente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a9f18258-1d35-4841-beba-746982dd8f41",
+    "data": [
+      {
+        "text": "Por ",
+        "userDefined": false
+      },
+      {
+        "text": "quanto tempo Peryassú realizou seus experimentos com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " o Aedes aegypti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4f41717a-70fc-4ceb-8f8f-1cadb81cfaea",
+    "data": [
+      {
+        "text": "O que ",
+        "userDefined": false
+      },
+      {
+        "text": "Peryassú",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " concluiu sobre a produtividade dos criadouros ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " mosquito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a5363575-0799-4820-8e4d-7eddbecf2c95",
+    "data": [
+      {
+        "text": "Qual a importância dos estudos de ",
+        "userDefined": false
+      },
+      {
+        "text": "Peryassú",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " o combate ao Aedes aegypti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d8ddc506-5c9d-4f37-ae5a-4720135e99aa",
+    "data": [
+      {
+        "text": "quem pesquisou sobre o aedes no ",
+        "userDefined": false
+      },
+      {
+        "text": "brasil",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8727a2b2-f67c-418a-b7f9-18d222835806",
+    "data": [
+      {
+        "text": "pesquisador mais relevante da dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "418669b8-e5b9-4da6-bc37-15fdffbed0d4",
+    "data": [
+      {
+        "text": "quem foi  ",
+        "userDefined": false
+      },
+      {
+        "text": "Antonio Gonçalves Peryassú",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "447efbfd-6183-4379-87a9-7b9f4c67c8ea",
+    "data": [
+      {
+        "text": "melhor pesquisador da dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "57412617-0aee-4ddc-9bbf-a35f92294665",
+    "data": [
+      {
+        "text": "Qual o maior pesquisador de dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " pais?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "28ad90d7-c43a-4deb-ae65-f90533c43f75",
+    "data": [
+      {
+        "text": "E ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " pais?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "af06929f-b80f-42dd-9278-2fe694280d8e",
+    "data": [
+      {
+        "text": "E no pais?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Instituto ",
+        "userDefined": false
+      },
+      {
+        "text": "oswaldo cruz",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ta ",
+        "userDefined": false
+      },
+      {
+        "text": "fazendo vacina?",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,177 @@
+{
+  "id": "9f7902f7-2f43-408c-afc9-e6ff2c270901",
+  "name": "dengue_protecao_exaustivo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "61bd622d-8d42-40a8-82ce-274a1b5ee3c6",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b3fe4c5b-6ae8-4a8c-8006-e7a9d3fc0c6e",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4e465122-45e7-4b58-8b9d-67c8d45c874f",
+          "name": "music-artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$music-artist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "755e2a75-e526-4466-b028-27a6e45d5854",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1d30ab4a-fb33-43c2-b3ea-c958329a2d9c",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "486673a5-9fe9-4133-a3fe-e2c5a9f2102a",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2badd1c7-c5cc-4217-a52a-8529f45e56ec",
+          "name": "unit-length-name",
+          "required": false,
+          "dataType": "@sys.unit-length-name",
+          "value": "$unit-length-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d6821924-a8a8-4c6f-b0d7-c6be34fe6e9f",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "01a587a1-9a3b-4a21-a5b9-4b055c713613",
+          "name": "music-genre",
+          "required": false,
+          "dataType": "@sys.music-genre",
+          "value": "$music-genre",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2160b7a6-de8f-4f36-9633-d45d785edfb3",
+          "name": "unit-weight-name",
+          "required": false,
+          "dataType": "@sys.unit-weight-name",
+          "value": "$unit-weight-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O combate aos criadouros do mosquito é a principal forma de prevenção e proteção contra a dengue e das demais arboviroses transmitidas pelo mosquito, como Zika e Chikungunya.\n\nEliminar os focos de proliferação do mosquito (locais que permitem o acúmulo de água parada, como caixas-d’água, vasos de plantas, lixo, pneus, tampinhas de garrafa, entre outras) é a ação mais importante de combate. É importante lembrar que a participação da população é fundamental, já que grande parte dos focos do mosquito estão dentro das casas das pessoas. Os cuidados devem ser realizados ao longo de todo o ano e não apenas no verão.\n\nO uso de repelentes, mosquiteiros e de roupas que protegem as pernas e os braços também fazem parte das orientações de proteção contra a dengue. E lembre-se: receba os agentes Comunitários de Saúde e de Controle de Endemias que trabalham em sua cidade. (1)",
+            "Prevenir e se proteger da dengue requer a redução da exposição a picadas de mosquitos Aedes aegypti e Aedes albopictus. Medidas como eliminar criadouros dos mosquitos, como recipientes com água parada, utilizar repelentes e roupas que protejam a pele; instalar telas em portas e janelas; participar de programas de controle de vetores; e promover a conscientização comunitária sobre as medidas preventivas que podem ser tomadas pela população. (2)\n\nFontes: \n\n(1) - Ministério da Saúde (https://www.gov.br/saude/pt-br/assuntos/saude-com-ciencia/noticias/2024/fevereiro/dengue-8-duvidas-sobre-a-doenca-para-voce-se-proteger)\n\n(2) - Governo de São Paulo (https://www.dengue100duvidas.sp.gov.br/)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

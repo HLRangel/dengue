@@ -1,0 +1,64 @@
+{
+  "id": "1372e966-96a8-4148-9fea-94a07cea939e",
+  "name": "dengue_criadouro",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "db9098ab-23f8-4933-a1dd-b0625bd48f06",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a35eb7a8-a979-45f4-a32e-757c6d8da853",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A forma mais eficaz de prevenir a dengue é combater a proliferação do Aedes aegypti, eliminando qualquer recipiente que acumule água parada, potenciais criadouros do mosquito. Isso inclui desde objetos comuns como vasos de plantas, pneus, garrafas plásticas, caixas d’água destampadas e piscinas sem manutenção até pequenos depósitos, como tampas de garrafas, copos descartáveis ou cascas de ovos. A inspeção semanal de ambientes internos e externos, com a remoção ou vedação adequada desses locais, é essencial para interromper o ciclo de reprodução do vetor, reforçando a necessidade de ações contínuas e coletivas no controle da doença.\n\nFonte: Governo Paraná (https://www.dengue.pr.gov.br/Pagina/Como-combater)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

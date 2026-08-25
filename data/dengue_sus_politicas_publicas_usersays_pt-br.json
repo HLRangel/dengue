@@ -1,0 +1,145 @@
+[
+  {
+    "id": "ec76a1a3-b448-41e7-b3a7-59c6b445f1f9",
+    "data": [
+      {
+        "text": "Qual é o estado das políticas públicas ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "311d46af-2a58-4225-b76c-5dc8bfd6168c",
+    "data": [
+      {
+        "text": "Quem decide como trata a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0c088564-f5d1-4f04-8a08-44df812bdb51",
+    "data": [
+      {
+        "text": "O município decide tratamento?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d2b989c0-f748-4065-8bea-c3f0ae5a0489",
+    "data": [
+      {
+        "text": "A política municipal é melhor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "810dc033-fef3-42a7-b21e-cdc2f2c0d781",
+    "data": [
+      {
+        "text": "O SUS serve pra alguma coisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0ef95b7c-b7fc-499a-a8ea-2cc3fd7ada55",
+    "data": [
+      {
+        "text": "O que o SUS faz pra combater a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "29df34b4-1c9c-42c4-b9bd-784692ebde6d",
+    "data": [
+      {
+        "text": "O que ",
+        "userDefined": false
+      },
+      {
+        "text": "o Brasil",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " faz pra combater a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Qual ",
+        "userDefined": false
+      },
+      {
+        "text": "o papel",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " das campanhas de ",
+        "userDefined": false
+      },
+      {
+        "text": "saúde",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " pública no combate à dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

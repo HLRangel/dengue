@@ -1,0 +1,515 @@
+[
+  {
+    "id": "74178190-794f-4992-90bd-70c47bdf3a5a",
+    "data": [
+      {
+        "text": "É possível que a dengue funcione como ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " \"gatilho\" ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " autoimunidade em pessoas geneticamente predispostas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "63b36939-78db-438b-8b30-f8bea1f76c20",
+    "data": [
+      {
+        "text": "Terapias imunossupressoras poderiam ajudar a tratar casos graves de dengue, como em doenças autoimunes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1dd677c8-be92-45a2-9039-0d7085b83d64",
+    "data": [
+      {
+        "text": "Seria possível que ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " novo sorotipo de dengue desenvolvesse ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " reação autoimune no corpo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "db0dba59-517b-44c9-af8e-2f24d0865a43",
+    "data": [
+      {
+        "text": "Existe alguma ligação entre dengue e a síndrome de ",
+        "userDefined": false
+      },
+      {
+        "text": "Guillain",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "-Barré (",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " condição autoimune que afeta os nervos)?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "09eac07f-3dfe-46fe-a285-2cd208017ee1",
+    "data": [
+      {
+        "text": "Estudos mostram relação entre dengue e o desenvolvimento de doenças autoimunes, como lúpus ou artrite reumatoide?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4b0fb565-8bec-48fe-9ddc-c71b0143cd4e",
+    "data": [
+      {
+        "text": "Há",
+        "meta": "@sys.unit-area-name",
+        "alias": "unit-area-name",
+        "userDefined": false
+      },
+      {
+        "text": " casos relatados de pacientes que desenvolveram doenças autoimunes após contrair dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4b264963-08f5-4e6e-8bbb-cf48fa4a212e",
+    "data": [
+      {
+        "text": "Existe alguma evidência de que a dengue leva à produção de autoanticorpos que causam problemas no fígado, coração ou rins?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7e36c172-bbd8-43b2-83fb-e4bfd7ea1567",
+    "data": [
+      {
+        "text": "A vasculite (inflamação dos vasos sanguíneos) na dengue tem características semelhantes às doenças autoimunes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "79c43714-2134-4084-8294-43741b964a22",
+    "data": [
+      {
+        "text": "Os sintomas graves da dengue, como a hemorragia e o choque, ",
+        "userDefined": false
+      },
+      {
+        "text": "são",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " causados por ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " destruição dos próprios ",
+        "userDefined": false
+      },
+      {
+        "text": "tecidos",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " pelo sistema imune?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0c1e0779-f4c2-49bd-8a74-5940b7adec6e",
+    "data": [
+      {
+        "text": "A dengue causa ativação de linfócitos ",
+        "userDefined": false
+      },
+      {
+        "text": "T",
+        "meta": "@sys.unit-weight-name",
+        "alias": "unit-weight-name",
+        "userDefined": false
+      },
+      {
+        "text": " autorreativos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2ad25673-f966-4c2a-b398-fc46f385ad6b",
+    "data": [
+      {
+        "text": "Existe algum componente de autoanticorpos ",
+        "userDefined": false
+      },
+      {
+        "text": "presentes",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " durante ou após ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " infecção de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "02511149-deb0-448e-80b8-d7901456c164",
+    "data": [
+      {
+        "text": "Os anticorpos gerados em ",
+        "userDefined": false
+      },
+      {
+        "text": "uma primeira",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " infecção de dengue podem causar dano ao próprio corpo em ",
+        "userDefined": false
+      },
+      {
+        "text": "uma segunda",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " infecção?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1e7819ac-29a2-42cd-a0a3-1dd9e032a435",
+    "data": [
+      {
+        "text": "A resposta imune secundária na dengue poderia ser comparada a ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " reação autoimune?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "13a20a1d-f4ed-4e19-b1c0-170263d5ec49",
+    "data": [
+      {
+        "text": "Por",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " que o sistema imunológico reage de forma mais intensa em casos de reinfecção ",
+        "userDefined": false
+      },
+      {
+        "text": "por",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " outro sorotipo de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "135801e7-d757-425b-b031-3dbfe75b261f",
+    "data": [
+      {
+        "text": "A dengue hemorrágica é resultado de ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " processo autoimune ou apenas ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " resposta imunológica ",
+        "userDefined": false
+      },
+      {
+        "text": "exagerada",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5b0b577a-2e83-4ee1-bdd2-5030f33dd168",
+    "data": [
+      {
+        "text": "A dengue pode \"desencadear\" doenças autoimunes em algumas pessoas predispostas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5e59aa03-3da1-4884-8d1f-b9a41aa0b95d",
+    "data": [
+      {
+        "text": "O corpo pode atacar seus próprios ",
+        "userDefined": false
+      },
+      {
+        "text": "tecidos",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " após ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " infecção por dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b900a8d0-825e-442e-ac9b-ee99d5de88b6",
+    "data": [
+      {
+        "text": "Existe algum mecanismo autoimune que ",
+        "userDefined": false
+      },
+      {
+        "text": "se",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " desenvolve após a infecção pelo vírus da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a4b590c3-5b3c-41f9-82f2-50cba9f3b108",
+    "data": [
+      {
+        "text": "A dengue poderia ser considerada ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " doença autoimune em algum estágio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Dengue é autoimune?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Por que algumas pessoas desenvolvem a forma grave da doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

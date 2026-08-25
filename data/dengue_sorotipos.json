@@ -1,0 +1,64 @@
+{
+  "id": "8783793c-7a2b-473d-af71-38925e830e65",
+  "name": "dengue_sorotipos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3c79f993-bf4b-46bc-82dd-29b8ad639d93",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "90f0525c-528b-4621-be2e-43eef4979ad6",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A dengue é causada por quatro sorotipos virais distintos (DENV-1, DENV-2, DENV-3 e DENV-4), com cada um sendo predominante em diferentes regiões. Os sorotipos possuem diferenças significativas, com a infecção por um não conferindo imunidade ao outro. A gravidade dos sintomas tende a aumentar conforme o número de infecções, com uma segunda infecção sendo muito pior que a primeira.\n\nFonte: Ministério da Saúde (https://www.gov.br/saude/pt-br/assuntos/noticias/2025/janeiro/dengue-entenda-o-que-sao-os-sorotipos-da-doenca-e-porque-o-tipo-3-e-o-que-mais-preocupa-atualmente-no-brasil)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

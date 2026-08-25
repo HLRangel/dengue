@@ -1,0 +1,95 @@
+[
+  {
+    "id": "46d3c8fe-932a-4527-96e3-419025d3e4ea",
+    "data": [
+      {
+        "text": "Eu posso pegar covid e dengue ao mesmo tempo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d168bdb2-80f2-467b-bfcc-0b6f8e8ab1d2",
+    "data": [
+      {
+        "text": "Há",
+        "meta": "@sys.unit-area-name",
+        "alias": "unit-area-name",
+        "userDefined": false
+      },
+      {
+        "text": " a chance de contrair dengue e covid juntos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "06d0baeb-8948-43b7-a937-63c3d4009e85",
+    "data": [
+      {
+        "text": "Tem como pegar dengue e covid juntas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1191828f-c1bd-4c3a-b69c-90a620b41c82",
+    "data": [
+      {
+        "text": "Posso pegar dengue e covid ao mesmo tempo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2ac1f96d-974e-470f-a690-3d3124f34f7b",
+    "data": [
+      {
+        "text": "É passível de acontecer uma coinfecção de covid e dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "É passível de acontecer ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " coinfecção de covid e dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

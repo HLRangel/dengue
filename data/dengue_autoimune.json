@@ -1,0 +1,120 @@
+{
+  "id": "74ca33cd-2b9b-44a7-9b24-f6580a84834f",
+  "name": "dengue_autoimune",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "15b2a787-d9c4-48e7-8d86-69594032a8b5",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f7e09e04-4d55-4077-a37c-2fa43861ac96",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "10aeb185-96ac-4b9f-a5ae-1d70fe79f704",
+          "name": "unit-weight-name",
+          "required": false,
+          "dataType": "@sys.unit-weight-name",
+          "value": "$unit-weight-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f78ede6e-fb82-47f7-b01f-47db5750ad05",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5e6be126-c671-438f-8850-f2445803a0f8",
+          "name": "unit-area-name",
+          "required": false,
+          "dataType": "@sys.unit-area-name",
+          "value": "$unit-area-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "88d1c2ea-3993-4a9a-be05-a09ce168316f",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A dengue não é considerada uma doença autoimune. Trata-se de uma doença viral, transmitida pelo Aedes aegypti, com quatro sorotipos diferentes. Contrariando a crença popular, contrair a doença uma vez não confere imunidade permanente contra todos os sorotipos, e infecções subsequentes podem apresentar sintomas mais graves.\n\nRoberto Laperriere Júnior, chefe do Núcleo Especial de Vigilância Ambiental, esclarece que, após a primeira infecção, o indivíduo adquire imunidade definitiva contra o sorotipo específico que o contaminou. No entanto, ele destaca a existência de uma imunidade transitória: durante um período de quatro a seis meses, a pessoa fica protegida contra todos os demais sorotipos da dengue.(1)\n\nA gravidade nas infecções secundárias ocorre porque o sistema imunológico, ao tentar combater um novo sorotipo, pode gerar uma resposta exagerada, conhecida como fenômeno de amplificação dependente de anticorpos (ADE - Antibody-Dependent Enhancement). Esse processo facilita a entrada do vírus em certas células, intensificando a resposta inflamatória, mas não configura um processo autoimune, onde o sistema imunológico atacaria tecidos saudáveis de forma desregulada.\n\nApesar disso, alguns estudos anteriores indicaram uma possível relação entre a dengue e um maior risco de desenvolvimento de diversas doenças autoimunes, mas essa associação ainda carece de investigações mais aprofundadas, principalmente devido a limitações metodológicas nas pesquisas realizadas.(2)\n\n(1) - Fonte: Gov-ES (https://mosquito.saude.es.gov.br/Not%C3%ADcia/primeiro-contagio-pela-dengue-nao-garante-imunidade-aos-quatro-sorotipos-da-doenca)\n(2) - Fonte: MESSER, William B. Reexame do risco de doenças autoimunes após infecção pelo vírus da dengue: um estudo de coorte de base populacional. Disponível em: https://pmc-ncbi-nlm-nih-gov.translate.goog/articles/PMC9990932/?_x_tr_sl\u003den\u0026_x_tr_tl\u003dpt\u0026_x_tr_hl\u003dpt\u0026_x_tr_pto\u003dsge#:~:text\u003dA%20autoimunidade%20pode%20ocorrer%20ap%C3%B3s,associadas%20%C3%A0%20infec%C3%A7%C3%A3o%20por%20dengue. Acesso em: 22 mar. 2025."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

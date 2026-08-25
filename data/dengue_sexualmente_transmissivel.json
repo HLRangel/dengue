@@ -1,0 +1,35 @@
+{
+  "id": "235c26e0-db4f-4215-85df-5cbb9b3a5658",
+  "name": "dengue_sexualmente_transmissivel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A dengue não é sexualmente transmissível.\n\nFonte: Governo Federal (https://www.gov.br/saude/pt-br/assuntos/saude-com-ciencia/noticias/2024/fevereiro/dengue-8-duvidas-sobre-a-doenca-para-voce-se-proteger)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

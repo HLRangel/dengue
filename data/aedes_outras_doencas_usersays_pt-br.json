@@ -1,0 +1,92 @@
+[
+  {
+    "id": "d1d4d7d1-eac3-4830-9175-ab5b0e84a27d",
+    "data": [
+      {
+        "text": "Quais outros virus o Aedes transmite além da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "43c3cd5b-8d9a-4e3e-8cc8-1ee06d855df2",
+    "data": [
+      {
+        "text": "Quais doenças mais o mosquito passa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "77baf8cd-7e80-426f-aa6a-f86212e1631f",
+    "data": [
+      {
+        "text": "O Aedes passa quais outras doenças?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "931f5e3c-b7f9-462f-8567-9cfbf27e0b41",
+    "data": [
+      {
+        "text": "Quais são as outras doenças que o mosquito transmite?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c2a0f65-38cf-4997-af42-113abe0f5fd1",
+    "data": [
+      {
+        "text": "Quais doenças o Aedes aegypti transmite?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "00b4fff6-b8e5-4381-8c99-085bffff32c0",
+    "data": [
+      {
+        "text": "Que doenças que o mosquito da dengue transmite?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quais outros virus o Aedes passa além da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,78 @@
+{
+  "id": "a6bfbad0-9e2e-486e-80cc-78bb4a58f30a",
+  "name": "dengue_altura_voo_mosquito",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c77f20e6-7256-4399-9516-9d4b2630fa4c",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0b00341c-e048-461b-abc8-ca872deba491",
+          "name": "color1",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "46b0737d-d2a7-4d4a-a521-f6636893af6c",
+          "name": "unit-length-name",
+          "required": false,
+          "dataType": "@sys.unit-length-name",
+          "value": "$unit-length-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O mosquito Aedes tem um voo limitado a até 1 metro acima do solo, concentrando sua atividade próxima ao chão.\n\nFonte: Município de Dois Vizinhos (https://doisvizinhos.pr.gov.br/noticia/CURIOSIDADES-SOBRE-O-MOSQUITO-DA-DENGUE-QUE-VOCe-NaO-SABIA)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

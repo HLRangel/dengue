@@ -1,0 +1,361 @@
+[
+  {
+    "id": "bccd5ad2-37c3-4dcf-b922-9c8b7f76e725",
+    "data": [
+      {
+        "text": "O que é o inseto Culicoides paraensis e qual seu nome ",
+        "userDefined": false
+      },
+      {
+        "text": "popular",
+        "meta": "@sys.music-genre",
+        "alias": "music-genre",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "49dda136-ee18-43a9-bcc0-f6b0b7b550de",
+    "data": [
+      {
+        "text": "Existe alguma forma de evitar a transmissão ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " vírus Oropouche?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e44a6a94-f967-4276-b860-6221df87cbdf",
+    "data": [
+      {
+        "text": "Quais são os hospedeiros ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " vírus Oropouche?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c1b68977-ee96-41b6-abdb-a883af3dbfc3",
+    "data": [
+      {
+        "text": "Por que o ciclo de infecção ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " vírus Oropouche se perpetua?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3128136f-c51c-4967-a48e-675c9e49f3cf",
+    "data": [
+      {
+        "text": "O vírus pode ser transmitido diretamente entre humanos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d61692e8-7693-4e3f-8790-7777b8361f59",
+    "data": [
+      {
+        "text": "Como o vírus se multiplica dentro ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " vetor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "869366f1-c3bf-4e73-a4fc-5a6203846c79",
+    "data": [
+      {
+        "text": "Quanto tempo o vírus permanece no organismo ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "inseto",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " antes de ser transmitido?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8149c028-d8a9-416b-bbc7-19a15f10c006",
+    "data": [
+      {
+        "text": "O que acontece após o inseto se alimentar ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " sangue de ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " hospedeiro infectado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "41b1760a-ab15-4b9f-b1e6-9dfb92062d99",
+    "data": [
+      {
+        "text": "Como o vírus Oropouche é transmitido?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "aeb5e45b-cde2-4814-9ce1-5481d689347c",
+    "data": [
+      {
+        "text": "Qual é o principal vetor ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " vírus Oropouche?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "43e907b9-791e-44ec-a415-d906849df751",
+    "data": [
+      {
+        "text": "mosquito e oropouche",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "773bcd2e-9925-4a1a-9b26-e1033f3c2084",
+    "data": [
+      {
+        "text": "aedes ",
+        "userDefined": false
+      },
+      {
+        "text": "aegypti",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "e",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name1",
+        "userDefined": false
+      },
+      {
+        "text": " oropouche",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "312c92e7-feef-4a67-93fb-4c4d71f41d60",
+    "data": [
+      {
+        "text": "dengue e oropouche",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "41e398ba-8a9f-4090-8dba-8d7d8dc60c3a",
+    "data": [
+      {
+        "text": "transmissor oropouche",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "555c0098-0b7a-4b1b-8d97-ef0a02aec76c",
+    "data": [
+      {
+        "text": "e o oropouche",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2e3c7ad6-3f94-460e-b55a-2a0181f03ece",
+    "data": [
+      {
+        "text": "o mosquito da dengue transmite oropouche?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bc2f49e2-bb1e-406a-825b-ab7617be4c69",
+    "data": [
+      {
+        "text": "oropouche é transmitida pelo mosquito da dengue também?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "O que é o oropouche?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

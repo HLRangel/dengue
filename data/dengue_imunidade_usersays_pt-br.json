@@ -1,0 +1,116 @@
+[
+  {
+    "id": "7182def0-63a5-4923-88bb-d081481795b2",
+    "data": [
+      {
+        "text": "Se eu pegar ",
+        "userDefined": false
+      },
+      {
+        "text": "quatro",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vezes eu fico imune?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "aec79615-9c55-4357-834e-33fbbdb01541",
+    "data": [
+      {
+        "text": "Se eu pegar ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez eu fico imune?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "09ab2e1c-aebf-4d52-b3aa-8696f2c228bf",
+    "data": [
+      {
+        "text": "Se eu pegar a dengue eu fico imune?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ef9bb38a-fa98-450f-8a06-7667e408108d",
+    "data": [
+      {
+        "text": "Pega imunidade da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Ter ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " boa ",
+        "userDefined": false
+      },
+      {
+        "text": "alimentação",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " aumenta a imunidade ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

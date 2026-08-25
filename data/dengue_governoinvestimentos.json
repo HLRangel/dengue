@@ -1,0 +1,79 @@
+{
+  "id": "eca622f2-9f42-4b84-8bcf-f9b70e5e65b4",
+  "name": "dengue_governoinvestimentos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "06c28572-b80f-4b75-8729-d1def7951f69",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "faeab608-92ae-4b8e-9ba6-8ec913d4dd3c",
+          "name": "music-artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$music-artist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b164b643-4830-4b82-92ca-56f38c4614d1",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para enfrentar um ano com grande aumento de casos de dengue em território nacional, o Ministério da Saúde investe mais de R$ 1,5 bilhão para o período sazonal de 2024/2025, o que representa aumento de 50% em relação ao período anterior. Os recursos estão sendo utilizados por estados, municípios e o Distrito Federal para reforçar as ações de vigilância e melhorar o atendimento da população.\n\nFonte: Governo Federal (https://www.gov.br/saude/pt-br/assuntos/noticias/2024/novembro/investimentos-no-controle-da-dengue-somam-r-1-5-bilhao-para-o-periodo-sazonal)",
+            "Com o objetivo de controlar a tendência de aumento no período sazonal, o Ministério da Saúde alocou um investimento de R$ 1,5 bilhão em uma estratégia que inclui uso de novas tecnologias para o controle da doença, além de ter intensificado campanhas educativas. Também foi feita a aquisição de 9,5 milhões de doses da vacina contra dengue para 2025 e, em uma atuação tripartite, parceria estreita com governos estaduais e municipais.\n\n\nFonte: Agência Gov (https://agenciagov.ebc.com.br/noticias/202412/conheca-as-acoes-do-ministerio-da-saude-para-controle-de-casos-de-dengue)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

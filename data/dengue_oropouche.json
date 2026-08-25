@@ -1,0 +1,134 @@
+{
+  "id": "c03cd12d-8847-403d-ab9b-34f5c1513369",
+  "name": "dengue_oropouche",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ec5d8434-8d79-405a-8e47-ab02a455d0c9",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0a07b49b-2e04-4896-9bcc-c234d0c21e63",
+          "name": "currency-name",
+          "required": false,
+          "dataType": "@sys.currency-name",
+          "value": "$currency-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3d760ff8-04fe-472b-aafe-5941be111ec7",
+          "name": "currency-name1",
+          "required": false,
+          "dataType": "@sys.currency-name",
+          "value": "$currency-name1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "caaf4e75-b6e3-4014-b039-4a1669dbe975",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ee8d1b4d-694c-4d24-91fc-de96799c1a64",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8e04866f-872b-49d4-b076-a72bd0a8b308",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c061c793-d8e9-4fc1-9355-a339cb26fb33",
+          "name": "music-genre",
+          "required": false,
+          "dataType": "@sys.music-genre",
+          "value": "$music-genre",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O Oropouche é um vírus que apresenta síntomas similares à dengue, necessitando de testes clínicos e laboratoriais na determinação do tratamento. O principal vetor do vírus Oropouche é o inseto Culicoides paraensis, popularmente chamado de maruim. Após se alimentar do sangue de um hospedeiro infectado (humano ou animal), o vírus permanece no organismo do inseto por um período de incubação de alguns dias. Durante esse intervalo, o patógeno se multiplica, tornando o maruim capaz de transmiti-lo a indivíduos saudáveis através de novas picadas. Assim, o ciclo de infecção é perpetuado quando o inseto contaminado pica outra pessoa.\n\nFonte: Governo Federal (https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/o/oropouche)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

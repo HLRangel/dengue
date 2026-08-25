@@ -1,0 +1,50 @@
+{
+  "id": "c28d2521-cd74-4e3c-ac68-3c9127a75ffc",
+  "name": "robo_fatec_explicacao",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d0501bf5-c9b4-4333-8c45-a609756f64b0",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A Faculdade de Tecnologia (Fatec) é uma instituição de ensino superior tecnológico gratuito, coordenada pelo Centro Paula Souza, uma empresa autárquica do Governo do Estado de São Paulo. Este chatbot foi produzido por alunos do curso de Análise e Desenvolvimento de Sistemas da Fatec de Ribeirão Preto, para cumprir os requisitos de uma atividade avaliativa de Sistemas Informatizados. O tema e o propósito do chatbot foi escolhido por nosso grupo."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

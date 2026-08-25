@@ -1,0 +1,194 @@
+[
+  {
+    "id": "e56fadb2-ca3c-42b1-bc95-064fdee97194",
+    "data": [
+      {
+        "text": "quem come o mosquito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "41685c13-81e0-4dfd-99b6-261ee2b5d90e",
+    "data": [
+      {
+        "text": "predadores ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " mosquito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6bb898bc-68d8-401b-bf5a-c5d678f5fd00",
+    "data": [
+      {
+        "text": "predadores principais da dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ff71b1b2-5ded-4884-bf9f-01ba8dc54b22",
+    "data": [
+      {
+        "text": "largatixa come dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "097a9d2b-c128-4323-a078-e46180b77133",
+    "data": [
+      {
+        "text": "aranha",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " come a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2a80f1b6-330f-4198-b35f-c491fc3b69a2",
+    "data": [
+      {
+        "text": "Quais são os principais animais que atuam como predadores de mosquitos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f2c394d2-0896-4a1e-922e-ce2e6e7ce199",
+    "data": [
+      {
+        "text": "predador da dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5e5677da-fcd6-4c45-9aad-825d0dd03ede",
+    "data": [
+      {
+        "text": "quem come dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2ff77e88-70bb-4ddf-89d9-3d664b83318c",
+    "data": [
+      {
+        "text": "quais são os predadores da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c434e0b5-977b-4e77-9bc3-67ba0b6af509",
+    "data": [
+      {
+        "text": "quais bixos comem dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "859cc9b9-20a1-4331-9f00-965f1d57c094",
+    "data": [
+      {
+        "text": "Lagartixa come o mosquito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c2e4e879-b811-4ef6-95d5-465537669778",
+    "data": [
+      {
+        "text": "A ",
+        "userDefined": false
+      },
+      {
+        "text": "aranha",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "teto",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " come o mosquito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

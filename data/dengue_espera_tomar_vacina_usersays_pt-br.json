@@ -1,0 +1,84 @@
+[
+  {
+    "id": "92a07439-2cb5-4e5c-9284-3229c4918c26",
+    "data": [
+      {
+        "text": "espera ",
+        "userDefined": false
+      },
+      {
+        "text": "para tomar vacina",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " depois de melhorar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "eb1adc22-45d7-4836-ba01-d5810bad283b",
+    "data": [
+      {
+        "text": "tempo ",
+        "userDefined": false
+      },
+      {
+        "text": "para se vacinar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " depois da dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3e99753f-a3c5-4798-954d-d789367b5689",
+    "data": [
+      {
+        "text": "quanto tempo aguardar ",
+        "userDefined": false
+      },
+      {
+        "text": "para se vacinar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " depois da dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "56a551b1-bef1-473b-8b7e-b8a05ea56bf3",
+    "data": [
+      {
+        "text": "tive dengue, depois de quanto tempo posso tomar vacina da gripe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

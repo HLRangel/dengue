@@ -1,0 +1,327 @@
+[
+  {
+    "id": "63186eb7-1e8f-4cdc-a97f-c3cb42c3fa66",
+    "data": [
+      {
+        "text": "O que é o DENV",
+        "userDefined": false
+      },
+      {
+        "text": "-4",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "837092f4-e855-476b-9d89-256c3a6cb6e4",
+    "data": [
+      {
+        "text": "O que é o DENV",
+        "userDefined": false
+      },
+      {
+        "text": "-3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6934fc0e-8feb-4792-a626-aca836871016",
+    "data": [
+      {
+        "text": "O que é o DENV",
+        "userDefined": false
+      },
+      {
+        "text": "-2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "305c40b0-042e-42db-b9a8-a100d90f7a20",
+    "data": [
+      {
+        "text": "O que é o DENV",
+        "userDefined": false
+      },
+      {
+        "text": "-1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d90fb3ac-c5cb-4aae-b0d3-87eeaed874e5",
+    "data": [
+      {
+        "text": "O que ",
+        "userDefined": false
+      },
+      {
+        "text": "são",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " os sorotipos da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b3504ce5-a9fc-4179-9a2d-b9b6dc6218ae",
+    "data": [
+      {
+        "text": "Quantos sorotipos da dengue existem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "76868ef0-619c-4558-a419-197be8f1266c",
+    "data": [
+      {
+        "text": "Quais são os sorotipos da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6bc16a68-b241-4cfd-ad73-11ca786e349f",
+    "data": [
+      {
+        "text": "Quanta dengue dá pra pegar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "80c699d8-4599-4ba3-8073-bacb34ad21c9",
+    "data": [
+      {
+        "text": "Dá pra pegar mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " tipo de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c472702d-80be-45f1-be4c-53a22ccc5bee",
+    "data": [
+      {
+        "text": "Quais são os tipos da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dfbb7912-ad26-4547-869d-5d86660b2586",
+    "data": [
+      {
+        "text": "Quantos tipos de dengue tem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "36195977-bad9-4bb3-9096-1771edd49516",
+    "data": [
+      {
+        "text": "Quais os diferentes tipos de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "213b2b9a-9d68-4cf1-aeb9-600bd6a56867",
+    "data": [
+      {
+        "text": "Quais os tipos de dengue existentes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bf43f5b4-eaea-4163-aef3-9f81436e0a38",
+    "data": [
+      {
+        "text": "Quantos sorotipos de dengue tem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1a4ab29d-d27d-4498-8d83-dff0e3c09ec8",
+    "data": [
+      {
+        "text": "Quais os tipos de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quantos tipos diferentes da dengue existem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quantas dengues existem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quantos tipos de dengue existem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quais sao os tipos de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Qual a diferença entre os ",
+        "userDefined": false
+      },
+      {
+        "text": "quatro",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " sorotipos da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

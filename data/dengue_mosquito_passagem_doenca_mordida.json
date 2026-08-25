@@ -1,0 +1,51 @@
+{
+  "id": "dbdb0083-5f74-48c1-a787-82e06eabfe9a",
+  "name": "dengue_mosquito_passagem_doenca_mordida",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ac38ea97-217b-4250-8718-9024f4d40bed",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O mosquito da dengue passa a doença por meio da picada da fêmea durante o repasto sanguíneo, configurado pela perfuração da epiderme e introdução da saliva contaminada com o vírus.\n\nFonte: Governo da Nova Zelândia (https://info.health.nz/conditions-treatments/infectious-diseases/dengue)",
+            "Os patógenos que causa a dengue é transmitido aos humanos por meio de picadas da fêmea de mosquitos do gênero Aedes, sendo o principal vetor no Brasil o Aedes Aegypti. \n\nFonte: The biting rate of Aedes aegypti and its variability: A systematic review (1970–2022). Plos neglected tropical diseases (https://doi.org/10.1371/journal.pntd.0010831)."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

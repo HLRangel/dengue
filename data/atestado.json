@@ -1,0 +1,51 @@
+{
+  "id": "baa45791-d20f-47d8-a947-8576b4cd2943",
+  "name": "atestado",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ddaffa52-6c6f-4666-8d30-9ba2b7436d94",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Mesmo tendo sido contraída no trabalho ou não, a dengue pode levar ao afastamento das funções. O afastamento pela doença pode ir de três a dez dias, a depender da intensidade dos sintomas.",
+            "Fonte: https://g1.globo.com/saude/dengue/noticia/2024/03/11/de-quantos-dias-e-o-atestado-para-dengue-entenda-quando-a-doenca-pode-levar-a-afastamento-do-trabalho.ghtml"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "22220a03-d0d9-4c02-b317-14b86d0caa65",
+    "data": [
+      {
+        "text": "metros",
+        "meta": "@sys.unit-length-name",
+        "alias": "unit-length-name",
+        "userDefined": false
+      },
+      {
+        "text": " voo mosquito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "84be4585-c55a-4ebb-a17e-8759e1c49cee",
+    "data": [
+      {
+        "text": "até aonde o mosquito pode voar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "063d9e1f-32fe-4c5b-924c-fc01d23fa285",
+    "data": [
+      {
+        "text": "o mosquito voa baixo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c66a7c9f-a8c2-40db-aa5a-72bceaa9fe6e",
+    "data": [
+      {
+        "text": "o mosquito voa alto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f0eb4bf2-9d75-4500-b309-2911f8e5cae1",
+    "data": [
+      {
+        "text": "até quanto o mosquito pode voar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fea7a17d-d88d-4673-a9ed-a5b35bb186b2",
+    "data": [
+      {
+        "text": "qual a altura ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " voo ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color1",
+        "userDefined": false
+      },
+      {
+        "text": " mosquito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quantos ",
+        "userDefined": false
+      },
+      {
+        "text": "metros",
+        "meta": "@sys.unit-length-name",
+        "alias": "unit-length-name",
+        "userDefined": false
+      },
+      {
+        "text": " voa o mosquito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

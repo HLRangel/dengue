@@ -1,0 +1,173 @@
+[
+  {
+    "id": "ad5ef525-e52b-4aae-bdfd-41f3b519b432",
+    "data": [
+      {
+        "text": "Se o bicho pega dengue fica com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " preju?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b45142d9-e8e1-4e5c-bc42-9ae36b2e8232",
+    "data": [
+      {
+        "text": "A dengue prejudica o bicho?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0bf007e8-84ce-4038-87a9-a6db6c0c11a6",
+    "data": [
+      {
+        "text": "O bicho for picado também?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "23267594-e151-4740-8eb0-e97af990c2ce",
+    "data": [
+      {
+        "text": "Se o animal for picado, ele adoece?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "742a1dcd-a57e-430f-a24e-906719b4467a",
+    "data": [
+      {
+        "text": "Animal pode pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0d43c64a-b769-4818-a175-a87d85be2ab3",
+    "data": [
+      {
+        "text": "Animal também contrai dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ab6dcfcb-cfe3-42a1-bd11-003f60c1dc5b",
+    "data": [
+      {
+        "text": "A dengue pega em bichos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3279ec86-0578-4eda-9c19-6f7cd3c7198f",
+    "data": [
+      {
+        "text": "Bicho fica c/ dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8d882fdf-ee4c-4dbf-abc0-1b2696386601",
+    "data": [
+      {
+        "text": "Bicho pega dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d8f28f91-b35a-4ba0-b89c-16918de060c5",
+    "data": [
+      {
+        "text": "A dengue acomete animais?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3cf7f4d1-85c0-4b3e-bf3f-6327c03206e4",
+    "data": [
+      {
+        "text": "A dengue é prejudicial ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " animais?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Animais de estimação podem pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

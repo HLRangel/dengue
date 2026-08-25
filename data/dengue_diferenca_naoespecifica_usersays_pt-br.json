@@ -1,0 +1,253 @@
+[
+  {
+    "id": "3c6e4442-b17c-43ee-97fa-cff663ba6b48",
+    "data": [
+      {
+        "text": "Dengue e chikungunya é a mesma coisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b452f47d-ece6-40f2-935c-61d7f354ed01",
+    "data": [
+      {
+        "text": "Dengue e zika é a mesma coisa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a76a5e1-ec62-430e-8f7f-965dd84abe17",
+    "data": [
+      {
+        "text": "O que torna a dengue diferente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0729126a-6636-4bf6-9808-43632a5e4cb1",
+    "data": [
+      {
+        "text": "O que a dengue tem de diferente de outras doenças?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a6762b78-c4df-412e-9c7c-041ca69dc1d0",
+    "data": [
+      {
+        "text": "Qual a diferença entre dengue, chikungunya, e zika?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3765b6b4-c835-4b2a-b377-a140db4fbb6f",
+    "data": [
+      {
+        "text": "Qual a diferença da dengue e ",
+        "userDefined": false
+      },
+      {
+        "text": "zika",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e26a3839-c949-4df0-b016-628a94b4285c",
+    "data": [
+      {
+        "text": "Como diferencio dengue de ",
+        "userDefined": false
+      },
+      {
+        "text": "zika",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Diferença de dengue e malaria?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como diferenciar os sintomas da dengue de outras doenças febris?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Qual diferença de dengue e o virus sincicial respiratorio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Qual diferença de dengue e covid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como diferenciar a dengue de outras doenças semelhantes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como posso diferenciar os sintomas de dengue dos de outras doenças como ",
+        "userDefined": false
+      },
+      {
+        "text": "zika",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " e chikungunya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como diferenciar a dengue de outras doenças semelhantes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Dengue é igual ",
+        "userDefined": false
+      },
+      {
+        "text": "zika",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Dengue é igual chikungunya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "O que diferencia a dengue de outras doenças transmitidas por mosquitos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

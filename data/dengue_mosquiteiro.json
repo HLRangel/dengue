@@ -1,0 +1,134 @@
+{
+  "id": "1602e452-15e3-49c8-9606-01ac3cb0f496",
+  "name": "dengue_mosquiteiro",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "05822872-b46d-4318-bfa9-9b50adcd8baf",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a9d476f6-f862-4f91-a51f-9ecf2f74ec72",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "65ae3dcf-02a0-4705-bd6a-d27da28e156a",
+          "name": "music-artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$music-artist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "01a1d794-32d8-4790-bdae-5cc8645b605b",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "bcb3e46b-62fc-4d71-9e2e-0edf66bd7f9a",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "830530bb-8fb7-4281-91e9-298ef48e8c35",
+          "name": "unit-area-name",
+          "required": false,
+          "dataType": "@sys.unit-area-name",
+          "value": "$unit-area-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b24c9298-dad0-4416-b04c-81ee8201ecfb",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Especialistas reforçam: mosquiteiro é a proteção mais eficaz contra a dengue\n\nDe acordo com profissionais da saúde, o uso de mosquiteiros continua sendo a estratégia mais segura para prevenir a dengue. Repelentes, embora úteis, não oferecem proteção total e exigem cuidado para evitar aplicações excessivas, especialmente em grupos vulneráveis.\n\nGrávidas e crianças menores de dois anos devem priorizar a orientação médica na escolha de métodos de prevenção, já que a segurança de certos produtos pode variar conforme o perfil individual.\n\n\"O mosquiteiro é, sem dúvida, a forma mais eficiente de proteção\", afirma Bernardo Gaia, médico especialista em dermatologia e infectologia com foco em medicina de viagem. Ele, que estuda e combate infecções em viajantes internacionais, ressalta que a barreira física proporcionada pelo mosquiteiro supera outras alternativas em termos de segurança e efetividade. (1)\n\n(1) - Fonte: G1 (https://g1.globo.com/Noticias/Rio/0,,MUL385347-5606,00-ESPECIALISTAS+INDICAM+MOSQUITEIRO+E+A+MELHOR+PROTECAO+CONTRA+DENGUE.html)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

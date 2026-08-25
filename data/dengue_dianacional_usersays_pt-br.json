@@ -1,0 +1,87 @@
+[
+  {
+    "id": "28fd0e01-ac48-42f4-bbde-3d8facb2e876",
+    "data": [
+      {
+        "text": "Qual o dia nacional da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4a338950-8d9e-44f0-abe8-eaada2d7424d",
+    "data": [
+      {
+        "text": "Existe dia da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1d16eb31-dcae-4956-91bd-4adfdd4b2d57",
+    "data": [
+      {
+        "text": "Qual o dia da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "77b1c995-6c1b-4c55-bc6c-66891680f08b",
+    "data": [
+      {
+        "text": "Qual o dia de combate a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "df700716-ca5a-47d2-91fa-1d1d637e7247",
+    "data": [
+      {
+        "text": "Existe ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " dia nacional de combate ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.unit-length-name",
+        "alias": "unit-length-name",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "id": "4f6c611b-83e0-4c77-87de-21672131d82c",
+  "name": "dengue_mecanismos_de_evasao_do_virus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a205a57d-a25f-4848-a489-2e4a3e7f5d65",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d31d2925-86a3-495d-929f-322a67092487",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2ccfcf43-c842-49f3-95ae-b7c63b3388d6",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e0f7574a-3f93-4081-9e7f-2c2234b76ef1",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Segundo Lee et. al, o vírus da dengue pode: \"\u0027\u0027esconder-se\u0027 na ultraestrutura do hospedeiro, interferir na via de sinalização por meio de modificações de RNA, inibir a produção de IFN tipo 1, bem como inibir a fosforilação de STAT1. O DENV também é capaz de escapar das respostas imunes adaptativas do hospedeiro por meio de variação antigênica, realce dependente de antígeno (ADE), maturação parcial de proteínas prM e inibição da apresentação de antígeno.\"\n\nFonte: Lee et. al (https://web.archive.org/web/20250203054044/https://pmc.ncbi.nlm.nih.gov/articles/PMC9523788/)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

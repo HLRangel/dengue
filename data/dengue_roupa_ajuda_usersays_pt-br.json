@@ -1,0 +1,158 @@
+[
+  {
+    "id": "0d3971c6-cc4e-447a-bba3-65d46d32ae2d",
+    "data": [
+      {
+        "text": "Existe tecido que protege mais?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "39682613-674c-4b7a-9c80-3ec8e8946826",
+    "data": [
+      {
+        "text": "Algum tecido oferece maior cobertura com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " relação a picada ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " aedes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8a0e3b53-2eeb-43bf-b9bd-124931a62a97",
+    "data": [
+      {
+        "text": "Alguma vestimenta da mais cobertura ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " a picada ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " vetor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7d82205d-71f5-4aab-8e2f-e5a4ca3d655a",
+    "data": [
+      {
+        "text": "Tem vestimenta que da mais proteção ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " o mosquito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dc9176f2-8a60-4198-a305-7e52f4f20699",
+    "data": [
+      {
+        "text": "Existe algum tipo de ",
+        "userDefined": false
+      },
+      {
+        "text": "roupa",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " que ajuda a evitar ser picado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6ebc944b-d243-44d1-93e2-77323c40f119",
+    "data": [
+      {
+        "text": "Que tipo de roupa ajuda a evitar picadas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Que tipo de ",
+        "userDefined": false
+      },
+      {
+        "text": "roupa",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ajuda a evitar picadas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 7,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

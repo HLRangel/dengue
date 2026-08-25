@@ -1,0 +1,78 @@
+{
+  "id": "cc1ce22b-9401-432f-8f81-e5173fab3d2a",
+  "name": "dengue_hemorragica_sintomas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eeeb8256-2933-4e15-ab99-fae8e0b9b70b",
+          "name": "unit-weight-name",
+          "required": false,
+          "dataType": "@sys.unit-weight-name",
+          "value": "$unit-weight-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ecc48978-0963-4833-a8cc-5706a7f712d9",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7f95ada4-cca0-4342-ad5a-6fb16e99bdaf",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Dengue hemorrágica é uma manifestação grave da dengue, caracterizada por sintomas intensos e sinais de hemorragia. Entre as principais manifestações clínicas estão:\n- Dor abdominal intensa\n- Sinais de choque (como hipotensão, extremidades frias ou agitação)\n- Sangramentos externos: nasal (epistaxe), gengival, uterino ou do trato digestivo alto (vômito com sangue).\n- Manchas vermelhas (exantema)\n- Hematomas ou manchas roxas (equimoses)\n- Petéquias (pontos vermelhos sob a pele)\n- Púrpura (manchas arroxeadas por extravasamento sanguíneo)\n- Sangramento nas fezes (indicativo de hemorragia gastrointestinal).\n\nEsses sinais exigem atendimento médico imediato, pois a condição pode evoluir rapidamente para complicações potencialmente fatais.\n\nFonte: Hospital Albert Einstein (https://www.einstein.br/n/glossario-de-saude/dengue)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

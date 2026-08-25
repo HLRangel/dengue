@@ -1,0 +1,162 @@
+{
+  "id": "0df21705-e0db-4b6d-83ec-349c5aac27d8",
+  "name": "dengue_pessoas_pegam_dengue_exaustivo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "36557236-2029-4377-9a5b-555575704782",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f0cf6e59-4f87-421f-976e-c5eb795abda6",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8b587630-c133-4041-af90-f3a64b0307ac",
+          "name": "unit-area-name",
+          "required": false,
+          "dataType": "@sys.unit-area-name",
+          "value": "$unit-area-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1002ef34-aadd-4031-ae71-e5e318475f49",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c36a4c84-9bc6-42e1-a491-7d9ab6dc69ee",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "dec5bb4e-f385-4aa0-95df-11b00b919db8",
+          "name": "music-artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$music-artist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7c8e034e-a018-43bf-ae36-a3e3319fd5d2",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4fd46d57-4bb5-4b1f-abab-a033389a0646",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d21a1afd-f4c3-4081-81c0-48403826f8b0",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "De acordo com a OMS, qualquer pessoa que viva ou viaje para áreas onde o vírus da dengue está presente pode ser infectada. (1)\n\nO Ministério da Saúde informa que a dengue pode acometer qualquer pessoa, sem distinção. No entanto, crianças, idosos e pessoas com doenças crônicas podem ter maior risco de desenvolver formas graves da doença. (2)\n\nO SINAN coleta dados sobre casos de dengue no Brasil e mostra que a doença afeta pessoas de todas as faixas etárias e regiões. As estatísticas reforçam que qualquer indivíduo exposto ao mosquito Aedes aegypti pode contrair a doença. (3)\n\nFontes: \n\n(1) - Organização Mundial da Saúde (https://www.who.int/health-topics/dengue-and-severe-dengue#tab\u003dtab_1)\n\n(2) - Ministério da Saúde (https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue)\n\n(3) - SINAN (https://portalsinan.saude.gov.br/dengue)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

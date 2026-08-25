@@ -1,0 +1,120 @@
+{
+  "id": "8513ab39-4d16-4a99-9d1c-a23cb762c93e",
+  "name": "dengue_impactos_socioeconomicos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a9c2b097-a5d5-4fc5-a233-d14336b4e3d9",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "bc4dec94-b637-4746-b66b-8a2f39597614",
+          "name": "location1",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "db976402-f64b-4e81-9e9b-18d5080f282d",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "800625d5-f038-47fd-b4a8-70ecacfc75f5",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c6a519ad-0d1d-4dbd-bc8c-49bd2edb3ad1",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a03188ef-e33c-486d-a24a-06d3e5ba3596",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Os impactos socioeconômicos da dengue são vísiveis na carga ao Sistema Único de Saúde (SUS), que gasta, em média, R$240 por paciente (1). O lobby acadêmico da indústria brasileira também apontou, que, em um cenário-fantasia onde o número de infecções aumentasse em torno de 20 vezes, seria possível uma perda de R$ 7 bilhões no PIB do país (2).\n\n(1) - Takeda (https://www.takeda.com/pt-br/newsroom/releases/2023/dengue-e-outras-arboviroses-custam-3-bilhoes-ao-ano-para-o-pais-e-afetam-a-produtividade-de-empresas/)\n(2) - CNN (https://www.cnnbrasil.com.br/economia/macroeconomia/estudo-alerta-que-aumento-de-casos-de-dengue-pode-provocar-queda-de-r-7-bilhoes-no-pib/)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

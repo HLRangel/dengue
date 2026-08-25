@@ -1,0 +1,70 @@
+[
+  {
+    "id": "846ba191-1fde-46e9-a15a-ce792bb8e143",
+    "data": [
+      {
+        "text": "Mudanças",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " climáticas interferem no aumento de casos de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cdcd57de-d463-4e55-a990-3256217d3edf",
+    "data": [
+      {
+        "text": "a urbanização causa o aumento da doença de que forma?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "61cfa26c-df7d-4914-ab7f-b1157e8670ad",
+    "data": [
+      {
+        "text": "de que maneira as ",
+        "userDefined": false
+      },
+      {
+        "text": "mudanças",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " climaticas causam aumento da doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "44fe3b1b-59fc-42aa-96e7-ed05f1a1049a",
+    "data": [
+      {
+        "text": "Como as mudanças climáticas e a urbanização influenciam os padrões de transmissão da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

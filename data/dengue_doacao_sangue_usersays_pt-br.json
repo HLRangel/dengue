@@ -1,0 +1,198 @@
+[
+  {
+    "id": "b639443b-d383-4278-b954-f7f74f1bf637",
+    "data": [
+      {
+        "text": "Posso transferir sangue com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "49309b73-1ee6-4d13-b87c-3ec2c00ad7aa",
+    "data": [
+      {
+        "text": "Posso realizar a ",
+        "userDefined": false
+      },
+      {
+        "text": "transferência de sangue enquanto estou aflito com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " a terrível doença da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5da7b236-1057-4290-9584-ede53040545b",
+    "data": [
+      {
+        "text": "Posso doar sangue com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " denv?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dec5247f-6d7f-4e0d-99cc-7e2146b32fbd",
+    "data": [
+      {
+        "text": "Posso doar sangue dengoso?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f735c2aa-55c0-4f40-b8d6-288f5cf2806a",
+    "data": [
+      {
+        "text": "Se eu tiver dengue, posso doar sangue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c51892c8-620a-4fac-9f52-d055427e74ff",
+    "data": [
+      {
+        "text": "Posso doar sangue com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4c6fbb62-5cea-4a5d-a2ba-2f51ebd3dcaf",
+    "data": [
+      {
+        "text": "Se eu fizer transfusão de sangue com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue, passo pra alguém?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8e600f5e-51ed-457a-8a99-810afdcde5bd",
+    "data": [
+      {
+        "text": "Eu estava com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "há duas semanas",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " e gostaria de saber quanto tempo ",
+        "userDefined": false
+      },
+      {
+        "text": "devo",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " esperar até poder fazer ",
+        "userDefined": false
+      },
+      {
+        "text": "tatuagem",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " e ",
+        "userDefined": false
+      },
+      {
+        "text": "piercing",
+        "meta": "@sys.location",
+        "alias": "location1",
+        "userDefined": false
+      },
+      {
+        "text": " de forma segura.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Posso doar sangue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 22,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

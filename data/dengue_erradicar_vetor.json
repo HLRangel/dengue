@@ -1,0 +1,64 @@
+{
+  "id": "c095fc74-95ee-43f2-ab24-8ac4380f4cda",
+  "name": "dengue_erradicar_vetor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d806c61b-cc15-4a70-8f03-d72ede673116",
+          "name": "language",
+          "required": false,
+          "dataType": "@sys.language",
+          "value": "$language",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a7b19080-82c5-46c7-b85b-7b48a6b453ee",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O mosquito Aedes aegypti é difícil de erradicar completamente devido à sua excelente adaptação ao ambiente urbano e à grande oferta de potenciais criadouros. Ele já foi erradicado do Brasil nos anos 1950, mas voltou a se estabelecer no país na década de 1970. Sua capacidade de adaptação a ambientes urbanos e a facilidade com que se reproduz em água parada tornam sua erradicação um desafio.\n\nFonte: https://istoe.com.br/istoegeral/2025/02/22/curiosidades-sobre-o-aedes-aegypti-como-combater-esse-mosquito/"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

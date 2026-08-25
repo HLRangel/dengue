@@ -1,0 +1,92 @@
+{
+  "id": "96b9ee1e-d406-435e-b45d-d43d461723aa",
+  "name": "dengue_pesquisador_relevante",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e94dfb2d-9490-4175-9ec7-8e44f5c06c61",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4538b847-3992-430e-b7e3-b06293ffb5df",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a322dc3d-5f6e-4fd6-bb1f-e734c0ec1865",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "20a4a091-a8de-4a23-84b5-b0e7b5019f3d",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "No verão de 1908, a população do Rio de Janeiro ficou em alerta devido ao risco da febre amarela. Nesse contexto, o pesquisador Antonio Gonçalves Peryassú, do então Instituto Soroterápico Federal – posteriormente nomeado Instituto Oswaldo Cruz (IOC) –, realizou importantes descobertas sobre o ciclo de vida, os hábitos e a biologia do Aedes aegypti. Seus estudos foram essenciais para a erradicação do mosquito no Brasil nas décadas seguintes e continuam a influenciar as pesquisas sobre o controle desse vetor.\n\nEm sua monografia Os Culicídeos do Brasil, com mais de 400 páginas, Peryassú descreveu não apenas os hábitos do A. aegypti, mas também os de diversos outros mosquitos da mesma família, revelando aspectos inéditos de sua biologia. Durante dois anos, ele conduziu uma série de experimentos, trazendo informações valiosas, como a capacidade dos ovos do A. aegypti de resistirem à dessecação por até um ano sem contato com a água. Além disso, investigou a produtividade dos criadouros, um tema ainda debatido atualmente, concluindo que grandes reservatórios de água tendem a ser os principais focos do mosquito.\n\nFonte: FioCruz (https://www.ioc.fiocruz.br/dengue/textos/longatraje.html)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,311 @@
+[
+  {
+    "id": "a8732a41-2b5b-4d9b-8b74-a5f7585f0697",
+    "data": [
+      {
+        "text": "Que dengue causa mais mortes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b095b40a-2bcc-45e1-9382-614fa28dc080",
+    "data": [
+      {
+        "text": "Existe ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " tipo de dengue que te condena à morte?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f12e32fa-75e4-43f0-8da7-24a0410200ba",
+    "data": [
+      {
+        "text": "Qual dengue é a mais grave?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2db166f7-8231-4c4b-8dad-947ade2e9571",
+    "data": [
+      {
+        "text": "Qual dengue dói mais?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1488a633-9be9-4498-92fd-aaadd42fb4fb",
+    "data": [
+      {
+        "text": "Qual dengue faz você sangrar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7e293086-db38-47d7-8d70-152ecf99ac6e",
+    "data": [
+      {
+        "text": "Como funciona a dengue hemorrágica?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "90d0ddb8-8d02-4d26-9ecc-64848bd92190",
+    "data": [
+      {
+        "text": "O que é dengue hemorrágica?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 7,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "919f1c91-0391-42fa-a043-39862c9c89e0",
+    "data": [
+      {
+        "text": "Qual dengue que eu não posso pegar de jeito nenhum?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4b56248a-e389-41cc-9a79-f5fb9923ed92",
+    "data": [
+      {
+        "text": "Qual dengue é a mais ruim?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9e2774ce-d248-4baf-8794-da220c0cb063",
+    "data": [
+      {
+        "text": "Que tipo de dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "mata",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " mais?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f6d88533-911f-4597-ab23-34674e314762",
+    "data": [
+      {
+        "text": "Qual o pior tipo de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1c876a28-d322-4489-92a5-372fcbca47a0",
+    "data": [
+      {
+        "text": "Porque a dengue hemorragica ",
+        "userDefined": false
+      },
+      {
+        "text": "mata",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d3762ede-48b7-44ec-8d2c-b50072233fc3",
+    "data": [
+      {
+        "text": "qual que é o pior tipo de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ca2bb3e9-c202-4ba0-b48f-1f9812a0334f",
+    "data": [
+      {
+        "text": "Dengue hemorrágica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 8,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "364de908-f762-445d-ae90-9321964e80c8",
+    "data": [
+      {
+        "text": "Qual a pior dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9362abc6-5ade-4646-9b53-c4c0c99d0a37",
+    "data": [
+      {
+        "text": "Como identificar sinais de dengue hemorrágica?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2a1a58c7-87ff-4237-9fe0-5f2f00aae0e1",
+    "data": [
+      {
+        "text": "Como identificar sinais ",
+        "userDefined": false
+      },
+      {
+        "text": "da",
+        "meta": "@sys.unit-weight-name",
+        "alias": "unit-weight-name",
+        "userDefined": false
+      },
+      {
+        "text": " dengue hemorrágica?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 8,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Dengue é ruim?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 22,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quais as complicações mais comuns da dengue grave?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Tem complicação?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Qual a diferença entre os tipos de dengue (clássica, hemorrágica, grave)?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "592c6aa9-3798-4169-a8d7-ba8a26d0fb25",
+    "data": [
+      {
+        "text": "Eu posso pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "550a4fb6-91a7-497a-99b7-b803cf4b44cd",
+    "data": [
+      {
+        "text": "Todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " tá na mira da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "655a8894-a282-4cff-84f6-df131d6c6f8c",
+    "data": [
+      {
+        "text": "Será que eu posso pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4cb05b47-0a3d-4eb4-b82a-49bac2e5ce64",
+    "data": [
+      {
+        "text": "Todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " pode pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3c311c95-406f-49b7-abcf-35c8ab8d292a",
+    "data": [
+      {
+        "text": "Essa doença pega em todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " mesmo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5f09b8be-b1d1-4b1c-a894-a2e79b6ab38d",
+    "data": [
+      {
+        "text": "A dengue dá em qualquer ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ou só em quem não ",
+        "userDefined": false
+      },
+      {
+        "text": "se",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " cuida?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fd660b76-79ad-4c7c-9ab8-c2f6f5d8b5c6",
+    "data": [
+      {
+        "text": "Tem gente que é \"blindada\" ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " dengue ou pega em geral?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "77fd1370-2846-415e-8177-8209096062e4",
+    "data": [
+      {
+        "text": "Dengue pega em qualquer ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": ", ou tem uns que ",
+        "userDefined": false
+      },
+      {
+        "text": "são",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " sortudos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f2ee7d2a-ca9c-483b-9779-e5f1b88e3ef3",
+    "data": [
+      {
+        "text": "Será que tem alguém que nunca pega dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "20a7dbde-8649-4ecf-a608-09d1ebc5cbcb",
+    "data": [
+      {
+        "text": "Todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " pode pegar dengue ou tem gente que escapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0082cc80-1c9d-485b-bfc1-71642a2630bd",
+    "data": [
+      {
+        "text": "Será que tem gente que não pega dengue de jeito nenhum?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7eb3b2a1-6c37-48a1-809f-3556022cc946",
+    "data": [
+      {
+        "text": "Então, todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " pode cair nessa e pegar a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "608b8f7b-fc5f-44e4-ad3d-3bf4d8b05edd",
+    "data": [
+      {
+        "text": "Tem gente que é ruim de pegar dengue ou pega em todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9ff17d53-2bfb-4534-aa94-2ad2f0e27f19",
+    "data": [
+      {
+        "text": "Tem jeito de escapar desse trem da dengue ou todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " pega?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b2d4004d-f7d5-4e82-9a66-aa9d1c7ddb6e",
+    "data": [
+      {
+        "text": "Será que só uns dão azar ou todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " pega essa dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "907f8406-aae5-40f9-91ce-cbc19ecb4b47",
+    "data": [
+      {
+        "text": "Dengue não escolhe, né?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "726f7029-47b8-42ec-89d5-55f547a5722c",
+    "data": [
+      {
+        "text": "Esse trem de dengue, pega em todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d08263ed-02bc-4339-babd-a3f690e6868a",
+    "data": [
+      {
+        "text": "Essa tal de dengue não escolhe, né?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1765c081-0712-448a-9363-44eb044a3f4e",
+    "data": [
+      {
+        "text": "Qualquer pessoa tá sujeita a pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "09afe5e4-c865-4f1c-94c2-6c02ef24d9c0",
+    "data": [
+      {
+        "text": "Dengue pega em qualquer ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "41f54ef3-31d8-43b3-975b-f26079fc4d86",
+    "data": [
+      {
+        "text": "Existe alguém que não pega dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "514a8189-49d7-4dbb-8018-2ed30a78c564",
+    "data": [
+      {
+        "text": "Qualquer pessoa pode ser infectada pela dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "12f81fcf-518e-410d-8f0c-c13c38e36fc7",
+    "data": [
+      {
+        "text": "A dengue pega em todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ea9c348a-6c2a-45e9-a67e-48b7e7d6f2b6",
+    "data": [
+      {
+        "text": "Qualquer ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " pode ter dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "84c6b536-f4e9-4dba-84c9-2a80f2390ce4",
+    "data": [
+      {
+        "text": "Todos os grupos populacionais estão igualmente sujeitos à dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3863e7d1-79d8-4b50-91f9-4f880557b596",
+    "data": [
+      {
+        "text": "A dengue é ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " doença que atinge todas as pessoas indiscriminadamente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "62562fea-31c5-48d6-ac6f-33602093e8eb",
+    "data": [
+      {
+        "text": "A infecção pelo vírus da dengue pode ocorrer em todas as faixas etárias?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8beffe15-4548-448b-b1b0-8e77aa211308",
+    "data": [
+      {
+        "text": "Existe algum perfil específico de pessoa que possa ser acometido pela dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "111130c2-a9a1-49b3-afae-aac441a1d1bf",
+    "data": [
+      {
+        "text": "Qualquer indivíduo é suscetível a contrair dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "97f82f59-5955-4eb7-ad9a-c436dc142e05",
+    "data": [
+      {
+        "text": "Todos correm risco de pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "84aa1251-774f-40b0-8e03-1263066e7e4d",
+    "data": [
+      {
+        "text": "A dengue pega em qualquer ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": ", ou tem gente que nunca pega?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f9317608-83a5-4885-9d43-bffc74b7eda8",
+    "data": [
+      {
+        "text": "Todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " pode pegar dengue, ou só quem mora em área de risco?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ae407fdd-cbb0-4b92-8a55-3239e9c4e975",
+    "data": [
+      {
+        "text": "A dengue pega em geral, ou só em quem tá desprotegido?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b09a7a44-89d2-4f4e-ad65-c9578fce6dcc",
+    "data": [
+      {
+        "text": "Tem gente que é imune, ou todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " tá sujeito a pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dc74a4b3-05ba-4552-87b6-aa7814a8b796",
+    "data": [
+      {
+        "text": "Então, todas as pessoas correm risco de serem acometidas pela dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "244d6aa6-82d3-4b55-a0f9-a87a33abce80",
+    "data": [
+      {
+        "text": "A dengue não escolhe, pega em todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": ", é isso?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c9a5b21b-12b1-4fc4-8feb-db70cbb88358",
+    "data": [
+      {
+        "text": "Será que tem gente que nunca vai pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7268d7bb-ca7d-4ba2-9901-259e67d8852a",
+    "data": [
+      {
+        "text": "A dengue pega em qualquer ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": ", ou só em quem não se cuida?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5342d8f8-87fb-4de7-a105-763ef63c63d5",
+    "data": [
+      {
+        "text": "Tem alguém que nunca pegou dengue, ou todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " já pegou?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6897047a-1ec7-4070-9138-7e0f59759d1c",
+    "data": [
+      {
+        "text": "Dengue é daquelas doenças que pega em geral, né?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c9206d5b-3963-4f31-89a9-49c941dabb7a",
+    "data": [
+      {
+        "text": "Será que tem gente que nunca pega dengue, ou todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " pega?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9b13f67c-7822-4a0d-a931-a652cfb9a24d",
+    "data": [
+      {
+        "text": "A dengue pega em qualquer ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": ", ou tem gente que escapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ef5f23ea-40ac-4ae8-b94c-d8db636393b8",
+    "data": [
+      {
+        "text": "Todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " tá sujeito a pegar dengue, ou não?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e4659a5d-9a5b-40e1-a9c2-5510c08e6cf4",
+    "data": [
+      {
+        "text": "A dengue pega em geral, ou só em alguns?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ae772793-d942-4e99-afc5-49847ca4ec74",
+    "data": [
+      {
+        "text": "Tem gente que é imune à dengue, ou todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " pega?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0b219248-2b99-4bbc-b9b1-bd169e49bad9",
+    "data": [
+      {
+        "text": "A dengue não escolhe, pega em qualquer ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": ", é isso?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f60fc7a0-1291-40b8-bbb2-95e45521a56f",
+    "data": [
+      {
+        "text": "Será que tem alguém que não pega dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c0bd6a85-880a-4530-8891-eadd24e99abd",
+    "data": [
+      {
+        "text": "A dengue pega em todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": ", né?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7909a155-ac51-4097-b48e-f943cf8bd6ba",
+    "data": [
+      {
+        "text": "Tem gente que não pega dengue, ou pega em geral?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2e2c3de4-df0c-40f2-bddb-8afec7f9528d",
+    "data": [
+      {
+        "text": "Tem alguém que não pega dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "36da5b83-1f46-4da2-9f6e-6eb7dc31e4c6",
+    "data": [
+      {
+        "text": "Todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " pode pegar dengue, ou só alguns?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "34208695-537a-4505-9136-09a9e7273bce",
+    "data": [
+      {
+        "text": "Geral pode pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "28ed3e3d-f116-4732-b775-8d5fb0e3e59d",
+    "data": [
+      {
+        "text": "Dengue pega em qualquer pessoa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f3b193b2-9d91-419c-97da-dcb7710987bb",
+    "data": [
+      {
+        "text": "Todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " tá sujeito a pegar dengue, ou só alguns?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "924f1d2c-5ccf-4d12-9e1f-83a8b740eceb",
+    "data": [
+      {
+        "text": "A dengue é daquelas doenças que pega em geral, ou só em alguns?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0094273d-a863-47ae-89cf-769723fdaebc",
+    "data": [
+      {
+        "text": "Será que tem gente imune à dengue, ou todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " pode pegar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1dabd2d0-236c-4006-be69-5589d764ef45",
+    "data": [
+      {
+        "text": "A dengue não escolhe vítima, pega em qualquer ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": ", né?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f404187f-0aa8-460e-a30e-f86ce9aa6871",
+    "data": [
+      {
+        "text": "Tem alguém que não corre risco de pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3654b45b-47bf-49e3-819d-a4ca1bc451dc",
+    "data": [
+      {
+        "text": "A dengue escolhe quem pega, ou pega em qualquer ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "05d839d2-7584-451e-b4c1-aa1bc3c5c992",
+    "data": [
+      {
+        "text": "Será que só alguns pegam dengue, ou qualquer ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pode pegar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6d5be5b1-cba0-4698-a415-cad2c91b25ab",
+    "data": [
+      {
+        "text": "Tem gente que não pega dengue, ou pega todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "72cd5cc5-e382-402a-92a3-01d27e59f4d6",
+    "data": [
+      {
+        "text": "Todo mundo pega essa coisa de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9a1710e3-b8ac-4d3e-819b-c20e81574d53",
+    "data": [
+      {
+        "text": "Será que qualquer ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " pode pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "07255f36-0069-49b5-bac0-b57a0e3d120c",
+    "data": [
+      {
+        "text": "A dengue é ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " doença que não distingue idade, gênero ou condição social?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "530135ef-27cf-48e9-a0a0-9a46db15d3cb",
+    "data": [
+      {
+        "text": "Todas as pessoas estão suscetíveis à dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "630cfa46-3cfb-4332-a8b3-272275f586ae",
+    "data": [
+      {
+        "text": "A dengue pode afetar qualquer indivíduo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "26d322cc-47cb-4255-897c-12ef9b633ac0",
+    "data": [
+      {
+        "text": "A dengue pega em qualquer ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6b3d2d7b-438c-49ce-9541-63a63f4ceea0",
+    "data": [
+      {
+        "text": "Qualquer pessoa pode ser acometida por dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "57617982-448a-488d-ac1b-ea2c5d13454d",
+    "data": [
+      {
+        "text": "Qualquer pessoa pega dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2e0e41a4-55eb-4615-8c14-3705e514d67e",
+    "data": [
+      {
+        "text": "Qualquer ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " pega dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0e8e6365-5ff7-4483-b410-00c84387d083",
+    "data": [
+      {
+        "text": "A dengue acomete qualquer ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3551a602-bff2-470f-8fc9-8db20467cc38",
+    "data": [
+      {
+        "text": "Qualquer pessoa corre o risco de contrair dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "39704710-574d-41d1-943e-060bc4de7686",
+    "data": [
+      {
+        "text": "Qualquer ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " pode pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "12389c2e-c8b6-410b-9b5e-ac46c9c6472f",
+    "data": [
+      {
+        "text": "A dengue pode ser contraída por qualquer pessoa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3aff3b3a-44ce-422e-ba9c-03dfc51a8612",
+    "data": [
+      {
+        "text": "Toda a humanidade pode contrair dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7852fd95-fe2b-4559-b4fa-b3374911f371",
+    "data": [
+      {
+        "text": "Existe imunidade natural ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " a dengue em algum grupo de pessoas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c130c072-1fa1-42d2-ba8a-4cb1cabc5065",
+    "data": [
+      {
+        "text": "A dengue é ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " doença democrática, ou seja, pode afetar qualquer ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6b7e1582-5949-451a-b424-a432b7c5b9a8",
+    "data": [
+      {
+        "text": "A infecção por dengue pode ocorrer em qualquer ",
+        "userDefined": false
+      },
+      {
+        "text": "faixa etária",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ou grupo populacional?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "64718dc8-0ea8-4693-88cb-8cbb3ef4820f",
+    "data": [
+      {
+        "text": "Qualquer pessoa está propensa a ser infectada pelo vírus da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6029e026-fed9-425a-9c5b-0ff4a78d4c2e",
+    "data": [
+      {
+        "text": "Há",
+        "meta": "@sys.unit-area-name",
+        "alias": "unit-area-name",
+        "userDefined": false
+      },
+      {
+        "text": " restrições quanto ",
+        "userDefined": false
+      },
+      {
+        "text": "ao",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " perfil de indivíduos que podem contrair dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a94051e1-486d-4da7-8e23-7a9921b87ff0",
+    "data": [
+      {
+        "text": "A dengue é ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " doença que pode atingir qualquer pessoa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "03f635b9-9eae-4499-a542-bc0cd5d83f58",
+    "data": [
+      {
+        "text": "Existe algum grupo específico que não contrai dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4fa5c199-9779-4e7c-b4ca-3f16a54ca5ef",
+    "data": [
+      {
+        "text": "Toda a humanidade pode pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "73e262e2-577f-40b0-b4e5-b746eebf72c9",
+    "data": [
+      {
+        "text": "Quem pega dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7e59f945-33c1-4e89-8fd4-c604535e0d02",
+    "data": [
+      {
+        "text": "Tem ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " tipo de gente que pega dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ecdd7281-33a7-4c3a-ac2f-a09b210a281d",
+    "data": [
+      {
+        "text": "Tem ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " tipo de pessoa específica que pega dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e31ee9ba-872a-4f9a-b198-0c3191e5a935",
+    "data": [
+      {
+        "text": "A dengue é ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " doença bacteriana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "58b43298-a2d1-4e42-8e01-f59659db1fa8",
+    "data": [
+      {
+        "text": "Comunista pega dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 15,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "18eda914-7420-4ad2-b48b-80e20445ca24",
+    "data": [
+      {
+        "text": "Capitalista pega dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a711fd4c-2a79-492a-a4f3-b774f168c45f",
+    "data": [
+      {
+        "text": "O ",
+        "userDefined": false
+      },
+      {
+        "text": "lula",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " pega dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6043da4b-aa77-47dc-b4d0-050f2f07fd5a",
+    "data": [
+      {
+        "text": "O ",
+        "userDefined": false
+      },
+      {
+        "text": "Lula",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " pega dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9349d7b5-dd3b-499c-8fdf-257007829d11",
+    "data": [
+      {
+        "text": "Bolsonaro",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " vai pegar dengue na prisão?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d3e6281-25c9-4635-801d-9e312ded7171",
+    "data": [
+      {
+        "text": "Quais os grupos populacionais mais vulneraveis a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cf79653c-2379-4e99-b5ee-8cee9ce54b0c",
+    "data": [
+      {
+        "text": "Tem gente que corre mais risco se pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c270720c-5ed8-40d1-a6fd-0cb4729eab89",
+    "data": [
+      {
+        "text": "Tem ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " grupo de pessoas que ",
+        "userDefined": false
+      },
+      {
+        "text": "caso",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " contraia dengue acaba sofrendo mais problemas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c1c67d74-9821-42aa-8551-8dcb29d06a39",
+    "data": [
+      {
+        "text": "Que grupo tem mais risco de morrer da doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5d711a63-2bf3-423e-ba99-d520be6eeeef",
+    "data": [
+      {
+        "text": "Indentifique as populações mais vulnerável e ",
+        "userDefined": false
+      },
+      {
+        "text": "os",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " fatores que aumentam a probabilidade ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " desenvolver doenças graves por causa da dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ec959e15-1e3d-4fb8-8908-dddbc9ead50c",
+    "data": [
+      {
+        "text": "Quais são as populações mais vulneráveis a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Criança pode pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 10,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Todo ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " que pega mosquito pega dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

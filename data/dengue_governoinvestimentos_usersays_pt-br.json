@@ -1,0 +1,284 @@
+[
+  {
+    "id": "3621a3f3-4c2b-4572-add4-ac58762fcd7e",
+    "data": [
+      {
+        "text": "O montante gasto milhões por estados pra dengue e ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " dengue foi de?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "63d942c0-65ab-43d8-b3ce-bac8072e34b3",
+    "data": [
+      {
+        "text": "Qual o resultado gasto em ",
+        "userDefined": false
+      },
+      {
+        "text": "campanha",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " preventiva ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " dengue pelo governo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "61b54d85-354d-43ef-a41e-40fc66d7ffff",
+    "data": [
+      {
+        "text": "Quanto o ",
+        "userDefined": false
+      },
+      {
+        "text": "Brasil",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " perdeu ",
+        "userDefined": false
+      },
+      {
+        "text": "por vida",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " em campanhas ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " dengue pelo governo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "904d4931-d155-4208-990e-d0578b465fb8",
+    "data": [
+      {
+        "text": "A campanha da dengue foi feita e comprada foi de qual país?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "430ac6d2-0e74-43fc-a691-1eed1271bea6",
+    "data": [
+      {
+        "text": "A campanha preventiva ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " dengue custou quanto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fcb65c3f-ee0b-4ac1-8766-827248f7d791",
+    "data": [
+      {
+        "text": "Quando e onde o governo gastou a campanha preventiva?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6ba4c847-a023-4169-a3aa-3f41f0adcd6d",
+    "data": [
+      {
+        "text": "Quanto foi gasto pelo governo em ",
+        "userDefined": false
+      },
+      {
+        "text": "campanha",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " pra dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a2a1d949-7225-41cf-bf2d-23f35f6db653",
+    "data": [
+      {
+        "text": "O valor investido pelo governo em ",
+        "userDefined": false
+      },
+      {
+        "text": "campanha",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " dengue foi de?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d2704661-559e-450b-a348-7c5e47c0454b",
+    "data": [
+      {
+        "text": "Qual foi o valor gasto pelo governo em ",
+        "userDefined": false
+      },
+      {
+        "text": "campanha",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6d4a27da-f14f-4c15-a961-98e6ae6bd3c0",
+    "data": [
+      {
+        "text": "O governo gastou quanto em ",
+        "userDefined": false
+      },
+      {
+        "text": "campanha",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " pra dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Existem campanhas especificas voltadas ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " o combate a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

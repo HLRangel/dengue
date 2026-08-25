@@ -1,0 +1,78 @@
+{
+  "id": "f824a0cf-91a2-448f-a5e5-729b55602869",
+  "name": "dengue_proliferacao_e_ciclo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b298b758-bcd0-4ae5-870b-e8203cd877cd",
+          "name": "language",
+          "required": false,
+          "dataType": "@sys.language",
+          "value": "$language",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "61cf9bda-69a8-41ba-818a-d206a3811a28",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7616487a-924a-4a9f-929a-782d777abbdd",
+          "name": "music-artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$music-artist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A dengue clássica tem duração em média de 5 a 7 dias, com melhora gradual dos sintomas após o desaparecimento da febre, mas a fadiga pode persistir por alguns dias mesmo após a recuperação. No entanto, manifestações mais graves da doença e suas complicações podem exigir hospitalização devido a hemorragias, queda abrupta de plaquetas ou choque; assim sendo, A doença pode se estender por semanas, com recuperação lenta e necessidade de acompanhamento médico. Qualquer persistência de sintomas como vômitos intensos, dor abdominal ou sangramentos após a fase febril requer avaliação urgente. (1)\n\nA dengue é uma doença viral, classificada como arbovirose, inicia seu ciclo de transmissão quando o Aedes aegypti, mosquito vetor mais popular da doença no Brasil, pica um indivíduo infectado. O vírus, então se multiplica no intestino médio do inseto e se dissemina para outros tecidos, alcançando as glândulas salivares. Uma vez contaminado, o mosquito torna-se capaz de transmitir o vírus durante toda a sua vida. É importante destacar que não há contágio por contato direto entre pessoas infectadas e saudáveis. O período de incubação do vírus da dengue varia de 3 a 15 dias, com uma média de 5 a 6 dias. O vírus da dengue penetra na corrente sanguínea após a picada do mosquito Aedes aegypti.\n\nApós a picada, o vírus inicia sua replicação em células estriadas, lisas, fibroblastos e linfonodos próximos ao local da picada. Posteriormente, ocorre a viremia — fase em que o vírus se espalha pela corrente sanguínea, atingindo diversos tecidos do organismo. Os primeiros sintomas, como febre, dor de cabeça intensa e mal-estar geral, manifestam-se após um período de incubação que varia entre 2 e 10 dias.\n\nVale ressaltar que, ao ser infectada por um dos quatro sorotipos do vírus (DENV-1 a DENV-4), a pessoa desenvolve imunidade permanente contra aquele sorotipo específico, mas permanece suscetível aos demais. Essa característica aumenta o risco de formas graves da doença em casos de infecções subsequentes por sorotipos diferentes. (2)\n\nFontes:\n\n(1) Conheça a Dengue (https://conhecadengue.com.br/perguntas-frequentes)\n\n(2) Fiocruz (https://www.ioc.fiocruz.br/dengue/textos/sobreovirus.html)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

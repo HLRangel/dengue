@@ -1,0 +1,92 @@
+{
+  "id": "096f9d23-2d1b-4d63-aafc-8885caee7ae0",
+  "name": "dengue_remedios_nao_recomendados",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f56d4299-ac59-4d1b-9c1c-a7e3607258b5",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "42e5cff9-f2f6-44fc-84d3-f9dc178fb88e",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f931a19f-8661-4412-8de2-0bbb2ba44db8",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9bf63857-be9a-4e08-9c26-e72f0d606bc0",
+          "name": "music-artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$music-artist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Alguns medicamentos comumente vendidos em farmácias sem a necessidade de receita médica são contraindicados em caso de suspeita de dengue. Entre eles estão:\n\n- Salicilatos, como o ácido acetilsalicílico (AAS) e o ácido salicílico, entre outros;  \n- Anti-inflamatórios não esteroidais (AINEs), como ibuprofeno, diclofenaco e naproxeno, entre outros;  \n- Anti-inflamatórios corticosteroides, como prednisona, prednisolona e hidrocortisona, entre outros.  \n\nEsses medicamentos devem ser evitados, pois podem aumentar o risco de complicações, como sangramentos, em pacientes com dengue (1).\n\nInclusive, é importante notar que medicamentos anti-inflamatórios não-esteróides como aspirina, ibuprofeno, naproxeno, e diclofenaco aumentam o risco de sangramento (2).\n\nNão existe um medicamento específico para tratar a dengue. Os remédios utilizados para aliviar os sintomas devem ser prescritos por um médico, pois muitos deles, comumente usados no dia a dia e disponíveis sem receita nas farmácias, podem elevar o risco de sangramento.\n\nQualquer dúvida deve-se procurar um hospital mais próximo ou um profissional da saúde para melhores informações!\n\nFontes:\n(1) - Tua Saúde (https://www.tuasaude.com/remedios-para-dengue/)\n(2) - Universidade Federal da Paraíba (https://www.ufpb.br/petfarmacia/contents/documentos/boletim-informativo/BIP_DENGUECHIKUNGUNYAEZYKA2015.pdf)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

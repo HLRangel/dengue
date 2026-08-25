@@ -1,0 +1,95 @@
+[
+  {
+    "id": "f376e898-e3f5-430e-b846-74b82bcf48bd",
+    "data": [
+      {
+        "text": "Dá pra pegar vários sorótipos ao mesmo tempo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "51e6345f-1fb6-4485-b19c-c062617d4ee9",
+    "data": [
+      {
+        "text": "Consigo pegar dengue dupla?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4a90fafd-1a47-411b-96fa-b6890df8e2c4",
+    "data": [
+      {
+        "text": "Dá pra pegar dengue com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " igm positivo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bb3aa33b-2b1c-463d-90d4-a428f7d48b8f",
+    "data": [
+      {
+        "text": "A infecção simúltanea é possível?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d8c07e0-9770-4e10-9e93-7bab1afd41ba",
+    "data": [
+      {
+        "text": "Pode pegar ",
+        "userDefined": false
+      },
+      {
+        "text": "duas",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " dengues ao mesmo tempo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Tive dengue enquanto eu tiver igm positivo posso pegar de novo ou só quando negativar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

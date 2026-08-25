@@ -1,0 +1,64 @@
+{
+  "id": "ac9397de-7b34-4757-befd-2fe5382a5cf7",
+  "name": "dengue_vacinacomofunciona",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8da4b491-e05c-4f37-8d9a-0243411f15c6",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "70823840-e814-48bb-a600-2d14e3742298",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O imunizante contra a dengue utiliza vírus atenuados, ou seja, contém os quatro sorotipos do vírus da dengue, modificados para não causar a doença, mas estimular a produção de anticorpos e células de memória. Após a vacinação, se você for exposto ao vírus real, o sistema imunológico reconhece os antígenos e age rapidamente,  reduzindo o risco de formas graves, como a dengue hemorrágica.\n\nA vacina é administrada por meio de uma seringa, em doses intramusculares (geralmente duas ou três, conforme o tipo). Seu uso visa prevenir complicações, mas não elimina totalmente o risco de infecção. A eficácia varia conforme o sorotipo e o status imunológico do indivíduo. (1)\n\nA vacina tem presença de efeitos colaterais, os mais comuns são dor de cabeça e cansaço, podendo incluir sonolência, febre e irritabilidade em crianças. São mais frequentes após a primeira dose e surgem no dia da vacinação ou no seguinte. (2)\n\nFontes: \n\n(1) - Organização Mundial da Saúde (OMS) (https://www.who.int/news-room/questions-and-answers/item/dengue-vaccines)\n(2) - Fio Cruz (https://portal.fiocruz.br/pergunta/quais-sao-os-possiveis-efeitos-colaterais-da-vacina-contra-dengue)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

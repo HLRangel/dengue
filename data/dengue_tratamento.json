@@ -1,0 +1,106 @@
+{
+  "id": "252ae0c1-ff74-4aa2-9444-1b87c2aa52ec",
+  "name": "dengue_tratamento",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7928a8f8-18c5-4da9-bb80-f958091b7f66",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "01c346b3-a668-4e2e-8e61-f769a130f933",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c5253c75-2af2-4e85-a2fe-a3eb403a7f3c",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fc2353f8-981f-4530-8799-ca7e5e344572",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b26b2e42-8da1-45cb-877c-596dd25161aa",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O número *emergencial* do SAMU é *192*. Se você está notando sintomas da dengue, consulte um médico. O SUS realiza o tratamento gratuitamente. \n\nCaso se encontre em um local isolado, ou por alguma razão não tem acesso à um posto de saúde:\n\n1. Mantenha-se hidratado. A quantidade necessária para recuperação é 60ml de água por quilo, ou seja, se você tem 100 quilos, deverá ingerir 6 litros de água por dia (1)\n2. Não tome medicamentos sem prescrição, somente o Paracetamol e Dipirona são recomendados para o tratamento das dores\n3. Utilize compressas frias nas articulações com dores por 20 minutos a cada 4 horas. (2)\n4. Repousar.\n\nFontes:\n\n(1) - Governo do Estado de Alagoas (https://alagoas.al.gov.br/noticia/hidratacao-e-importante-para-se-recuperar-da-dengue-orienta-infectologista-da-sesau)\n(2) - Cartilha do SUS de Ribeirão Preto (Adaptado)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

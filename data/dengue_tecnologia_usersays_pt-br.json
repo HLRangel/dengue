@@ -1,0 +1,155 @@
+[
+  {
+    "id": "bfa2bd67-608e-4f76-b2eb-c1dc7ad82168",
+    "data": [
+      {
+        "text": "Como é utilizada a tecnologia ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " o enfrentamento da denv?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "760ce0bb-f6ac-4d98-a27b-247653eb9710",
+    "data": [
+      {
+        "text": "Como é utilizada a tecnologia ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " o enfrentamento da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "19b3bcc4-2c76-4096-896e-a5390bf10a71",
+    "data": [
+      {
+        "text": "Como é utilizada a tecnologia ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " o enfrentamento da doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0ee9d5cd-c208-472e-a73b-90eea7c1e84c",
+    "data": [
+      {
+        "text": "A tecnologia pode ser ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " aliada no combate a doença como?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "26b41f0b-5a48-4dc6-a996-e3544ea698e4",
+    "data": [
+      {
+        "text": "De que jeito a tecnologia ajuda a combater a denv?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3e88a4ff-4466-4822-b7c5-aa2e5cfb33c5",
+    "data": [
+      {
+        "text": "De que maneira a tecnologia pode ",
+        "userDefined": false
+      },
+      {
+        "text": "auxiliar",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " no combate a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "36a20ba7-fcd4-49b5-a2b3-f1870867e843",
+    "data": [
+      {
+        "text": "Como a tecnologia pode ajudar no combate à doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 9,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Que tecnologias emergentes podem ajudar no controle da doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

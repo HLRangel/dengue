@@ -1,0 +1,106 @@
+{
+  "id": "cc2f5dfc-fc80-4317-95cb-9bf75ea4cfbf",
+  "name": "dengue_butantan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ebcc1a8e-60a8-4f14-a716-72c8b627b776",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "982a3e37-a13b-449a-9a43-0be295d858d9",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "818d311d-98e6-460a-b4c0-307e197fcdea",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6ce8ae92-4387-40c2-ad11-87e4e746819e",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2bbbd623-2cc4-4b92-945b-b0bcf4f03f99",
+          "name": "location1",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Instituto Butantan: Reconhecido por suas pesquisas científicas em áreas como imunologia e biotecnologia, o Instituto Butantan desenvolve estudos relacionados ao Aedes aegypti e à dengue. ​\nA identificação de um único pesquisador como \"o maior\" na área é desafiadora, pois o avanço no combate à dengue resulta do esforço coletivo de diversos especialistas e instituições no estado de São Paulo.\n\nA vacina contra a dengue criada pelo Instituto Butantan, a Butantan-DV, é de dose única, e protege contra os 4 sorotipos da dengue. Atualmente, aguarda aprovação pela Anvisa.\n\nFonte: Globo (https://g1.globo.com/sp/sao-paulo/noticia/2025/01/21/instituto-butantan-comeca-a-produzir-doses-de-vacina-contra-dengue-em-sp-e-aguarda-analise-de-documentos-pela-anvisa.ghtml)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

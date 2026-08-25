@@ -1,0 +1,167 @@
+[
+  {
+    "id": "ab2ffdff-337c-42d4-b004-1b67fdfeeb93",
+    "data": [
+      {
+        "text": "nome cientifico ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " mosquito ",
+        "userDefined": false
+      },
+      {
+        "text": "tigre",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d0cae5b6-d801-49f3-9483-a3c87d86d89f",
+    "data": [
+      {
+        "text": "O mosquito ",
+        "userDefined": false
+      },
+      {
+        "text": "tigre",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " é como?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1216bcca-98bc-42f2-b29e-4e4d39959dee",
+    "data": [
+      {
+        "text": "mosquito-",
+        "userDefined": false
+      },
+      {
+        "text": "tigre",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": "-asiático",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "60dcc437-4458-4823-83fc-303399099816",
+    "data": [
+      {
+        "text": "albopictus vírus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "61eb6b30-e315-417a-a58d-b4c6aa5cdb7a",
+    "data": [
+      {
+        "text": "mosquito albopictus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "082e6401-ae55-48da-8807-f60ef2efa3a1",
+    "data": [
+      {
+        "text": "albopictus forte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9810be3b-dc0e-4608-b12d-766b66d8936c",
+    "data": [
+      {
+        "text": "aedes aegypti ou albopictus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c9f194c-5a95-49b2-8ab9-e6eb10fde496",
+    "data": [
+      {
+        "text": "albopictus mais resistente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "445ca415-4337-4c19-87e4-33eea77089f1",
+    "data": [
+      {
+        "text": "O albopictus é mais resistente que o aegypti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "O que caracteriza o albopictus e o aegypti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

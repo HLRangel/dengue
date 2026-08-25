@@ -1,0 +1,78 @@
+{
+  "id": "60470cfe-0183-4d97-80a8-e6a95c9e43cc",
+  "name": "dengue_afeta_comunidades_grupos_prevencao",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "128e7be8-5c60-492a-81a1-ae17dea6b41a",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fcbff14b-9b6d-4e5e-ac17-b8d8f064208c",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "665192f3-ab12-47a1-9cc0-2ce0965d910f",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O impacto negativo da dengue é vulnerável a certos fatores sociais, como o egoismo. A melhor prevenção contra a dengue incorpora a eliminação dos criadouros do mosquito como dever coletivo. (1). Dado o fato de que apenas um mosquito pode colocar 450 ovos (2), a ação individual tem efeito limitado, com uma colaboração exaustiva sendo necessária entre o habitantes de uma região. A conscientização é um aspecto extremamente importante no combate à dengue.\n\nOs controles institucionais que encorajam a prevenção são extremamente limitados: em Ribeirão Preto, a fiscalização da prefeitura viu uma redução de 19% no efetivo de fiscais de 2016 ao início de 2024 (3), contribuindo para a criação do cenário atual de epidemia na cidade.\n\nFontes:\n(1) - Brasil de Fato (https://www.brasildefato.com.br/2019/05/20/prevencao-contra-dengue-nao-pode-ser-so-individual-alertam-especialistas/)\n(2) - Governo do Mato Grosso do Sul (https://www.saude.ms.gov.br/apesar-de-viver-apenas-45-dias-mosquito-aedes-aegypti-pode-colocar-450-ovos/)\n(3) - Revide (https://www.revide.com.br/noticias/saude/prefeitura-perde-60-fiscais-de-combate-a-dengue-em-oito-anos/)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

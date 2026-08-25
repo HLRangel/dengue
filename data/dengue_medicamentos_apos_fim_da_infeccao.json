@@ -1,0 +1,50 @@
+{
+  "id": "2949b30e-3b39-421e-8778-a463b846f2e9",
+  "name": "dengue_medicamentos_apos_fim_da_infeccao",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "17903cfd-4f08-483d-91b7-ba6f73472745",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Medicamentos não aconselhados a pacientes de dengue não devem ser usados após 2-3 semanas do fim dos sintomas.\n\nFonte: Universidade Federal de Minas Gerais (https://www.medicina.ufmg.br/afinal-o-que-fazer-em-caso-de-suspeita-de-dengue/)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

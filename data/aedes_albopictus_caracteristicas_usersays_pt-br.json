@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ee418751-951f-4f93-95d7-019e29063d4c",
+    "data": [
+      {
+        "text": "Como o vetor Aedes albopictus é?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ef0390dd-5ce5-41d4-964b-3334664dd38f",
+    "data": [
+      {
+        "text": "Eu tenho como saber se o mosquito que tem em casa é o Albopictus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1147be70-a17c-4588-90de-ba27b5068169",
+    "data": [
+      {
+        "text": "Como saber se o mosquito é o Aedes albopictus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

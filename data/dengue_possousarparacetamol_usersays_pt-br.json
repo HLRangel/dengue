@@ -1,0 +1,302 @@
+[
+  {
+    "id": "e9fdcc1f-1ea3-475b-9e60-696e94449b2d",
+    "data": [
+      {
+        "text": "nao promovem cura",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "830f08f6-7580-458e-a828-c6a6cd696f90",
+    "data": [
+      {
+        "text": "dengue em si não tem tratamento específico.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9e5dff55-da82-411d-b778-b62c9b94c45c",
+    "data": [
+      {
+        "text": "Posso ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " dipirona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ee27a7d5-5e95-4082-b799-ac54d9ba4cdc",
+    "data": [
+      {
+        "text": "Posso usar dipirona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "25b6ec67-a6a6-40da-9939-25f7fcd2ecbd",
+    "data": [
+      {
+        "text": "É aceito o uso de paracetamol?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "66199e09-74ad-4be2-b8d4-84b8962b8e27",
+    "data": [
+      {
+        "text": "Posso consumir paracetamol?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "25078c28-9426-410a-8b78-65bb6bde9049",
+    "data": [
+      {
+        "text": "Posso ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " paracetamol?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9b0013a1-e184-46af-88bb-f3692a855178",
+    "data": [
+      {
+        "text": "Posso usar paracetamol?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dbf78a83-d9ac-45a4-ae9d-0e32250e08c6",
+    "data": [
+      {
+        "text": "Tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " paracetamol ou ",
+        "userDefined": false
+      },
+      {
+        "text": "ibuprofeno é seguro para quem está com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c610af7c-060f-4e0d-a2c3-1f032bbc8f70",
+    "data": [
+      {
+        "text": "Paracetamol é seguro ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " se tiver dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2f94a43e-56c0-4c40-93d7-eab0f6cd1fe4",
+    "data": [
+      {
+        "text": "Quem tem dengue pode ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " dipirona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "157c9184-8716-40cd-b43e-7590a8c42ffd",
+    "data": [
+      {
+        "text": "É verdade que só pode ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " paracetamol como analgésico e antitérmico.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Segundo",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " a infectologista ",
+        "userDefined": false
+      },
+      {
+        "text": "Melissa Barreto",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Falcão",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": ", da ",
+        "userDefined": false
+      },
+      {
+        "text": "Sociedade Brasileira de Infectologia (SBI",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "), a dengue em si não tem tratamento específico. “O que se faz é aliviar os sintomas, ",
+        "userDefined": false
+      },
+      {
+        "text": "sempre de acordo com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " avaliação ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " profissional de ",
+        "userDefined": false
+      },
+      {
+        "text": "saúde",
+        "meta": "@sys.last-name",
+        "alias": "last-name1",
+        "userDefined": false
+      },
+      {
+        "text": ", conforme cada caso”,",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

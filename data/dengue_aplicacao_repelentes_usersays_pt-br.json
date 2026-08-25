@@ -1,0 +1,74 @@
+[
+  {
+    "id": "f983751b-760c-4eda-9031-9d6c2372cc8c",
+    "data": [
+      {
+        "text": "Como que o repelente deve ser utilizado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "337df143-372f-4ce3-9bae-d5cd0590e590",
+    "data": [
+      {
+        "text": "Como que eu ",
+        "userDefined": false
+      },
+      {
+        "text": "devo",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " utilizar o repelente ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " espantar o mosquito da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9dafe10a-2151-477e-aefd-0079f90356d6",
+    "data": [
+      {
+        "text": "Como que eu uso o repelente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8a14d728-30d1-40b7-b13d-b6834797a4c2",
+    "data": [
+      {
+        "text": "Como que eu aplico o repelente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

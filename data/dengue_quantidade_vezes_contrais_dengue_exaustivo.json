@@ -1,0 +1,145 @@
+{
+  "id": "aa887742-e7d2-4b5c-8050-8b7466e41993",
+  "name": "dengue_quantidade_vezes_contrais_dengue_exaustivo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5014758e-f649-42aa-8709-c35bb720b612",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "bd6b6418-c6c0-4faa-80e5-8a63ec36fa2e",
+          "name": "unit-area-name",
+          "required": false,
+          "dataType": "@sys.unit-area-name",
+          "value": "$unit-area-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1c906476-6166-483b-967c-0ef0dcd2f5b8",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "adea8447-fddc-4e6f-b107-8b03656a1f98",
+          "name": "music-artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$music-artist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0801d153-2cdf-48b0-a80b-0bca83c9396c",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "942fa934-8122-4e50-a737-37ec2c28f80c",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "03117223-cc6e-40d0-9316-db5013f98df3",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "É possível contrair dengue mais de uma vez, inclusive a Organização mundial da saúde (OMS), afirma que uma pessoa pode contrair dengue mais de uma vez. Existem quatro sorotipos do vírus da dengue (DENV-1, DENV-2, DENV-3 e DENV-4), e a infecção por um sorotipo não confere imunidade permanente contra os outros. Isso significa que, após ter dengue uma vez, a pessoa ainda está suscetível a ser infectada pelos outros sorotipos. Além disso, a OMS alerta que infecções subsequentes por diferentes sorotipos podem aumentar o risco de desenvolver formas graves da doença, como a dengue hemorrágica.\n\nFonte: Organização Mundial da Saúde (https://www.who.int/health-topics/dengue-and-severe-dengue#tab\u003dtab_1)",
+            "Existe a possibilidade de contrair a dengue mais de uma vez. O vírus possui quatro sorotipos diferentes, e a infecção por um deles não protege contra os outros. O Ministério da Saúde destaca que, em alguns casos, uma segunda infecção pode ser mais grave do que a primeira, especialmente se for causada por um sorotipo diferente. Por isso, é fundamental combater o mosquito Aedes aegypti e evitar a proliferação de criadouros.\n\nFonte: Ministério da Saúde (https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue)"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Segundo o Sistema de Informação de Agravos de Notificação (SINAN), o sistema de vigilância epidemiológica do Brasil, a dengue é uma doença de notificação compulsória, e os dados coletados mostram que é comum a ocorrência de reinfecções, o que corrobora com o fato de que é possível contrair a doença mais de uma vez. O SINAN coleta e analisa dados sobre a incidência de dengue no país, ajudando a monitorar e controlar a disseminação da doença.\n\nFonte: SINAN (https://portalsinan.saude.gov.br/dengue)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

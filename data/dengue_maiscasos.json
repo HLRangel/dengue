@@ -1,0 +1,79 @@
+{
+  "id": "5b119ea0-4a0f-48b0-ac52-02dad9a03ff7",
+  "name": "dengue_maiscasos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "183e8850-395d-4f79-b7d5-8f1b640789a6",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9dad7ab1-6d4c-44cf-9cd7-033beaaa50c1",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "df621d3a-62a0-410b-92b4-8a56436f14b7",
+          "name": "flight-number",
+          "required": false,
+          "dataType": "@sys.flight-number",
+          "value": "$flight-number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O Brasil registrou mais de 6 milhões de casos prováveis de dengue até 7 de outubro de 2024. Trata-se do maior registro anual desde o início do monitoramento em 2000.(1)\n\nEm 2025, o coeficiente de incidência das arboviroses atingiu 930,4 casos por 100 mil habitantes – mais de três vezes acima do parâmetro de 300 casos por 100 mil habitantes estabelecido pela Organização Mundial da Saúde (OMS) para caracterizar um cenário classificado como epidêmico. (2)\n\nSão Paulo lidera o ranking de estados, com 291.423 casos prováveis. Em seguida estão Minas Gerais (57.348), Paraná (31.786) e Goiás (27.081). \n\nEm relação ao coeficiente de incidência, o Acre aparece em primeiro lugar, com 760,9 casos para cada 100 mil habitantes, seguido por São Paulo (633,9), Mato Grosso (470,2) e Goiás (368,4). (3)",
+            "O Ministério da Saúde aponta São Paulo como o estado com o maior número de casos de dengue. Em 2024, o estado concentrou 32,3% dos casos no país, totalizando 2,1 milhões de infecções e 1.786 mortes. (4)\n\nFontes:\n\n(1) - Conselho Federal de Enfermagem (https://www.cofen.gov.br/dengue-aumentou-400-no-brasil-em-2024-em-comparacao-ao-ano-passado/)\n(2) - CNN Brasil (https://www.cnnbrasil.com.br/nacional/brasil-bate-recorde-historico-de-casos-de-dengue-com-18-milhao-em-menos-de-tres-meses/)\n(3) - Agência Brasil (https://agenciabrasil.ebc.com.br/saude/noticia/2025-03/brasil-soma-mais-de-500-mil-casos-de-dengue-queda-de-quase-70)\n(4) - Governo Federal (https://www.gov.br/saude/pt-br/assuntos/noticias/2025/janeiro/ministerio-da-saude-atualiza-dados-de-casos-de-dengue-no-brasil)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

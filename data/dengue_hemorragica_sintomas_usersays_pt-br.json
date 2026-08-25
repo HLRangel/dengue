@@ -1,0 +1,243 @@
+[
+  {
+    "id": "32c783e0-7efb-45a4-a366-ad8aefd43136",
+    "data": [
+      {
+        "text": "Como identificar sinais ",
+        "userDefined": false
+      },
+      {
+        "text": "da",
+        "meta": "@sys.unit-weight-name",
+        "alias": "unit-weight-name",
+        "userDefined": false
+      },
+      {
+        "text": " dengue hemorrágica?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d712a6a5-5bb0-4947-a721-d90d9096e945",
+    "data": [
+      {
+        "text": "Como identificar ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " dengue hemorrágica?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9203e0e4-fd99-4f79-a505-7b8a2a0e3094",
+    "data": [
+      {
+        "text": "Quais ",
+        "userDefined": false
+      },
+      {
+        "text": "são",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " os principais sinais de choque associados à dengue hemorrágica?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7ac315e9-786b-44cc-a248-184675129f11",
+    "data": [
+      {
+        "text": "estou sangrando, o que pode ser?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5563ebe6-3071-4d34-93a5-4239cf7099c4",
+    "data": [
+      {
+        "text": "qual a diferença entre dengue normal e dengue hemorragica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c84417ad-fe86-4ac4-8e5a-a7a9616ef357",
+    "data": [
+      {
+        "text": "posso morrer por dengue hemorragica?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b2d07c00-5019-4e28-9376-43fa36618dfc",
+    "data": [
+      {
+        "text": "qual o pior sintoma da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "33353fc6-6148-45bb-9a62-7252d8e524a6",
+    "data": [
+      {
+        "text": "sintomas da dengue hemorragica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "267ca9aa-3d63-462d-aaab-e35a0f236eef",
+    "data": [
+      {
+        "text": "como saber se é dengue hemorragica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d4a0747d-389c-4e82-976e-c47d7b483981",
+    "data": [
+      {
+        "text": "como identificar a dengue hemorrágica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c8470ca1-40cb-4e4b-bdbf-fef39398b85b",
+    "data": [
+      {
+        "text": "sinais ",
+        "userDefined": false
+      },
+      {
+        "text": "da",
+        "meta": "@sys.unit-weight-name",
+        "alias": "unit-weight-name",
+        "userDefined": false
+      },
+      {
+        "text": " dengue hemorrágica",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d6ccd2d7-90bd-4153-aaec-675348b2d13e",
+    "data": [
+      {
+        "text": "Como podemos identificar ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " dengue hemorrágica?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f8b51b25-a2fb-429c-a8cb-b980dc69d40e",
+    "data": [
+      {
+        "text": "Existem casos de dengue muito pesados?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "O que é a sindrome ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " choque da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

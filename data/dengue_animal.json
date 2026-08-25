@@ -1,0 +1,65 @@
+{
+  "id": "cb69723b-ca44-4602-8f34-174e50542e27",
+  "name": "dengue_animal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bdac88b3-481b-4977-8ac9-b82a426b2a95",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c357f92f-616f-4e08-962c-2f11d713d764",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A dengue é uma doença viral transmitida pelo mosquito Aedes aegypti, que afeta exclusivamente os seres humanos. Animais domésticos, como cães e gatos, não contraem dengue. No entanto, é importante destacar que o Aedes aegypti também pode picar animais, transmitindo-lhes outras doenças, como a dirofilariose, conhecida como verme do coração.\n\nEstudos indicam que, embora o Aedes aegypti seja o vetor da dengue em humanos, ele também pode picar animais domésticos e silvestres, transmitindo-lhes outras doenças, como a dirofilariose. (1)",
+            "Embora o Aedes aegypti seja o principal vetor da dengue em humanos, ele também pode picar animais domésticos e silvestres, transmitindo-lhes outras doenças, como a dirofilariose. (2)\n\nFontes:\n(1) - Fiocruz (https://www.arca.fiocruz.br/handle/icict/13632)\n(2) - Governo de São Paulo (https://capital.sp.gov.br/w/noticia/animais-sinantropicos-saiba-quais-sao-os-principais-e-as-doencas-que-transmitem)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

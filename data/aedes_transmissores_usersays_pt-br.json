@@ -1,0 +1,126 @@
+[
+  {
+    "id": "6705a858-0dc9-4825-9900-528727d124dc",
+    "data": [
+      {
+        "text": "Só o Aedes albopictus transmite dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cfd54c27-2b21-4a8d-8583-130b3e65c635",
+    "data": [
+      {
+        "text": "Só o Aedes aegypti transmite dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "46abcf7e-46fa-4c6f-88a1-23bd93ef71a3",
+    "data": [
+      {
+        "text": "Existe mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " mosquito que transmite a doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4f93c7ed-f6c0-4ca6-915b-2ca33ca4753c",
+    "data": [
+      {
+        "text": "Quais os vetores que transmitem denv?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "91a3ef85-85b5-4317-aba9-e23483da5321",
+    "data": [
+      {
+        "text": "Quais são os mosquitos que causam a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "46626329-c372-4e02-90b9-912384fd2403",
+    "data": [
+      {
+        "text": "Quem são os mosquitos que transmitem a doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "O que passa a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Qual o principal mosquito transmissor da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como saber se o mosquito é o Aedes aegypti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

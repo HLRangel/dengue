@@ -1,0 +1,551 @@
+[
+  {
+    "id": "3448e357-fc1a-4be7-a143-c534d3fd2372",
+    "data": [
+      {
+        "text": "Essa ",
+        "userDefined": false
+      },
+      {
+        "text": "água",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "parada",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " fica onde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ed1ae15b-356a-46cd-8604-0740a26588c1",
+    "data": [
+      {
+        "text": "Quais lugares que tem ",
+        "userDefined": false
+      },
+      {
+        "text": "água",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "parada",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " o mosquito mais gosta?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3b364db5-f0d4-4a99-8237-720ab9a6dfae",
+    "data": [
+      {
+        "text": "Que tipos de ",
+        "userDefined": false
+      },
+      {
+        "text": "água",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "parada",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d5dc2c66-2f80-44e5-838d-2bb614dd82ce",
+    "data": [
+      {
+        "text": "Que tipos de ",
+        "userDefined": false
+      },
+      {
+        "text": "água",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "parada",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " o mosquito da dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "gosta",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f05d0890-609c-4384-a070-271847c1d9b5",
+    "data": [
+      {
+        "text": "O Aedes aegypti prefere esgotos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "63115934-f68b-4267-a070-84f033ee7a5f",
+    "data": [
+      {
+        "text": "O Aedes aegypti prefere pântanos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "73130df7-f456-433c-a647-add6f430e6cf",
+    "data": [
+      {
+        "text": "Mosquito prefere ",
+        "userDefined": false
+      },
+      {
+        "text": "pântano",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "550e6117-9582-4a4e-b10f-ba1ff55ea8bb",
+    "data": [
+      {
+        "text": "Dengue prefere ",
+        "userDefined": false
+      },
+      {
+        "text": "pântano",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1059d514-3c14-480c-8a78-418b90e32789",
+    "data": [
+      {
+        "text": "Que lugares que a dengue prefere?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d479415d-3266-4b8a-8321-b4800daa45f7",
+    "data": [
+      {
+        "text": "Andei no matagal, posso ter dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ae26f871-8fa5-4ac4-9264-fdd299babcf3",
+    "data": [
+      {
+        "text": "Que tipo de ",
+        "userDefined": false
+      },
+      {
+        "text": "agua",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " o mosquito da dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "gosta",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9f8d5fa2-35e3-4dc3-a2d2-261e6b82ba85",
+    "data": [
+      {
+        "text": "Mosquito gosta de ",
+        "userDefined": false
+      },
+      {
+        "text": "água",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " com minério?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "256dd753-21fd-4687-9970-4b0b74814b5d",
+    "data": [
+      {
+        "text": "Mosquito gosta de ",
+        "userDefined": false
+      },
+      {
+        "text": "água",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " barrenta?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f547c833-68d4-4171-a740-578835a4d12d",
+    "data": [
+      {
+        "text": "Na ",
+        "userDefined": false
+      },
+      {
+        "text": "água",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " barrenta o mosquito da dengue se prolifera?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d34c5607-e5fe-47a5-9ad9-abe800d768aa",
+    "data": [
+      {
+        "text": "Água",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "parada",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d4deeb6b-9a52-47ae-bd9b-9f84f4e37017",
+    "data": [
+      {
+        "text": "Se ",
+        "userDefined": false
+      },
+      {
+        "text": "a água",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " tiver contaminada da ",
+        "userDefined": false
+      },
+      {
+        "text": "fonte e",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ficar ",
+        "userDefined": false
+      },
+      {
+        "text": "parada",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " em algum lugar, o mosquito vai proliferar ",
+        "userDefined": false
+      },
+      {
+        "text": "ali",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " assim mesmo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4ef24cdf-c5ca-460a-bc87-d07e213f1687",
+    "data": [
+      {
+        "text": "Onde o mosquito mais gosta de ficar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 10,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Qual a importância da ",
+        "userDefined": false
+      },
+      {
+        "text": "água",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "parada",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " na reprodução ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " mosquito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Tem ",
+        "userDefined": false
+      },
+      {
+        "text": "água",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "parada",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " na ",
+        "userDefined": false
+      },
+      {
+        "text": "minha casa",
+        "meta": "@sys.location",
+        "alias": "location1",
+        "userDefined": false
+      },
+      {
+        "text": ", o que eu faço?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 8,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Tenho ",
+        "userDefined": false
+      },
+      {
+        "text": "uma piscina em casa",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": ", pode ",
+        "userDefined": false
+      },
+      {
+        "text": "dar",
+        "meta": "@sys.music-genre",
+        "alias": "music-genre",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

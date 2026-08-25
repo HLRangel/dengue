@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cfcd33db-af4a-4e7e-bea1-670409ce9d8f",
+    "data": [
+      {
+        "text": "Eu tenho como saber se o mosquito que vi em ",
+        "userDefined": false
+      },
+      {
+        "text": "casa",
+        "meta": "@sys.music-genre",
+        "alias": "music-genre",
+        "userDefined": false
+      },
+      {
+        "text": " é o Aedes aegypti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "39a209f6-b156-4fe3-a388-9ec95fd0e500",
+    "data": [
+      {
+        "text": "Como sei que é o mosquito ",
+        "userDefined": false
+      },
+      {
+        "text": "tigre",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8127a728-a01f-4770-949c-558d6fcf7a66",
+    "data": [
+      {
+        "text": "Como saber se o mosquito é o Aedes aegypti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d02d28ce-4bea-4a4f-94b6-053eebae425d",
+    "data": [
+      {
+        "text": "O que é Aedes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "4eeae8ff-9fd6-40f2-9a06-e30d2b2b9c60",
+  "name": "dengue_repelentes_ajudam",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O uso de repelente traz proteção contra o mosquito da dengue, porém, ainda são necessárias medidas que combatam a proliferação do mosquito, visando o bem-estar coletivo.\n\nFonte: Governo Federal (https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2024/quais-repelentes-posso-usar-contra-o-mosquito-da-dengue)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

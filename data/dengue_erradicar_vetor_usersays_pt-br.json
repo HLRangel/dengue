@@ -1,0 +1,96 @@
+[
+  {
+    "id": "6537c695-c4bc-4c19-92d5-a156a126c421",
+    "data": [
+      {
+        "text": "Porque não conseguimos acabar com o mosquito da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c864321e-8d6b-4a78-a572-1c8c0db048de",
+    "data": [
+      {
+        "text": "Porque acaba sendo tão dificil matar o mosquito de vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "57d1a2c1-c951-4514-a9f8-b6bb0efe6002",
+    "data": [
+      {
+        "text": "Por",
+        "meta": "@sys.language",
+        "alias": "language",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "que motivo é tão dificil acabar com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " o vetor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c4926c10-9b12-407c-a671-51d6e523d338",
+    "data": [
+      {
+        "text": "É complicado erradicar o vetor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8860f04a-26bd-4560-8436-2e484a3a2b5f",
+    "data": [
+      {
+        "text": "Erradicar o vetor é dificil?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0aa475b5-a25a-4cc6-aa33-e4f0f5e7dc3f",
+    "data": [
+      {
+        "text": "Por que é tão difícil erradicar completamente o mosquito Aedes aegypti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

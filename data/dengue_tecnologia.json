@@ -1,0 +1,78 @@
+{
+  "id": "73f96633-8dd1-49a6-bdcb-8e252dec7f5f",
+  "name": "dengue_tecnologia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2e6baea2-c595-4350-acb8-80ed3ead139c",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "71009044-796b-4d3e-acea-5d88efd3d3cd",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "619c033c-29b2-4a10-8ffc-9d905d0f0131",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A tecnologia desempenha um papel crucial no enfrentamento da dengue ao integrar métodos como monitoramento em tempo real, uso de inteligência artificial para análise de dados, aplicativos educativos e drones para inspeção de áreas de risco. Essas inovações tornam o combate à dengue mais rápido e eficiente, ajudando a salvar vidas e reduzir os impactos da doença. Abaixo, detalhamos como cada uma dessas ferramentas está contribuindo para essa luta. \n\nUm exemplo é programa o Techdengue que faz uso de drones para realizar o monitoramento aéreo para encontrar possíveis focos da dengue, uma estratégia inovadora que permite mapear e identificar criadouros do mosquito de forma ágil e eficiente. Durante os mapeamentos, são coletados dados detalhados que ajudam a compreender o comportamento do vetor e a propor ações direcionadas.\n\nAlém disso, o uso de drones no combate à dengue permite a pulverização direcionada de larvicidas, garantindo que os produtos sejam aplicados apenas onde realmente são necessários. Isso reduz o impacto ambiental, otimiza o uso de recursos e melhora significativamente a eficácia das ações de controle.\n\nCom essa abordagem integrada, o Techdengue não apenas combate a dengue, mas também contribui para a promoção de uma saúde pública mais sustentável e eficiente.\n\nFonte (1): https://dengue.org.br/como-a-tecnologia-esta-revolucionando-o-combate-a-dengue/\nFonte (2): https://techdengue.com/uso-de-drones-no-combate-a-dengue/"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

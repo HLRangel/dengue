@@ -1,0 +1,35 @@
+{
+  "id": "4b53095d-d5bc-4c94-a44c-05fefb6de405",
+  "name": "dengue_assintomatico",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Um estudo realizado com moradores de um alojamento estudantil em Pernambuco revelou que, a cada cinco indivíduos diagnosticados com dengue, um não apresentou sintomas da doença. Essa proporção (1:5) reforça a hipótese, sustentada por especialistas em infectologia, de que até 50% dos casos de dengue podem ser assintomáticos. A ausência de manifestações clínicas em parte das infecções dificulta o diagnóstico precoce e contribui para a subnotificação de casos, desafio crítico no controle de epidemias.\n\nFonte: Metrópoles (https://www.metropoles.com/saude/dengue-assintomatica-como-saber)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

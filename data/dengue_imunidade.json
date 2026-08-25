@@ -1,0 +1,50 @@
+{
+  "id": "f6e8ef2c-d901-413a-a6ee-2a63e71c0cc4",
+  "name": "dengue_imunidade",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "07b39b22-a6ad-4ee4-ae2b-7c4cd54db0e8",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Pegar a dengue não confere imunidade, pois o vírus possuí quatro variações (DENV-1, DENV-2, DENV-3, e DENV-4) (1). A taxa de sobrevivência cai drasticamente após cada infecção. (2)\n\nFontes:\n\n(1) - Governo Federal (https://oglobo.globo.com/saude/noticia/2024/02/19/dengue-quem-teve-a-doenca-uma-vez-esta-protegido-infectologista-responde.ghtml)\n(2) - Shih et. al. (https://www.sciencedirect.com/science/article/pii/S1684118224001166)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": "dd48818d-e22f-4b08-b8e8-728c28e52b7d",
+  "name": "dengue_possotomarvacina",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "227160e3-8aa5-4e66-bf35-7c92dbc616b0",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e661d8c3-f9d5-47ef-a813-d6cb35e05021",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A vacina já está disponível pelo SUS ao grupo prioritário: crianças de 10 a 14 anos que vivem em locais de alto risco. Para saber os detalhes, consulte a secretaria da saúde de seu município.\n\nFonte: Agência Brasil (https://agenciabrasil.ebc.com.br/saude/noticia/2025-02/ministerio-da-saude-amplia-idade-para-receber-vacina-contra-dengue)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "5d71ef7a-6cb7-4989-8690-7feb86744f13",
+    "data": [
+      {
+        "text": "Há a possibilidade de eu ficar com sequela?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "195f98e9-9a77-411e-b2fa-65a8d769b7a6",
+    "data": [
+      {
+        "text": "Tem chance de dar sequela?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a3dc2108-ee35-4bf0-9206-d248bd021f0f",
+    "data": [
+      {
+        "text": "Eu tenho a possibilidade de ter sequelas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "53d5df03-7207-48da-bbe7-01d74621c956",
+    "data": [
+      {
+        "text": "Posso ter sequelas com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "69b580c1-5c3d-477b-8fcf-2f75e435991c",
+    "data": [
+      {
+        "text": "a dengue da sequelas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e8026279-0aab-44ca-9e99-54b62e4d8953",
+    "data": [
+      {
+        "text": "A dengue sempre deixa sequelas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

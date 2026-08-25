@@ -1,0 +1,64 @@
+{
+  "id": "2b2f89ce-1d10-4b18-9c72-0de83fc909e4",
+  "name": "dengue_albopictus_resiliencia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fb767f6e-d73a-4c36-b494-0e90f0735c62",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d1a6afcd-24f2-4fe2-b73c-b6fafcab5cfd",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O Aedes albopictus, chamado também por mosquito-tigre-asiático, destaca-se por sua alta capacidade de dispersão, colonizando ambientes urbanos, rurais e silvestres. Sua presença em múltiplos habitats evidencia a transição de ecossistemas naturais para áreas antropizadas. Essa espécie pode coexistir com o Aedes aegypti em uma mesma região, compartilhando criadouros semelhantes (como recipientes artificiais, pneus e bromélias). Sua rápida proliferação está associada à habilidade de explorar locais com condições favoráveis, mesmo que as fêmeas não se desloquem por longas distâncias. A dispersão eficiente ocorre devido à disponibilidade de sítios de oviposição em diferentes microambientes.\n\nEmbora utilize humanos e aves como hospedeiros frequentes, sua distribuição não depende exclusivamente de alta densidade populacional. O Ae. albopictus prefere o peridomicílio (áreas próximas a residências), mas adapta-se facilmente a zonas rurais, semiurbanas e silvestres. Suas formas imaturas desenvolvem-se em criadouros diversificados, desde depósitos naturais (bambus, buracos em pedras) até recipientes artificiais (latas, pneus).\n\nSeu ciclo evolutivo é semelhante ao do Aedes aegypti, incluindo a alimentação hematófaga (em humanos e outros animais). No entanto, o Ae. albopictus apresenta maior resistência a temperaturas baixas, ampliando sua sobrevivência em climas temperados. Essa versatilidade ecológica, aliada à capacidade de explorar nichos variados, torna seu controle mais complexo que o do Ae. aegypti. A flexibilidade adaptativa dificulta intervenções padronizadas, exigindo estratégias específicas para diferentes contextos geográficos e ambientais.\n\nFonte: Governo Rio Claro (https://www.saude-rioclaro.org.br/dengue/Aedes%20aegypti%20e%20aedes%20albopictus.htm)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

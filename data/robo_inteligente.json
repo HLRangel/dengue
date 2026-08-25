@@ -1,0 +1,64 @@
+{
+  "id": "0454197f-1337-4d4f-b714-6848b64baca5",
+  "name": "robo_inteligente",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8fd98384-d83e-4b20-bcf9-cc595eeead68",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a8d8d42d-a03f-4c09-adb3-8f393e87a88a",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Não posso diagnosticar a dengue, não sou inteligente, e não tenho opiniões ou conhecimento sobre nada. Sou um robô, criado por meio do produto DialogFlow ES, funcionando por meio de algoritmos classificadores, que relacionam o texto enviado por você com uma série limitada de questões. A esmagadora maioria das minhas respostas foram escritas por seres humanos, que tem a capacidade de cometer erros, incluindo erros graves."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,452 @@
+[
+  {
+    "id": "a4df7956-e480-44af-b363-098bba9b1e14",
+    "data": [
+      {
+        "text": "mosquiteiro é a proteção mais eficaz ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " a dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2817e01d-8abf-4071-af85-e152449a0cb6",
+    "data": [
+      {
+        "text": "Qual o metodo mais eficiente ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " não contrair o vírus da Dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "00a2b5b3-8728-435a-80fb-9ca89870b71c",
+    "data": [
+      {
+        "text": "Quais são os desafios ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " convencer a população a adotar o mosquiteiro como método principal de proteção?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "20d0af4c-a43f-47ea-80f6-8dd52ea22987",
+    "data": [
+      {
+        "text": "O mosquiteiro é ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " solução ",
+        "userDefined": false
+      },
+      {
+        "text": "viável em larga escala para países com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " altos índices de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "db945345-d9e1-4bee-8b2e-d7b461a8faf5",
+    "data": [
+      {
+        "text": "Há",
+        "meta": "@sys.unit-area-name",
+        "alias": "unit-area-name",
+        "userDefined": false
+      },
+      {
+        "text": " recomendações especiais de mosquiteiros ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " bebês ou gestantes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e68d87af-c183-444f-8be6-3dd369762565",
+    "data": [
+      {
+        "text": "Quais são as alternativas de proteção ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " grávidas que não podem usar certos repelentes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0c036e1c-27d2-47c6-9190-3bc3c57df90f",
+    "data": [
+      {
+        "text": "Por que os ",
+        "userDefined": false
+      },
+      {
+        "text": "repelentes",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " não oferecem proteção ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "% ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cf1aa24f-2c35-4fec-9e3f-a8b5aa8da27a",
+    "data": [
+      {
+        "text": "Existem tipos específicos de mosquiteiro recomendados ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " maior proteção?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e02716e9-2fc8-40f1-a9f3-d8bef37192cd",
+    "data": [
+      {
+        "text": "Como o mosquiteiro atua como ",
+        "userDefined": false
+      },
+      {
+        "text": "barreira",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " física ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " o Aedes aegypti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "762be6c8-2737-4b1a-bf92-8273e8103130",
+    "data": [
+      {
+        "text": "tela ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mosquito",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8356eca6-e7db-40c3-bf3e-c161d529286d",
+    "data": [
+      {
+        "text": "mosquiteiro é eficiente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2b6ddedb-accc-40b3-8704-0ce6d041b878",
+    "data": [
+      {
+        "text": "posso usar mosquiteiros?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c7471555-198e-4d88-9ac0-6319976a593f",
+    "data": [
+      {
+        "text": "mosquiteiro é bom ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " mosquitos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d33046be-440f-4cdd-8524-77633b17e595",
+    "data": [
+      {
+        "text": "qual a melhor proteção ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "512a48f8-52db-4282-9dcb-49774ecbbe23",
+    "data": [
+      {
+        "text": "qual a vantagem de usar o mosquiteiro?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d0881653-63f6-4e12-be6f-d866fe863943",
+    "data": [
+      {
+        "text": "posso usar mosquiteiro?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b116130-dad7-45ea-ae23-919f854ce192",
+    "data": [
+      {
+        "text": "mosquiteiro é bom?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "608ccbfb-2a20-4de6-bce2-9db5a01e4415",
+    "data": [
+      {
+        "text": "mosquiteiro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a947cdbd-c8c6-423e-8e75-0befaca1fc86",
+    "data": [
+      {
+        "text": "Mosquiteiro espanta o mosquito da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b94a0563-7acf-424c-8662-e8558c59f81b",
+    "data": [
+      {
+        "text": "Existe mosquiteiro com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " repelente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "O mosquiteiro é bom?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 8,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

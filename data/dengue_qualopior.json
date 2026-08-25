@@ -1,0 +1,78 @@
+{
+  "id": "df8b9b46-3361-495d-85bc-58f00ddafc08",
+  "name": "dengue_qualopior",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ccf017a6-0730-469e-bf3a-726f7de63361",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b63bc1e3-f76c-4382-834f-8ca912c52809",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fcf53318-818f-43c4-b4de-133baa5fa3a1",
+          "name": "unit-weight-name",
+          "required": false,
+          "dataType": "@sys.unit-weight-name",
+          "value": "$unit-weight-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Uma das piores formas da dengue é a dengue hemorrágica, que causa o vazamento de plasma, e um aumento acentuado no número de plaquetas, também sendo caracterizada por um acúmulo de líquidos no corpo.\n\nEnquanto a dengue hemorrágica por si só já caracteriza um caso de dengue grave, essa variação da doença pode causar sangramento ou falência de órgãos, necessitando a internação do paciente e sua supervisão por um time médico.\n\nFonte: Agência Brasil (https://agenciabrasil.ebc.com.br/saude/noticia/2024-02/entenda-por-que-hemorragia-nao-e-principal-sintoma-da-dengue-grave)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

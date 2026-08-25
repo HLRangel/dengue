@@ -1,0 +1,36 @@
+{
+  "id": "3ea384e2-c58b-48bb-98c1-f83c516545ff",
+  "name": "aedes_albopictus_caracteristicas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Ambos os vetores da doença são de cor preta, com pintas brancas, porém, o desenho formado pelo tracejado na cabeça e no tórax do Aedes albopictus há uma listra na cabeça que desce até o tórax. Essa diferença é notável ao olho nu.",
+            "Fonte: https://www.correiobraziliense.com.br/ciencia-e-saude/2023/10/5135984-aedes-albopictus-conheca-o-mosquito-que-tambem-transmite-a-dengue.html#google_vignette"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

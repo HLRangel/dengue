@@ -1,0 +1,210 @@
+[
+  {
+    "id": "59a65a0f-7a5e-4a8d-8037-5861f34c6954",
+    "data": [
+      {
+        "text": "Do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " que você foi apelidado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "44f5ca70-7e1f-4a20-8c21-3835ab5b67e7",
+    "data": [
+      {
+        "text": "Qual seu apelido?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f2cda354-54c8-4394-93b6-7d2e8626cbf8",
+    "data": [
+      {
+        "text": "Qual seu nome de nascença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d5c3704d-829d-4859-8a12-1d73937401c1",
+    "data": [
+      {
+        "text": "Te chamaram de que?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6c7e6376-c32d-419c-b02c-20da92109f74",
+    "data": [
+      {
+        "text": "Como você chama?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b891f2f7-7579-4fa0-a47a-79686958ca9b",
+    "data": [
+      {
+        "text": "Qual nome foi lhe dado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1cdae6d4-333f-4ac9-9d77-44512dcf2b6d",
+    "data": [
+      {
+        "text": "Seu nome é?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "03ca2354-2878-4bb7-857a-c6c6bd6dece4",
+    "data": [
+      {
+        "text": "Que nome seus criadores deram pra você?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c338ce53-28f4-464f-84c2-16834d8373ae",
+    "data": [
+      {
+        "text": "Que nome você tem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0ac446ff-e0f6-4aed-b697-64e49f48d119",
+    "data": [
+      {
+        "text": "Qual é o seu nome?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Fala seu nome completo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quem é você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Qual seu nome?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Posso te chamar de outro nome?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Porque escolheu esse nome?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quem é você?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 9,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

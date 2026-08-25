@@ -1,0 +1,35 @@
+{
+  "id": "81159153-a688-4220-9f34-6da244e0aefe",
+  "name": "dengue_aedes_albopictus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O Aedes albopictus também transmite o vírus da dengue.\n\nFonte: Correio Braziliense (https://www.correiobraziliense.com.br/ciencia-e-saude/2023/10/5135984-aedes-albopictus-conheca-o-mosquito-que-tambem-transmite-a-dengue.html)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

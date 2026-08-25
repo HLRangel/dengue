@@ -1,0 +1,76 @@
+[
+  {
+    "id": "77ef3033-74d4-410f-a1df-3ef6d2d13820",
+    "data": [
+      {
+        "text": "Eu pego dengue pela picada ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " mosquito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "817ac066-b35c-4cfa-8e46-cafbf18163df",
+    "data": [
+      {
+        "text": "A mordida do mosquito passa dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5cda6216-9142-4874-abb3-fd5077db45e8",
+    "data": [
+      {
+        "text": "Que jeito o mosquito da dengue passa a doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ee13b3b4-8819-4290-956c-43c979048add",
+    "data": [
+      {
+        "text": "O mosquito da dengue passa a doença pela picada?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Mosquito prego passa dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

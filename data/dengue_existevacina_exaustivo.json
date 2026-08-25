@@ -1,0 +1,149 @@
+{
+  "id": "8f76a538-846d-406a-8324-1bf07b99ed57",
+  "name": "dengue_existevacina_exaustivo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2fd58b74-83b9-4c2a-8656-596492a561a0",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3ce83409-2025-47f8-9750-2867f2aa6d0c",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5f116925-5cca-4b79-90cf-8c618d7ac63d",
+          "name": "unit-area-name",
+          "required": false,
+          "dataType": "@sys.unit-area-name",
+          "value": "$unit-area-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "15546db2-c09e-4ace-bf28-3411c3b4d1c3",
+          "name": "music-artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$music-artist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a1f81167-ebac-48ed-bd83-23404bfb7255",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "68112536-fa84-467c-a036-b01daad6a260",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a0f2aef2-27ac-4523-bacf-dd393db29f1b",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6f3599da-3b6c-4ca3-9cb9-5ae7010c5485",
+          "name": "location1",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A OMS pré-qualificou duas vacinas contra a dengue: a CYD-TDV, desenvolvida pela Sanofi Pasteur, e a TAK-003, desenvolvida pela farmacêutica Takeda. O Ministério da Saúde incorporou em janeiro de 2024 a vacina contra dengue no Sistema Único de Saúde (SUS). O Brasil é o primeiro país do mundo a oferecer o imunizante no sistema público universal. (1)\n\nExiste uma vacina brasileira, criada pelo Instituto Butantan, que está aguardando certificação pela Anvisa. (2)",
+            "A OMS pré-qualificou duas vacinas contra a dengue: a CYD-TDV, desenvolvida pela Sanofi Pasteur, e a TAK-003, desenvolvida pela farmacêutica Takeda. A TAK-003 é recomendada para crianças de 6 a 16 anos em áreas com alta carga de dengue e é administrada em um esquema de duas doses com intervalo de três meses. (3)\n\nFontes:\n(1) - Ministério da Saúde (https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue/faq)\n(2) - Instituto Butantan (https://butantan.gov.br/noticias/butantan-pede-a-anvisa-registro-da-sua-vacina-contra-a-dengue-1-a-do-mundo-em-dose-unica)\n(3)  - Nações Unidas (https://news.un.org/pt/story/2024/05/1831686)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

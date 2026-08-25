@@ -1,0 +1,1717 @@
+[
+  {
+    "id": "b7c8597e-6f2c-4f45-a6b9-eaad67b2eb5e",
+    "data": [
+      {
+        "text": "dengue é bacteriano?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1a646d24-210a-428e-8ca1-e1ad38515a17",
+    "data": [
+      {
+        "text": "A dengue é ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " doença bacteriana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 7,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f77bb22a-1bea-4583-bc0b-0726c797ff36",
+    "data": [
+      {
+        "text": "Qual é o principal vetor da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 8,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e027c48c-25d2-4393-bc19-9ab728680e4d",
+    "data": [
+      {
+        "text": "Como a dengue é transmitida?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "800c593f-982b-49b8-a5bf-9f0668a95c3e",
+    "data": [
+      {
+        "text": "Como o vírus da dengue é introduzido no organismo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7eebbff8-82ea-4319-ab05-22fad6bccf88",
+    "data": [
+      {
+        "text": "Como o vírus da dengue é transferido ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " os humanos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "64c937cf-aa26-4a7c-89eb-249fd479fd2e",
+    "data": [
+      {
+        "text": "Como a dengue é propagada?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "276de6c4-b9f1-4bb8-9abb-a307fcfe5a26",
+    "data": [
+      {
+        "text": "Qual é o mecanismo de transmissão da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8e5e00c0-7c5d-42c2-8e4f-a62e02a90936",
+    "data": [
+      {
+        "text": "Como a dengue é espalhada entre as pessoas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "03bc8d69-7949-4082-819b-e29b70e233e0",
+    "data": [
+      {
+        "text": "Qual é o processo de transmissão da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "13c42d47-1330-4302-ba21-a85f6d03fddd",
+    "data": [
+      {
+        "text": "De que modo o vírus da dengue é transmitido?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "37885578-a888-4eaa-bc54-626473e51219",
+    "data": [
+      {
+        "text": "Como alguém pode ser infectado pela dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "15a1b4e4-3b1c-42bb-9542-af9f6f19119e",
+    "data": [
+      {
+        "text": "Qual é a forma de contágio da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "01063f4f-2097-4d0c-a82b-200429a5e76a",
+    "data": [
+      {
+        "text": "Como o vírus da dengue é passado ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " as pessoas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "144d079d-feac-4971-bc03-4dc462ef0551",
+    "data": [
+      {
+        "text": "Quais situações transmitem dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4807cd39-585b-4480-9362-fdb79fe19679",
+    "data": [
+      {
+        "text": "Em que situação se pega dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ecb7e225-e820-4bc6-b9f5-226ba74fb697",
+    "data": [
+      {
+        "text": "Como eu pego dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7bae1ceb-dbae-4b9b-af0a-d0ae38ef2aed",
+    "data": [
+      {
+        "text": "Fico com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "como",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "259fa254-9533-4cf9-9bc0-f7b99fe6967a",
+    "data": [
+      {
+        "text": "Como eu fico com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b14b7681-7b93-457a-8e16-e54e368f5236",
+    "data": [
+      {
+        "text": "Quais maneiras se contrai dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7da34258-7316-4402-9ecf-e3081d1853fa",
+    "data": [
+      {
+        "text": "Qual a maneira de contrair dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d2d597f1-854b-4859-8b34-cc85fc1abdf9",
+    "data": [
+      {
+        "text": "De que forma se sucede o contágio da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "93adbdc0-9602-48ec-af07-023777ac5a05",
+    "data": [
+      {
+        "text": "Como ocorre o contágio da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "74655897-07bc-4a4e-b58e-72d73e5f0e55",
+    "data": [
+      {
+        "text": "Qual é o modo de transmissão da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "21a344ab-49b5-42b7-922d-4d07f1c30139",
+    "data": [
+      {
+        "text": "Dengue se pega como?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9c5c4792-ee29-43cf-848c-2f03b64d2a3f",
+    "data": [
+      {
+        "text": "A passagem da dengue é feita como?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "edac5185-088b-421b-8d07-9a21ae8ac82b",
+    "data": [
+      {
+        "text": "O vírus da dengue é passado como?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "18bd8bc3-fea9-4b9a-9aef-b17c626fc0b0",
+    "data": [
+      {
+        "text": "Como é passado a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0741262c-a833-4a76-88da-7606ff75a67e",
+    "data": [
+      {
+        "text": "Como é adquirido o vírus da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d31c8a70-ac5d-49c9-bc09-b30301b7d1ea",
+    "data": [
+      {
+        "text": "Como contrai dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d689a982-73c1-4197-a660-b4a1ac4d7781",
+    "data": [
+      {
+        "text": "A transmissão da arbovirose dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "se",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " dá como?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ce4550e3-fd5a-4eb8-bd31-60c24c01d4ea",
+    "data": [
+      {
+        "text": "Como ",
+        "userDefined": false
+      },
+      {
+        "text": "se",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " da a transmissão da arbovirose dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "aa50709b-425c-4f66-8928-8bfeb4344661",
+    "data": [
+      {
+        "text": "A arbovirose dengue é transmitida como?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8361fe34-66f7-4808-9504-a7949a57094c",
+    "data": [
+      {
+        "text": "Como se pega a arbovirose dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1273ea14-4343-455c-a258-da03c97766a6",
+    "data": [
+      {
+        "text": "A arbovirose dengue é contraída como?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ccd94c39-ea58-4dbf-883f-1c8a220f756c",
+    "data": [
+      {
+        "text": "Como se contrai a arbovirose dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "60b1a3e3-42af-4537-9a04-55de0673d1a1",
+    "data": [
+      {
+        "text": "O vírus da dengue é transmitido de que jeito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ab3bdc38-951f-418f-a66e-10de28e36fa7",
+    "data": [
+      {
+        "text": "Contrai-se dengue como?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f3d9edb7-4084-4edb-9c67-e0822e840cd9",
+    "data": [
+      {
+        "text": "Pega-se dengue como?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3302d91a-eec2-421c-8551-84f716dc12c0",
+    "data": [
+      {
+        "text": "A dengue é pega como?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fdf50980-c412-489c-8353-fe5fa293329a",
+    "data": [
+      {
+        "text": "A dengue é transmitida como?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "78855458-bc90-4e4b-ae55-8059f42fce7b",
+    "data": [
+      {
+        "text": "De que maneira a dengue é transmitida?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "51af35b1-20b1-4bed-b668-fbb3f50fb85d",
+    "data": [
+      {
+        "text": "De que forma é transmitida a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cc9ace8c-a5f4-4671-a0d0-47e8fc75815b",
+    "data": [
+      {
+        "text": "Que jeito fica com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0fdd213e-1372-4d27-8f02-5551f492335f",
+    "data": [
+      {
+        "text": "De que jeito pega dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b613bbb4-ffac-45e5-ae4c-7f9d1fc44e85",
+    "data": [
+      {
+        "text": "De que maneira que pega dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5b0c0908-5874-4b48-97e5-8f2559a74e99",
+    "data": [
+      {
+        "text": "De que forma que pega dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ec909335-2ca9-4347-b684-f9888cef6eef",
+    "data": [
+      {
+        "text": "A dengue é contraída como?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d5fd072b-40ee-4aa3-b554-099349457271",
+    "data": [
+      {
+        "text": "Como a dengue é disseminada?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e4ab125d-5d99-44d3-81b1-5c8c57e06c22",
+    "data": [
+      {
+        "text": "Como pega dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d922c61f-000e-472a-857b-3221ed192149",
+    "data": [
+      {
+        "text": "Como a gente pega dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bc5e5435-bbc1-440b-8954-6ae443c9bbda",
+    "data": [
+      {
+        "text": "Como funciona a transmissão da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bcb3d756-4fe2-4b57-9adf-1ba5283fadc4",
+    "data": [
+      {
+        "text": "Como é que a dengue pega?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "29ef0ddc-507f-4c79-a9af-6734b4fe4008",
+    "data": [
+      {
+        "text": "A transmissão da dengue acontece de que jeito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "97cca726-6708-4aba-9cf0-97ab9e873f3b",
+    "data": [
+      {
+        "text": "A transmissão da dengue acontece de que maneira?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e34845e2-191b-45c3-89b8-8cff8dfaedcd",
+    "data": [
+      {
+        "text": "A transmissão da dengue acontece de que forma?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0d55ce23-bf05-4770-a95d-609391d4038f",
+    "data": [
+      {
+        "text": "Como ocorre a transmissão da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "742b40c5-42d8-4a53-9c60-ada83b51439a",
+    "data": [
+      {
+        "text": "Como ocorre a transmissão ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " vírus da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9e51fdd3-e5fe-4f6e-bba2-31439cbbf93a",
+    "data": [
+      {
+        "text": "A dengue é transmitida por humanos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fbec2cec-e769-4b4f-af3e-6cdf127e2389",
+    "data": [
+      {
+        "text": "Uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pessoa pode transmitir a dengue pra outra?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f28b3a2b-4a6b-4ec0-b0a4-0fdc252318ab",
+    "data": [
+      {
+        "text": "A dengue pode ser transmitida de pessoa pra pessoa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "84ca478f-8864-4dc6-b648-05a1ab15a2f5",
+    "data": [
+      {
+        "text": "Só o mosquito transmite a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "91e6a15e-cb4e-4cfe-bf00-b99339d41a2a",
+    "data": [
+      {
+        "text": "O que transmite a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bafc751e-e7da-4afd-994a-78e47467f77c",
+    "data": [
+      {
+        "text": "Que mosquito transmite a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0474a070-a948-4fb8-81d4-bfacf10fce6a",
+    "data": [
+      {
+        "text": "E mosquito ",
+        "userDefined": false
+      },
+      {
+        "text": "porva",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " passa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dbb9106f-4768-4b3a-9eb3-63eb94243922",
+    "data": [
+      {
+        "text": "Borrachudo passa a doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "27353572-82e6-4026-b5b2-cdb8775dcc2c",
+    "data": [
+      {
+        "text": "Todo mosquito transmite dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 7,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9e0cac45-848a-4f18-bdd2-71dde0d50119",
+    "data": [
+      {
+        "text": "Posso me diagnosticar com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "55054d41-0d6c-45cf-8444-77abb046958a",
+    "data": [
+      {
+        "text": "A dengue pode ser transmitida via transfusão de sangue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0afb746d-0a65-4559-aaec-89f2e8b02f7b",
+    "data": [
+      {
+        "text": "Se eu ",
+        "userDefined": false
+      },
+      {
+        "text": "comer",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " o mosquito pego dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a22267d1-3fe1-468d-8509-7a963cf9caf1",
+    "data": [
+      {
+        "text": "Que inseto passa dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8ed18c9a-a435-4557-8597-6b9e8367247c",
+    "data": [
+      {
+        "text": "Que bicho passa dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7814433b-af64-4d6b-8bd0-e8ec4a5e18c6",
+    "data": [
+      {
+        "text": "Mosquito palha passa dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a74803bc-992d-4242-832e-ff12cdbfd4fd",
+    "data": [
+      {
+        "text": "Todos os mosquitos Aedes aegypti podem transmitir dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "eb7be2ff-785b-4546-8614-d57b3ab81bf7",
+    "data": [
+      {
+        "text": "Quais os maiores vetores de denv ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "51e84c64-e6f0-41e3-81aa-02f705014008",
+    "data": [
+      {
+        "text": "Quais os maiores vetores de dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mundo",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b6013fa6-1347-41e4-ad21-2b6e331ad8f6",
+    "data": [
+      {
+        "text": "Como o vetor da dengue enxerga a gente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6c27f2ff-47eb-407f-a23d-2516d6434a77",
+    "data": [
+      {
+        "text": "Barbeiro",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " transmite dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a2c4d33-b133-4917-81c0-37e98fd42f4a",
+    "data": [
+      {
+        "text": "Qual o mosquito que transmite a dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2f4b26cc-3069-4a65-bd70-fe70edcce893",
+    "data": [
+      {
+        "text": "como a dengue é transmitida?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4798d659-381b-4daa-a009-e3ee0040e000",
+    "data": [
+      {
+        "text": "Muriçoca transmite dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0f76edea-ec0e-48b7-abfc-fbea3d3e701d",
+    "data": [
+      {
+        "text": "Aquele mosquito grandão também transmite dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "07d89ff5-f704-41c1-95ef-efcda413c194",
+    "data": [
+      {
+        "text": "Posso doar sangue com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "91ab8de4-931f-4ca3-9e68-ea00ab7f07d5",
+    "data": [
+      {
+        "text": "Posso tomar ansiolítico enquanto estou com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "321e2c3a-5d2a-426d-8f19-bf1dde094bbd",
+    "data": [
+      {
+        "text": "Quais remedios devo tomar com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dc0a1059-0293-4707-8031-f566dc3548da",
+    "data": [
+      {
+        "text": "Dengue é ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " doença bacteriana?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d7563c66-160e-4521-a86e-15f3b0e77d06",
+    "data": [
+      {
+        "text": "O ",
+        "userDefined": false
+      },
+      {
+        "text": "maruim",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " transmite dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1af04fb0-0bcc-4d5d-be47-38c22f6d10bf",
+    "data": [
+      {
+        "text": "O mosquito-pólvora passa a dengueM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e05db1d6-9cf3-4cad-9eb8-1f69b9f901cd",
+    "data": [
+      {
+        "text": "Birigui",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " passa dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2b5e8e77-501b-40fd-8139-fbb7e191c362",
+    "data": [
+      {
+        "text": "O mosquito ",
+        "userDefined": false
+      },
+      {
+        "text": "egipcio",
+        "meta": "@sys.language",
+        "alias": "language",
+        "userDefined": false
+      },
+      {
+        "text": " que transmite dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8ebe3db2-205b-4fe1-a196-48ac18df8d85",
+    "data": [
+      {
+        "text": "Muriçoca passa a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "496cc947-eba5-409d-bda7-6aa49a281c25",
+    "data": [
+      {
+        "text": "Posso pegar dengue com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "maruim",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "98259335-d083-410f-bab4-cdb90f279d0a",
+    "data": [
+      {
+        "text": "A dengue é arbovirose?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "39433b10-a3a5-4000-bf91-106fb3a2e378",
+    "data": [
+      {
+        "text": "Dengue é contagiosa ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e1dd8160-8bcf-4a5c-9cff-c3c12ddebc38",
+    "data": [
+      {
+        "text": "Pode plantar bananeira enquanto está com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "62284a09-dbab-4f7c-88f7-39319245012c",
+    "data": [
+      {
+        "text": "Como o virus da dengue é transmitido aos seres humanos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7f870ead-7b89-4b67-b33a-df178a033f15",
+    "data": [
+      {
+        "text": "Como o controle ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " vetor pode ser usado de forma eficaz?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b899978c-7e39-45b1-a26c-b65eb44ead1f",
+    "data": [
+      {
+        "text": "Pode transmitir pra mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pessoa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1f6940f0-9cf3-44dd-a403-6045c9166837",
+    "data": [
+      {
+        "text": "A dengue vem de ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vírus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5ab58b71-cf3c-4d26-8c45-ca2f32e1cdb3",
+    "data": [
+      {
+        "text": "Se eu moro com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pessoa que pegou dengue, tenho muita chance de pegar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3468f70a-a92e-46af-8c2c-e23c8c205713",
+    "data": [
+      {
+        "text": "Como funciona a infecção ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " vírus da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 9,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como as ",
+        "userDefined": false
+      },
+      {
+        "text": "mudanças",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " climáticas e a urbanização influenciam os padrões de transmissão da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quem transmite a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "O que é dengue e como ",
+        "userDefined": false
+      },
+      {
+        "text": "ela",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " se transmite?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como pego dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 10,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Qual a diferença da denv pra outras arboviroses transmitidas por insetos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como se pega?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como se transmite?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

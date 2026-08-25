@@ -1,0 +1,206 @@
+[
+  {
+    "id": "e11d447a-2d25-4d39-a231-027690027a95",
+    "data": [
+      {
+        "text": "Pode matar o Aedes albopictus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "77e29f25-8175-482b-aef8-9a9d7dd75637",
+    "data": [
+      {
+        "text": "Pode matar o Aedes aegypti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8850fd08-5dd9-442f-9bd4-83f0e3d3b862",
+    "data": [
+      {
+        "text": "É legal matar o mosquito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3b0591d0-de58-4c8f-8bb7-7096986d6b04",
+    "data": [
+      {
+        "text": "Deve matar o mosquito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a1e979d9-363c-4099-b0b7-a419a02ffe54",
+    "data": [
+      {
+        "text": "Pode matar o mosquito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "edd74898-686d-474a-be34-63ab5ccc38d9",
+    "data": [
+      {
+        "text": "E se eu dar tapa dá dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ae1f5bf3-2632-4b90-ac35-355ebe005039",
+    "data": [
+      {
+        "text": "Matar o mosquito dá dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "87bd9522-edf0-40fa-b475-d6198255473e",
+    "data": [
+      {
+        "text": "Matar mosquito dá dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "56896e3b-e4b0-4ee0-8ce5-161789c60837",
+    "data": [
+      {
+        "text": "Pega dengue matando mosquito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7db483c0-e927-40dc-a442-b93f7d389e8e",
+    "data": [
+      {
+        "text": "Matei o mosquito com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " tapa, vou pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Matei",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " mosquito da dengue no tapa no meu coro, vou pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Matei",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " o mosquito da dengue no tapa na minha ",
+        "userDefined": false
+      },
+      {
+        "text": "pele",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": ", vou pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Da pra pegar o mosquito da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

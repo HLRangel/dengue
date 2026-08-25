@@ -1,0 +1,64 @@
+{
+  "id": "6b81c026-4761-4670-8f92-f38c5fa6b519",
+  "name": "dengue_denv",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7a9e7942-f40e-461e-852b-59bae1e578b7",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "78e81ac1-9fc4-4799-9d8c-2892af843c17",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Classificado como um arbovírus, o vírus da dengue (DENV) se mantém na natureza por meio de um ciclo de transmissão envolvendo mosquitos hematófagos do gênero Aedes (como Aedes aegypti), que atuam como vetores primários. Integrante da família Flaviviridae — a mesma do vírus da febre amarela —, o DENV possui quatro sorotipos distintos: DENV-1, DENV-2, DENV-3 e DENV-4. Cada um deles é capaz de desencadear quadros clínicos variados, desde a forma clássica da doença (com sintomas como febre e dores musculares) até manifestações graves, incluindo a dengue hemorrágica e a síndrome do choque da dengue.\n\nFonte: Fiocruz (https://www.ioc.fiocruz.br/dengue/textos/sobreovirus.html)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "9b7e91ff-bbaf-4ecc-948b-f52c41ad9aa1",
+    "data": [
+      {
+        "text": "inseticida é eficaz ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " o mosquito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5664edef-6f3b-4959-8c63-bd526f6f2038",
+    "data": [
+      {
+        "text": "inseticida perde a eficacia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "df17b045-4c72-4b6f-b059-285c610816a9",
+    "data": [
+      {
+        "text": "efeito ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " inseticida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8dd33fdf-da3d-4504-b2f5-2429e5244b7c",
+    "data": [
+      {
+        "text": "inseticida deixa o mosquito mais forte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "acd1ba36-f8d9-4e03-b01a-0ba181e1ba22",
+    "data": [
+      {
+        "text": "mosquito resistente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d489dcdf-aabc-42ee-860b-f15f7fb24aa4",
+    "data": [
+      {
+        "text": "resistencia ao inseticida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Inseticidas e venenos em geral podem criar resistência no mosquito através de seleção natural?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

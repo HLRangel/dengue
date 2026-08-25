@@ -1,0 +1,64 @@
+{
+  "id": "f77516f3-2b50-4963-b9ad-919223a5a5d2",
+  "name": "dengue_repelentes_quais",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5cb206de-75cd-4591-97ab-2b1464f78394",
+          "name": "music-artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$music-artist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f34ff852-3f20-4d6d-901b-499d1f4659f2",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Qualquer repelente e saneante que espanta mosquitos pode ser usado para proteção contra o mosquito da dengue (1). A ANVISA produz uma lista de repelentes e saneantes aprovados para uso dentro do Brasil. (2)\n\nFontes: \n\n(1) - Governo Federal (https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2024/quais-repelentes-posso-usar-contra-o-mosquito-da-dengue)\n(2) - ANVISA (https://consultas.anvisa.gov.br/#/cosmeticos/registrados/q/?nomeProduto\u003drepelente),"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

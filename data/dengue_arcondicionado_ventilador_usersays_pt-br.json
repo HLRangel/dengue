@@ -1,0 +1,126 @@
+[
+  {
+    "id": "e91f7b4f-4988-4a49-af05-31e3595db1a8",
+    "data": [
+      {
+        "text": "Ligar o ar condicionado ajuda?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fa3483ca-fa3b-48b4-83e0-62a157f0524b",
+    "data": [
+      {
+        "text": "Ligar o ventilador ajuda?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d83d1652-6fab-49c3-8de5-813d344cdb10",
+    "data": [
+      {
+        "text": "Deixar o ventilador ligado combate dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d7f2b329-ec81-4e7a-83a0-f9de83ef920f",
+    "data": [
+      {
+        "text": "Deixar o ar condicionado ligado combate dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "511c95d8-297f-4575-9e78-e7fead55e3ec",
+    "data": [
+      {
+        "text": "Ventilador combate dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c64d0dd9-d5ba-4cad-9058-2b833e48285e",
+    "data": [
+      {
+        "text": "Ar condicionado combate dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Deixar o ar condicionado ligado ajuda a evitar o mosquito da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Deixar o ventilador ligado ajuda a evitar o mosquito da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Ar condiciona e ventilador protegem ",
+        "userDefined": false
+      },
+      {
+        "text": "contra",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " o mosquito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

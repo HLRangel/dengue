@@ -1,0 +1,134 @@
+[
+  {
+    "id": "a5ff2daa-01cc-4046-bc5d-4d6ab09778da",
+    "data": [
+      {
+        "text": "Eu posso ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " o repelente pela via oral?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a24221b3-a580-4d20-9637-90f29fa827d6",
+    "data": [
+      {
+        "text": "Eu posso ingerir o repelente pela via oral?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0f679791-d2dc-4995-9080-53437a95b417",
+    "data": [
+      {
+        "text": "Se eu beber o repelente eu afasto o mosquito da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ad81f0e6-198d-4b45-a0d2-9137402723f7",
+    "data": [
+      {
+        "text": "Ingerir o repelente afasta a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "408f179a-be9f-4176-a029-7d9462cc30bc",
+    "data": [
+      {
+        "text": "Beber o repelente afasta o mosquito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "475ce8a8-034a-479b-b532-6cc6cfdab06f",
+    "data": [
+      {
+        "text": "Pode beber repelente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Se eu ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " repelente afasto o mosquito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Então posso ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " o repelente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

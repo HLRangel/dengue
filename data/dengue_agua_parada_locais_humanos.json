@@ -1,0 +1,78 @@
+{
+  "id": "bed05bb9-bb3a-47a8-8581-6f1308fb37b0",
+  "name": "dengue_agua_parada_locais_humanos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "33d9e753-8488-4646-bbce-c06304a7a620",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ae163ef2-c611-4e7b-9cfc-6a7092e32109",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "75b50555-0f92-43f5-b5a8-053375cc4c3b",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Locais mais propensos a presença de água parada estão mais propensos a dengue. Tais locais incluem matagais, lixões, locais públicos com infraestrutura degradada, entre outros. (1)\n\nOs mosquitos transmissores da dengue não tem preferência por pântanos, dado o fato de que eles preferem água parada limpa, onde seus ovos tem uma chance maior de sobreviver. Por conta disso, o mosquito da dengue é muito mais presente em locais com presença humana. (2)\n\nFontes:\n\n(1) - Globo (https://g1.globo.com/to/tocantins/noticia/2020/04/03/matagal-na-regiao-sul-de-palmas-preocupa-moradores-pelo-risco-de-dengue.ghtml)\n\n(2) - Dengue.com (https://www.dengue.com/8-myths-about-dengue-debunked-setting-facts-straight)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

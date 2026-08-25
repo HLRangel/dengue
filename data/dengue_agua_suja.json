@@ -1,0 +1,120 @@
+{
+  "id": "a00b0582-0ae4-42b2-8e01-ac09b4758d62",
+  "name": "dengue_agua_suja",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "49210f21-a9dc-4cf3-9ecb-605ebe2de8c2",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "bbb41da0-4f1c-4dde-9497-c505b6c5807f",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ebcd9e17-43f7-4917-aca6-d488216fe952",
+          "name": "music-artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$music-artist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "aea5b8fd-25dd-44c2-8cf2-d000b2e13ac3",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7c3a45d7-4967-47cb-96ab-f8309df2322b",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "94288f7b-2e62-4092-9058-0734c8e26201",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O mosquito da dengue prefere criar suas larvas na em água parada e limpa, onde elas tem maiores chances de sobrevivência. Porém, isso é apenas uma preferência, pois faltando alternativas, o mosquito irá desovar na água insalubre. (1)\nO ciclo de vida do Aedes aegypti tem quatro fases: ovo, larva, pupa e adulto, completando-se em 7 a 10 dias conforme as condições ambientais. Seus ovos são resistentes e podem sobreviver meses sem água. Ao contato com a água, eclodem em larvas, que evoluem para pupas, ambas sem risco de transmissão de doenças. (2)\n\nA ingestão acidental do mosquito em água não transmite essas doenças (suco gástrico neutraliza o vírus), mas água contaminada pode conter outros patógenos, como o vírus da hepatite A, que resiste à digestão.\nRecomenda-se: Eliminar criadouros de água parada e consumir água tratada ou fervida para evitar infecções. (3)\n\nFontes:\n\n(1) - Fiocruz (https://www.ioc.fiocruz.br/dengue/textos/oportunista.htm)\n\n(2) - Governo Federal (https://www.gov.br/saude/pt-br/assuntos/noticias/2025/janeiro/ciclo-de-vida-de-aedes-aegypti-do-ovo-ao-adulto-2013-quanto-tempo-temos-para-agir)\n\n(3) - Dra. Bianca Marochi, cirurgiã do aparelho digestivo, disponível em: (https://www.doctoralia.com.br/perguntas-respostas/ola-o-aconteceu-se-eu-bebi-agua-com-a-larva-do-mosquito-da-dengue)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

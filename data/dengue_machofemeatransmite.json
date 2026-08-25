@@ -1,0 +1,50 @@
+{
+  "id": "bcf4fc25-60cc-4570-a31d-aa2a938450ae",
+  "name": "dengue_machofemeatransmite",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "40a3b35a-e1fe-4bbe-823d-7890563f88b2",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Nas espécies de mosquito, apenas as fêmeas do Aedes aegypti e Aedes albopictus se alimentam de sangue, sendo as únicas transmissoras do vírus da dengue. A cor do mosquito macho pode ser diferente da fêmea, dependendo da espécie. Somente os adultos picam, e as fêmeas usam o sangue para a reprodução, depositando até 100 ovos a cada quatro dias.\n\nFonte: Governo do Espírito Santo (https://mosquito.saude.es.gov.br/o-mosquito)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

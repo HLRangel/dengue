@@ -1,0 +1,50 @@
+{
+  "id": "00784cf6-d71a-4e63-baba-d304e99c3309",
+  "name": "dengue_espera_tomar_vacina",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "16a73daf-f5b1-46b1-9c1b-95394111c814",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Recomenda-se aguardar pelo menos 2 semanas após a melhora do quadro antes de se vacinar.\n\nFonte: Globo (https://oglobo.globo.com/saude/noticia/2024/04/09/vacina-da-gripe-quanto-tempo-voce-tem-que-esperar-para-tomar-se-pegou-dengue-covid-ou-gripe.ghtml)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,73 @@
+[
+  {
+    "id": "2f435d65-6001-4fc5-86f5-67faf5fc0ee5",
+    "data": [
+      {
+        "text": "Dengue da atestado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1c4da095-4def-402c-9699-4ea18534b44f",
+    "data": [
+      {
+        "text": "Posso ter atestado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bb7e8ac5-0b18-4f75-986d-1f6131426b7d",
+    "data": [
+      {
+        "text": "Posso pedir atestado médico em caso de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "010bde70-d856-416b-8949-b29fe1f663bc",
+    "data": [
+      {
+        "text": "Posso pegar atestado com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "74944a5f-fa86-4dda-9285-6a0eca027d1b",
+    "data": [
+      {
+        "text": "Dengue é bom pra pegar atestado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

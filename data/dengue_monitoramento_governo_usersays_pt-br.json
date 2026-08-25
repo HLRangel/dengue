@@ -1,0 +1,126 @@
+[
+  {
+    "id": "4ef85356-44f3-49d2-88e9-30454dad457e",
+    "data": [
+      {
+        "text": "monitorar casos de dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1041d3f7-f88f-4c5e-828b-c5f5e7d5b722",
+    "data": [
+      {
+        "text": "casos de dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "Brasil",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "135cab72-6f05-4b92-81c5-aa47f6939fdf",
+    "data": [
+      {
+        "text": "qual site consultar casos de dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a1d13f92-da0a-4883-9a54-ea8e036cffa4",
+    "data": [
+      {
+        "text": "site ",
+        "userDefined": false
+      },
+      {
+        "text": "contagem",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "87c43c88-dc29-48fd-bb88-565a89917f21",
+    "data": [
+      {
+        "text": "site de monitoramento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6b0b928f-8e4d-4aec-b2d4-8a2f60c07f73",
+    "data": [
+      {
+        "text": "Tem algum site do governo que grava toda notificação de dengue do brasil?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Existe site ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " governo que notifica casos de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como conseguir informações oficiais sobre a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 16,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

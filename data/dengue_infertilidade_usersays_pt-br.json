@@ -1,0 +1,119 @@
+[
+  {
+    "id": "9026b3b3-cfb0-4e34-9768-2926c6ecad85",
+    "data": [
+      {
+        "text": "E a minha fertilidade depois de pegar dengue, como fica?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8a2961f5-b7d8-4543-a10c-711816fcc7ff",
+    "data": [
+      {
+        "text": "Vou poder ter filhos depois de pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d002b829-e29f-44f6-b602-d5d7aeffcc72",
+    "data": [
+      {
+        "text": "A dengue causa infertilidade?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8a6400fe-b75b-4a0c-af25-825b7416faaf",
+    "data": [
+      {
+        "text": "A dengue me torna infértil?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "47cabb4f-653a-4406-9b56-1060c4fac8b0",
+    "data": [
+      {
+        "text": "O mosquito me picou no ",
+        "userDefined": false
+      },
+      {
+        "text": "saco",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": ", vou ficar infértil?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "O mosquito da dengue picou meu saco, vou ficar infertil?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "dengue afeta a ereção?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "A vacina",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " causa infertilidade?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

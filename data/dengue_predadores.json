@@ -1,0 +1,78 @@
+{
+  "id": "9d835983-b8f7-499a-8661-acf0d92a329a",
+  "name": "dengue_predadores",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f7714d22-00f1-4971-bf54-a982d9550bcf",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9a4844b7-cf75-4097-bdca-c88a1a0be6e8",
+          "name": "music-artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$music-artist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "17ff6e03-a29f-4731-a841-1b74916087a2",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Apesar de diversos animais se alimentarem de mosquitos, poucos têm impacto significativo no controle populacional em larga escala. Os principais predadores são: Morcegos, Pássaros, Peixes, Girinos, Sapos, Tartarugas, Libélulas e Aranhas.(1)\n\nObservação: A competição por recursos (como entre girinos e larvas) e o uso de espécies como Gambusia em programas de controle são estratégias complementares. No entanto, a maioria dos predadores não reduz drasticamente populações de mosquitos em áreas extensas, exigindo métodos integrados para controle eficaz.(2)\n\n(1) - Fonte: Orkin (https://www-orkin-com.translate.goog/pests/mosquitoes/what-eats-mosquitoes?_x_tr_sl\u003den\u0026_x_tr_tl\u003dpt\u0026_x_tr_hl\u003dpt\u0026_x_tr_pto\u003dsge\u0026_x_tr_hist\u003dtrue)\n(2) - Fonte: ALEPI (https://www.al.pi.leg.br/tv/noticias-tv-1/pedradores-naturais-do-aedes-aegypti-estao-sendo-eliminados-da-natureza)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

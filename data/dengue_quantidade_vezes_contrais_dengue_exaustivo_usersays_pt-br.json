@@ -1,0 +1,1906 @@
+[
+  {
+    "id": "af578ab5-9805-4627-8c07-057eed3e8f8b",
+    "data": [
+      {
+        "text": "Da pra pegar dengue depois de ter pegado ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "63929ce2-5a25-40fd-bfc1-5ddb8c62a8d3",
+    "data": [
+      {
+        "text": "A dengue pode me pegar mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "401c1b5f-52fb-4c47-89bc-07e77a05bf41",
+    "data": [
+      {
+        "text": "Quem já pegou dengue, pode pegar de novo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "df69422b-2997-4829-a52f-5d33f78a01f8",
+    "data": [
+      {
+        "text": "Posso pegar dengue outra vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "94bb8dfa-d1d3-4d9c-b30c-28595d35c1c4",
+    "data": [
+      {
+        "text": "Posso contrair a doença de novo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cd4118d2-5fb5-4b57-8c44-d7dbdb332af3",
+    "data": [
+      {
+        "text": "Tenho chance de pegar dengue outra vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "406f41b2-5240-431e-9563-8dc303305f38",
+    "data": [
+      {
+        "text": "Consigo pegar dengue novamente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "298c259b-c4bb-48bd-aec3-1dec4725c65c",
+    "data": [
+      {
+        "text": "A dengue pode pegar a mesma pessoa mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "981b1850-10d1-4db2-b741-88c26180378c",
+    "data": [
+      {
+        "text": "Se eu já tive dengue, será que posso pegar de novo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ee5b18e6-40b2-4bed-af3e-de6b81fff652",
+    "data": [
+      {
+        "text": "Será que a dengue pode voltar pra quem já teve?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "03e3748e-228b-4c7a-be50-c9d8dbaee45e",
+    "data": [
+      {
+        "text": "Quem já pegou dengue, será que pode pegar outra vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9dfca316-450e-46c6-b1f5-6408b6e98f41",
+    "data": [
+      {
+        "text": "Será que eu posso pegar dengue mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez na vida?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "76ccc779-de6c-4f2d-a7bb-ca0710da3862",
+    "data": [
+      {
+        "text": "A dengue pode pegar a gente mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez, ou não?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 7,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6d4a1798-89f2-4293-9b2e-ae1583c5a172",
+    "data": [
+      {
+        "text": "Será que a dengue pode voltar pra quem já pegou?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "10c27519-6e93-42ee-8509-a54d94978029",
+    "data": [
+      {
+        "text": "Quem já teve dengue, será que pode ter outra vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "250abbd9-1e0f-45d8-9089-4e447efef614",
+    "data": [
+      {
+        "text": "Será que eu posso ficar doente de dengue de novo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "93a99977-822f-41dc-ab3b-ba5d1e4da995",
+    "data": [
+      {
+        "text": "Se eu já tive dengue, será que corro risco de pegar outra vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b2de1ee3-78a9-4b6a-99b5-371c7fe30eac",
+    "data": [
+      {
+        "text": "Quem já pegou dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez, será que pega de novo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f2748a98-ed81-4139-8713-24778e082957",
+    "data": [
+      {
+        "text": "Será que a dengue pega a gente mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ad96b1cb-478c-448c-b90c-a2347cf96d7e",
+    "data": [
+      {
+        "text": "A dengue pode voltar pra quem já teve?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3a7d8d70-3011-4703-92e0-fe4b30694217",
+    "data": [
+      {
+        "text": "Eu já tive dengue, será que posso ter outra vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ca037a13-bc82-4f18-8b14-8f9b44816f6a",
+    "data": [
+      {
+        "text": "Dá pra pegar dengue mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez, ou não?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b4f32ad9-5e78-4c76-bf81-e75e6357de1a",
+    "data": [
+      {
+        "text": "Se eu já tive dengue, será que ",
+        "userDefined": false
+      },
+      {
+        "text": "pego",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " de novo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "52ca9bb1-784f-4bbd-99d4-e5c36e0c6b64",
+    "data": [
+      {
+        "text": "Quem já pegou dengue pode pegar outra vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c2de9eb1-2587-4c1d-a278-58261d28ce90",
+    "data": [
+      {
+        "text": "Será que eu posso pegar dengue de novo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f19a5b73-3af9-43bd-9a92-113c1279f459",
+    "data": [
+      {
+        "text": "Após pegar dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez, existe o risco de pegar novamente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b3125249-21c6-4aa6-97d1-70d34fe0c2c8",
+    "data": [
+      {
+        "text": "Pode-se contrair dengue várias vezes ao longo da vida?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6141abae-5409-461d-afd7-04233c473e77",
+    "data": [
+      {
+        "text": "A doença da dengue pode recair sobre a mesma pessoa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7e0edfe5-1cd7-4943-8256-562234291b41",
+    "data": [
+      {
+        "text": "Quem já foi acometido por dengue pode ter a doença outra vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "17337c91-8951-4473-b67f-c8f374394f7b",
+    "data": [
+      {
+        "text": "Há",
+        "meta": "@sys.unit-area-name",
+        "alias": "unit-area-name",
+        "userDefined": false
+      },
+      {
+        "text": " possibilidade de novas infecções por dengue após ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " infecção anterior?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e0d8bc55-aad3-48bd-8ee5-e821a60ade7b",
+    "data": [
+      {
+        "text": "Uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pessoa que já teve dengue pode enfrentar a doença de novo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e0f28b21-4cfa-4046-93db-61653924d6d4",
+    "data": [
+      {
+        "text": "A dengue pode se manifestar mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez no mesmo indivíduo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e576c9ac-cc87-4514-a89f-ee6321c04d27",
+    "data": [
+      {
+        "text": "Existe a chance de pegar dengue repetidamente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bcba73ad-9091-4715-afe8-53f8c51127e0",
+    "data": [
+      {
+        "text": "A dengue pode acometer a mesma pessoa mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7723f263-f5f9-4469-8b5e-759df87aaac9",
+    "data": [
+      {
+        "text": "Posso ser reinfectado pela dengue se já tive a doença antes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "edc93268-b424-4c75-8b29-7b9fd8ba6b8f",
+    "data": [
+      {
+        "text": "Quem já contraiu dengue tem risco de pegar de novo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "394ef1f5-4813-48fe-80b9-2084f9d04f38",
+    "data": [
+      {
+        "text": "Uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pessoa que teve dengue pode desenvolver a doença novamente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b868adfb-296b-4077-a20c-e156cc77f8cf",
+    "data": [
+      {
+        "text": "É possível ser acometido por dengue várias vezes ao longo da vida?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8d804b55-a3b1-45f3-a6e8-850c96828a33",
+    "data": [
+      {
+        "text": "Quem já teve dengue está suscetível a novas infecções?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4c4392aa-69ce-4703-bd8b-5c6877d221de",
+    "data": [
+      {
+        "text": "Depois de ter dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez, posso contrair a doença novamente no futuro?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4ff7c920-f74a-472a-ad7a-6b4febd86103",
+    "data": [
+      {
+        "text": "Quem já foi infectado pela dengue pode se infectar de novo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fbd62a66-b7f6-43c2-b841-88d9845f2ad3",
+    "data": [
+      {
+        "text": "Uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pessoa que já teve dengue pode pegar a doença mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "15accb10-9c12-4ad3-8332-af39c05fbe16",
+    "data": [
+      {
+        "text": "Qual é a quantidade de vezes que posso pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ba229abe-59af-4106-bae5-5e13d8be1020",
+    "data": [
+      {
+        "text": "A pessoa pode ser acometida pela dengue várias vezes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e2920574-1e42-4b11-9973-7f2d56142b21",
+    "data": [
+      {
+        "text": "Se alguém já pegou dengue, pode ser infectado novamente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "11eb1d9a-1cc3-4bc1-ae74-0a9c10362b08",
+    "data": [
+      {
+        "text": "Uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pessoa que já teve dengue pode ser infectada novamente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "01982b8d-1d7f-4ce1-a1e3-e78584ab4b15",
+    "data": [
+      {
+        "text": "Existe risco de pegar dengue mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dc60966f-aeab-40ca-9cfe-cc6aad772f3d",
+    "data": [
+      {
+        "text": "Depois de ter dengue, posso ter de novo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a9e4b521-7514-4bd6-9563-3a71b4c50669",
+    "data": [
+      {
+        "text": "Alguém que já teve dengue pode pegar outra vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "903fe1e2-f278-4e0a-8de3-b49c8e65434c",
+    "data": [
+      {
+        "text": "Quem já teve dengue pode ser reinfectado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9dc69228-e37b-4b7b-a776-9dbc27cdfe38",
+    "data": [
+      {
+        "text": "Após pegar dengue, posso contrair a doença novamente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c64f9bd0-5e3b-42ce-83c4-53589f6f7ab1",
+    "data": [
+      {
+        "text": "Quantas vezes ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pessoa pode ser acometida por dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9679e498-55fe-4da5-b23d-7b805d6d1ce9",
+    "data": [
+      {
+        "text": "Se já tive dengue antes, posso pegar outra vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e27a55c8-29af-4d7b-a6b1-9903d0d426db",
+    "data": [
+      {
+        "text": "Existe ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " número máximo de vezes que se pode ter dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7a954676-89bf-4b18-81ad-3f074266cea0",
+    "data": [
+      {
+        "text": "Uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pessoa pode ser diagnosticada com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "74a01b07-ec3f-4d4c-9da8-091b3c9e3321",
+    "data": [
+      {
+        "text": "Há",
+        "meta": "@sys.unit-area-name",
+        "alias": "unit-area-name",
+        "userDefined": false
+      },
+      {
+        "text": " limite ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " o número de vezes que posso ter dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3bc87d9c-1fa7-41bd-8a4b-e4331bc9242a",
+    "data": [
+      {
+        "text": "Dá ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " contrair dengue mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b82a8977-4a2a-4300-8924-0763ae714161",
+    "data": [
+      {
+        "text": "Quem já contraiu dengue pode ser infectado novamente no futuro?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "85f04140-422e-4d6f-bf86-502313875a3e",
+    "data": [
+      {
+        "text": "Quantas vezes eu posso ter dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "64d05ccc-7b91-45d7-97b4-51203aad6c84",
+    "data": [
+      {
+        "text": "A dengue pode me pegar de novo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "42811747-90d1-4e11-9e7e-e8fab9951cf5",
+    "data": [
+      {
+        "text": "É possível ter dengue mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3327c5ec-0c80-4bcf-8f23-d3d30f19dcd1",
+    "data": [
+      {
+        "text": "A dengue pode afetar ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pessoa mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "750c16e2-bb41-4c08-ba77-d1556bde55c2",
+    "data": [
+      {
+        "text": "Quem já teve dengue pode sofrer ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " nova infecção?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a6a6c314-d505-4817-9c0d-e74dc59f478d",
+    "data": [
+      {
+        "text": "É possível ser infectado por dengue mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez ",
+        "userDefined": false
+      },
+      {
+        "text": "ao",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " longo da vida?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2b8e20d5-d0cd-4375-871e-8e1cff30c021",
+    "data": [
+      {
+        "text": "A dengue é ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " doença que pode se repetir em ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " mesmo indivíduo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fcd236b0-4eea-4a54-b46e-6ee9c3a8528a",
+    "data": [
+      {
+        "text": "Quem já teve dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez está propenso a ter de novo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "33a2d8bd-38b7-40ba-8aa4-5120d1f63d09",
+    "data": [
+      {
+        "text": "Uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pessoa pode desenvolver dengue mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d5fed1a8-0713-481c-9d6f-9cbae6d8b9cc",
+    "data": [
+      {
+        "text": "A dengue pode ocorrer mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez no mesmo indivíduo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "29cd4f17-8e2a-4664-b8e0-b6f554db8fed",
+    "data": [
+      {
+        "text": "Quem já teve dengue está suscetível a pegar a doença novamente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ed3d0bf6-d47d-4fe9-9266-3d65afd51781",
+    "data": [
+      {
+        "text": "É possível ser acometido por dengue mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7ecee37a-f1dd-4094-91ae-a3afbc590935",
+    "data": [
+      {
+        "text": "A dengue pode voltar a afetar alguém que já a contraiu antes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7ec347c0-369c-4599-a2c5-f1bcda626ca7",
+    "data": [
+      {
+        "text": "Há",
+        "meta": "@sys.unit-area-name",
+        "alias": "unit-area-name",
+        "userDefined": false
+      },
+      {
+        "text": " risco de reinfecção por dengue após já ter tido a doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b2c3b176-078e-4212-81d9-354f5da18e70",
+    "data": [
+      {
+        "text": "Uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pessoa pode ser infectada por dengue várias vezes ",
+        "userDefined": false
+      },
+      {
+        "text": "ao",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " longo da vida?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a973c08e-8bb3-434b-9438-39ba881fc4fd",
+    "data": [
+      {
+        "text": "É comum alguém pegar dengue mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7d6456a8-150f-40fd-8c65-cba3bae18650",
+    "data": [
+      {
+        "text": "A dengue é ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " doença que pode se repetir em ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " mesma pessoa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ce70da80-3c43-43d9-99da-7d2cc61449d5",
+    "data": [
+      {
+        "text": "Quem já foi infectado por dengue pode ter a doença outra vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6faef11c-f8ed-4311-9bae-d225de58467a",
+    "data": [
+      {
+        "text": "Existe a possibilidade de pegar dengue mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cc3e546a-4312-4161-bc02-4789d3b8f2b9",
+    "data": [
+      {
+        "text": "A dengue pode ser contraída mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez por ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " mesma pessoa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6d971418-3ed4-46d9-9fa2-7a44ed20a845",
+    "data": [
+      {
+        "text": "Depois de ter dengue, ainda ",
+        "userDefined": false
+      },
+      {
+        "text": "há",
+        "meta": "@sys.unit-area-name",
+        "alias": "unit-area-name",
+        "userDefined": false
+      },
+      {
+        "text": " risco de contrair a doença novamente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a2466c82-b1df-473c-b625-3b0839c714c0",
+    "data": [
+      {
+        "text": "Uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pessoa que já teve dengue pode pegar a doença de novo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "aab64192-879c-4f86-801b-3c04830aed6f",
+    "data": [
+      {
+        "text": "Quem já teve dengue pode ser infectado novamente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a339ac39-0dd9-4a30-809a-4c369477b47a",
+    "data": [
+      {
+        "text": "É possível contrair dengue mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez na vida?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4cad53a0-58a1-477c-9156-ae6d0c41cc8d",
+    "data": [
+      {
+        "text": "Quantas vezes ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pessoa pode contrair dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b405d427-f502-4dd6-bb5d-d42187905531",
+    "data": [
+      {
+        "text": "Quantas vezes posso pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "82b75f5e-fb0c-4353-8d71-3d80b3de2e42",
+    "data": [
+      {
+        "text": "A pessoa pode pegar dengue mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "16e9d3a4-08d3-48f3-9ff4-e06171920d0a",
+    "data": [
+      {
+        "text": "Já peguei dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez, posso pegar novamente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "59baf8a5-2e0d-481a-99a4-f134105e4cd2",
+    "data": [
+      {
+        "text": "Quem já pegou dengue alguma vez pode novamente ser acometido pela doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bd0e5b1f-4738-4cf6-94b4-dc1a6c17fbc3",
+    "data": [
+      {
+        "text": "Quem já pegou dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez pode contrair novamente a doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0d746b27-4e17-4956-be2e-76ec087ab487",
+    "data": [
+      {
+        "text": "Posso pegar dengue mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 12,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2a1f933d-68db-49ff-bd61-ee15d9ec90b2",
+    "data": [
+      {
+        "text": "Posso ter dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vezes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "36753be8-c8ae-45ee-99bd-409be1643f4a",
+    "data": [
+      {
+        "text": "Se ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " individuo contraiu o flavivirus DENV, ele pode falecer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "89dca159-26b2-4515-a119-8f6c9bf085f9",
+    "data": [
+      {
+        "text": "Pode acontecer reinfecção?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7719c0e1-51f2-4c88-8fbe-73c3067f4674",
+    "data": [
+      {
+        "text": "É possível pegar dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "duas",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vezes em ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " período de ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " meses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f8148adf-ff22-448d-95e4-ebf230bba794",
+    "data": [
+      {
+        "text": "Pegar a ",
+        "userDefined": false
+      },
+      {
+        "text": "segunda",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez é muito perigosa mesmo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quantas vezes tenho que escovar os dentes por dia ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "pode ",
+        "userDefined": false
+      },
+      {
+        "text": "picar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Eu ja peguei dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " vez, posso pegar de novo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

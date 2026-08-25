@@ -1,0 +1,50 @@
+{
+  "id": "535e8e2e-9815-4b36-844f-1cce37f2c8f0",
+  "name": "dengue_gruposderisco",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9806dd9a-cc4f-4c21-b7ba-55fd5249ece4",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Os grupos de risco aos sintomas da dengue são, principalmente, idosos e crianças (1). Pessoas com mecânismos de defesa imunológica comprometidos também passam por um risco maior. (2)\n\nFontes:\n(1) - Hospital Oswaldo Cruz (https://www.hospitaloswaldocruz.org.br/imprensa/hospital-na-midia/idosos-e-criancas-sao-do-grupo-de-risco-para-dengue-grave/)\n(2) - Sohail et. al. (https://pubmed.ncbi.nlm.nih.gov/39490806/)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

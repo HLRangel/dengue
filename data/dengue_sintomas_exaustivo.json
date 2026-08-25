@@ -1,0 +1,176 @@
+{
+  "id": "656ac77e-c099-495d-aba0-9a3e8f1fae13",
+  "name": "dengue_sintomas_exaustivo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b77eb921-934f-4018-b97a-553f2636977c",
+          "name": "music-artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$music-artist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "71551891-55d0-48dd-91e2-1359d3a885f3",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b9d97cab-2143-4116-9b0e-6075d05a9a21",
+          "name": "unit-weight-name",
+          "required": false,
+          "dataType": "@sys.unit-weight-name",
+          "value": "$unit-weight-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "45b77bba-b040-492b-a79d-616f88c2cbcc",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "dde2b2eb-1fce-44f5-b1de-710651d8693c",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3776e481-f450-4197-b7a0-ef60af04479f",
+          "name": "geo-city",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "value": "$geo-city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "36af6050-f755-403b-9e0c-026671ba9814",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e3de5589-e35f-4e90-b19c-7c215575ed01",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f67e3804-b150-434e-970b-adc1c94b5040",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "340cc10c-36f9-4a77-b63c-6281eb59a41b",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A dengue pode afetar vários órgãos, como fígado, rins, baço, coração e sistema nervoso central. (1) A dengue causa desidratação porque retira líquido dos vasos sanguíneos, o que pode comprometer a circulação e agravar a doença, tendo chances de deixar sequelas. (2)\n\nOs principais sintomas da dengue são:\n\n    • Febre alta \u003e 38°C;\n    • Dor no corpo e articulações;\n    • Dor atrás dos olhos;\n    • Mal-estar;\n    • Falta de apetite;\n    • Dor de cabeça;\n    • Manchas vermelhas no corpo.\n\n\nNo entanto, a infecção por dengue pode ser assintomática (sem sintomas), ou apresentar quadro leve, sem sinais de alarme e de gravidade.\n\nNormalmente, a febre alta tem início abrupto, e é acompanhada por dores de cabeça, dores no corpo e articulações, além de prostração, fraqueza, dor atrás dos olhos, e manchas vermelhas na pele, com a possibilidade de erupções e coceira. Os sintomas geralmente duram de 2 a 7 dias.\n\nAo apresentar os sintomas, é importante procurar um serviço de saúde para diagnóstico e tratamento adequados, todos oferecidos de forma integral e gratuita por meio do Sistema Único de Saúde (SUS). (3)\n\nFontes: \n\n(1) - OTEMPO (https://www.otempo.com.br/cidades/figado-rins-e-coracao-saiba-quais-sequelas-a-dengue-pode-causar-1.3335320)\n\n(2) - G1 (https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2024/04/02/veja-qual-a-quantidade-de-agua-que-deve-ser-tomada-quando-se-esta-com-dengue-hidratacao-pode-evitar-agravamento-da-doenca.ghtml)\n\n(3) - Governo Federal (https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/dengue)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

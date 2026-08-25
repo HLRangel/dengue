@@ -1,0 +1,289 @@
+[
+  {
+    "id": "0fd3f5a9-4313-43d2-8a88-7d23bed834bb",
+    "data": [
+      {
+        "text": "Tomei",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " ivermectina, quando ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " curado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "79349d17-a993-496f-87bf-8b00de3fb135",
+    "data": [
+      {
+        "text": "To",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " tomando ivermectina, vou sarar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0ad9433a-08ed-4972-9098-5b7e06a5ca5a",
+    "data": [
+      {
+        "text": "É permitido toma ivermectina ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cb1b321c-af83-4dd4-8fc3-e4daeabb98be",
+    "data": [
+      {
+        "text": "O que os estudos dizem sobre ivermectina p/ dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2f54d9b4-1252-4f05-827a-cc6d46b282f2",
+    "data": [
+      {
+        "text": "Para",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " dengue, o remédio ivermectina é profilático?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8f487551-7e5a-4957-a87d-3dad3a51c0dc",
+    "data": [
+      {
+        "text": "Usar remédio p/ profilaxia p/ a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d643efae-5173-4926-986b-9be8476b8baf",
+    "data": [
+      {
+        "text": "Conter a dengue com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " ivermectina?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d29729c3-3838-4d26-9e70-fe445bdc5f6d",
+    "data": [
+      {
+        "text": "Tomei",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " ivermectina p/ dengue, ",
+        "userDefined": false
+      },
+      {
+        "text": "tô",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " tratando?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3de693c1-8d65-47e4-a16e-aee1b8b6ec1a",
+    "data": [
+      {
+        "text": "Como",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " se trata dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "com",
+        "meta": "@sys.location",
+        "alias": "location1",
+        "userDefined": false
+      },
+      {
+        "text": " ivermectina?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "33076917-c40b-4e37-8357-63f16165322f",
+    "data": [
+      {
+        "text": "Se eu pego dengue e tomo Ivermectina, ",
+        "userDefined": false
+      },
+      {
+        "text": "tô",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " curado? ",
+        "userDefined": false
+      },
+      {
+        "text": "Tô",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": " tratando?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8d9f6979-449b-44f6-b149-a283204495c3",
+    "data": [
+      {
+        "text": "A ivermectina pode sarar a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f931c6f6-3ba9-478f-a8fa-5ffeaee456fa",
+    "data": [
+      {
+        "text": "A ivermectina pode ser cura p/ a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c59cae66-5238-4467-a17e-a6a108ed9f4a",
+    "data": [
+      {
+        "text": "Pode ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ivermectina p/ a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Porque ivermectina não cura a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

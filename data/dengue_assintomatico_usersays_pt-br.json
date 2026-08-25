@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1c8b2c8c-ee11-42ea-91c2-3db555fcb930",
+    "data": [
+      {
+        "text": "proporção assintomático",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c8e64456-8d3e-4265-8f89-e2c2240b0e26",
+    "data": [
+      {
+        "text": "assintomática",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d53e1dfc-a800-4ec4-8a80-3a662e9d321f",
+    "data": [
+      {
+        "text": "quando a dengue é assintomática?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0d9f8a06-d0c2-43ea-a11e-740e9a6f0741",
+    "data": [
+      {
+        "text": "dengue assintomática",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "299e8fb2-4811-4af5-b78a-4e20a530c706",
+    "data": [
+      {
+        "text": "casos assintomáticos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d9d88abe-c932-455e-96f2-d033af954192",
+    "data": [
+      {
+        "text": "Tem assintomático de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "a3f22b3b-e0fb-42c4-bc74-1e496f3f07e9",
+    "data": [
+      {
+        "text": "Os sintomas mudam pra diabéticos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e5951da5-aff1-445c-a922-1267a6817758",
+    "data": [
+      {
+        "text": "Os sintomas mudam pra fumantes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f7f8ca95-f834-4577-9949-b2e93a1cc513",
+    "data": [
+      {
+        "text": "Diabético tem mais risco de pegar dengue grave?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0d39560f-5bf0-41a6-ba32-6753c7e4ecfc",
+    "data": [
+      {
+        "text": "Diabético pega dengue grave?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3ba22851-8496-4ab0-afba-080998106216",
+    "data": [
+      {
+        "text": "Fumante pode pegar dengue grave?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ca9e7422-3860-4bdd-bdc6-b524db6c2c42",
+    "data": [
+      {
+        "text": "Fumante pega dengue grave?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f4c2f2b1-05c2-4bbc-8706-7eef4680a371",
+    "data": [
+      {
+        "text": "Fumante tem mais risco de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

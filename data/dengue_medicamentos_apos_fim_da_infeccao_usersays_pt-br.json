@@ -1,0 +1,25 @@
+[
+  {
+    "id": "892da1a2-05e1-483d-9469-9b81f2a1e20b",
+    "data": [
+      {
+        "text": "Depois de quanto tempo após a infecção pode ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " remédio não aconselhado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

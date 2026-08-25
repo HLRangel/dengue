@@ -1,0 +1,557 @@
+[
+  {
+    "id": "e0bdeb34-86c7-45aa-bddd-0740663d9be5",
+    "data": [
+      {
+        "text": "Pra que ser hematócritl",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5c6f1b3f-cf91-4c81-9185-561ca3d0f3db",
+    "data": [
+      {
+        "text": "Pra que usar hematócrito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a42073af-f7a4-4ade-a6d6-35197c12d295",
+    "data": [
+      {
+        "text": "Porque é necessário o uso ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " hematócrito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "90221eaa-a796-42eb-976e-dfe6e865a532",
+    "data": [
+      {
+        "text": "Qual a necessidade de se realizar exame que ",
+        "userDefined": false
+      },
+      {
+        "text": "mede",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " glóbulos ",
+        "userDefined": false
+      },
+      {
+        "text": "vermelhos",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d9eeec63-b871-410f-b658-eb24904efe53",
+    "data": [
+      {
+        "text": "Porque medir glóbulos ",
+        "userDefined": false
+      },
+      {
+        "text": "vermelhos",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "67049b15-c4dc-4144-a7c5-b7505c54efab",
+    "data": [
+      {
+        "text": "Como",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " a desidratação ",
+        "userDefined": false
+      },
+      {
+        "text": "afeta o hematócrito de um paciente com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "183a2bb2-f5d4-4e23-86d2-b03b38f59129",
+    "data": [
+      {
+        "text": "Quais são os principais indicadores clínicos que os ",
+        "userDefined": false
+      },
+      {
+        "text": "médicos",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " monitoram em casos ",
+        "userDefined": false
+      },
+      {
+        "text": "graves",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c1304e2a-c7e1-4fe8-9794-c62db35d9308",
+    "data": [
+      {
+        "text": "De que maneira o hematócrito pode ser usado ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " acompanhar a evolução da doença e o tratamento?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e6b75068-97a7-402c-a393-c2a6c5003ccc",
+    "data": [
+      {
+        "text": "Como",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " o hematócrito auxilia na decisão sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "a reposição de líquidos em pacientes com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "84620d91-2350-4636-a6eb-eedebee8771e",
+    "data": [
+      {
+        "text": "Quais complicações podem ocorrer na dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "grave e",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " como o hematócrito ajuda a identificá-las?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1fa3fdc4-95ed-46f2-a760-7cd5399b4142",
+    "data": [
+      {
+        "text": "Como a alteração nos glóbulos ",
+        "userDefined": false
+      },
+      {
+        "text": "brancos",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " pode indicar ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " resposta imunológica à dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "47df47b6-4ec6-4b39-bb44-0881b0925e24",
+    "data": [
+      {
+        "text": "Por que o monitoramento ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " hematócrito é importante na fase grave da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6ac3a2b5-2c35-4208-a985-7d66523c4104",
+    "data": [
+      {
+        "text": "Como",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " o aumento ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hematócrito pode indicar desidratação em pacientes com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4847b5d6-19c2-4d89-b238-82cdb7f7331a",
+    "data": [
+      {
+        "text": "que é ",
+        "userDefined": false
+      },
+      {
+        "text": "trombocitopenia e como ela se relaciona com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ccdc3fff-7f20-4abe-9796-84d56a1f7e97",
+    "data": [
+      {
+        "text": "Qual é ",
+        "userDefined": false
+      },
+      {
+        "text": "o papel",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " hemograma no diagnóstico da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e5dbcde5-d2e5-418a-8a4e-7223779bd7c6",
+    "data": [
+      {
+        "text": "por que ",
+        "userDefined": false
+      },
+      {
+        "text": "tem que tirar sangue quando esta com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f8e1ae88-3f78-47d0-a981-aa13a1c78e7f",
+    "data": [
+      {
+        "text": "por que tem que tirar sangue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0a8d5e8c-a56a-42d8-8be2-7d1e8e02f453",
+    "data": [
+      {
+        "text": "por que tem que fazer exame de sangue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a25bdf17-fdaa-4a83-9691-9fb264ac60ea",
+    "data": [
+      {
+        "text": "importancia ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " exame de sangue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4810c08f-36b7-4f9c-a31c-20dbd9314063",
+    "data": [
+      {
+        "text": "Qual a utilidade de se ",
+        "userDefined": false
+      },
+      {
+        "text": "fazer a",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dosagem de hematócrito quando está diagnosticado com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d66be1db-103f-4700-bf49-24bcc9657277",
+    "data": [
+      {
+        "text": "Qual a utilidade de se ",
+        "userDefined": false
+      },
+      {
+        "text": "fazer a",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      },
+      {
+        "text": "dosagem de hematócrito quando está diagnosticado com",
+        "meta": "@sys.url",
+        "alias": "url",
+        "userDefined": false
+      },
+      {
+        "text": " dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Hemograma pode indicar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Eu tenho medo de agulha, preciso fazer o exame de sangue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

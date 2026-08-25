@@ -1,0 +1,121 @@
+{
+  "id": "5cc585b3-d9dc-4c03-8fe6-a0524ad504eb",
+  "name": "dengue_mata",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8f10ac48-b395-43fe-b719-5d5d65a99c01",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0317df0a-2360-482b-be4d-70100b9eb2ee",
+          "name": "music-artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$music-artist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2e39133b-a076-42e5-a583-f309a2431952",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2289cf5d-5131-4836-ac8f-5caaa6fb9932",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b7f37d36-38be-4ccf-a8c6-6d4c34cdff99",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "540e70bb-9657-49cd-ad89-fbb3168fbe90",
+          "name": "date",
+          "required": false,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A dengue pode ser fatal. A doença, transmitida pelo mosquito Aedes aegypti, apresenta um espectro clínico que varia desde formas brandas até quadros graves, que podem levar ao óbito. Estudos epidemiológicos indicam que a dengue é uma doença tropical que atinge anualmente de 50 a 80 milhões de pessoas em mais de 100 países, resultando em aproximadamente 20.000 mortes por ano. (1)",
+            "O Ministério da Saúde monitora a taxa de letalidade da dengue, que representa a proporção de óbitos em relação ao total de casos. Nas dez primeiras semanas de 2024, o Brasil registrou 1,5 milhão de casos prováveis e 391 mortes, resultando em uma taxa de letalidade de 0,03%. Portanto, embora a maioria dos casos de dengue seja leve e os pacientes se recuperem sem complicações, as formas graves da doença podem ser fatais, reafirmando a importância de medidas preventivas e do acesso a cuidados médicos adequados. (2)\n\n(1) - Fonte: Saúde pública, urbanização e dengue no Brasil, Scielo. DOI: https://doi.org/10.1590/S1982-45132009000300003\n(2) - Fonte: Governo Federal (https://www.gov.br/saude/pt-br/assuntos/noticias/2024/marco/entenda-o-indicador-de-taxa-de-letalidade-utilizado-para-monitorar-obitos-por-dengue)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

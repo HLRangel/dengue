@@ -1,0 +1,271 @@
+[
+  {
+    "id": "e21e2b95-0ceb-4f68-a907-893089a2d3f4",
+    "data": [
+      {
+        "text": "como é o mosquito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dd89a58c-7826-4b1b-9295-25c611c1296e",
+    "data": [
+      {
+        "text": "Quais as caracteristicas ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " mosquito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b627b11a-58bc-4177-8022-6a17bff79696",
+    "data": [
+      {
+        "text": "qual mosquito tem listras ",
+        "userDefined": false
+      },
+      {
+        "text": "brancas",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5a6046e5-5ae8-4406-bbe5-d71ee3f2b450",
+    "data": [
+      {
+        "text": "pernilongo aparece que horas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "257cdde7-e9e7-4902-b681-7926b5b07a92",
+    "data": [
+      {
+        "text": "qual horario a dengue aparece?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "da27f98b-e12c-4d2d-8bcf-a0e71d218540",
+    "data": [
+      {
+        "text": "traços da dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3e2bfe8c-6136-4df7-b5da-db84fc0809f6",
+    "data": [
+      {
+        "text": "aspectos da dengue e pernilongo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "54dfb03d-e934-4beb-b270-996b7a3b5854",
+    "data": [
+      {
+        "text": "como identificar ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " mosquito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ebd0d3c5-e5d3-49a1-b43e-426438f7255a",
+    "data": [
+      {
+        "text": "quais as caracteristicas da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1b423a6e-0f22-47c1-b54e-43bea0e3ea11",
+    "data": [
+      {
+        "text": "Qual a principal diferença entre o pernilongo comum e o mosquito da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "daaf75da-91de-4d94-9a09-b7cc848fb36c",
+    "data": [
+      {
+        "text": "dengue é tudo igual?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c802df3c-6d91-413a-8eb1-16a35505514c",
+    "data": [
+      {
+        "text": "O que torna a dengue diferente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0e9c19cc-6816-4755-a01b-52ff2e6431ad",
+    "data": [
+      {
+        "text": "O mosquito da dengue é de que cor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "78063746-7926-4752-9ffc-804fefb80032",
+    "data": [
+      {
+        "text": "Qual a cor ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " vetor da denv?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ab2b3136-ace7-4a66-8f0d-ce1f6b4a1069",
+    "data": [
+      {
+        "text": "Qual a cor ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " mosquito da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Como é o mosquito?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Quais horários o mosquito da dengue é mais ativo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

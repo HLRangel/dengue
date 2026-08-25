@@ -1,0 +1,50 @@
+{
+  "id": "46eb3c5d-7bb3-4138-ae84-2370066851fc",
+  "name": "dengue_sequela",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "234bce9b-83f7-4f1b-a43b-05cd7dcb0c0e",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Se não tratada, a encefalite por dengue pode levar à sequelas motoras e da fala, além de paralisia. Em alguns casos, podem levar ao óbito.\n\nFonte: https://www.cnnbrasil.com.br/saude/dengue-pode-deixar-sequelas-infectologista-responde/"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

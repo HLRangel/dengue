@@ -1,0 +1,50 @@
+{
+  "id": "18c75e70-1259-4b1d-8a55-4b17b21ba33c",
+  "name": "mudancas_climaticas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1b6279ca-2618-4760-a78b-0d35fd3d7822",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A dengue vem se espalhando para as regiões Sul e Centro-Oeste, onde a doença não era tão comum. Isso está ocorrendo por conta do aumento na ocorrência de eventos climáticos extremos, como secas e inundações. Além disso, outro fator decisivo seria a degradação ambiental, especialmente no Cerrado, que vem sofrendo com o desmatamento, queimadas e conversão de florestas em pasto.\nFonte: https://agencia.fiocruz.br/aumento-da-dengue-esta-associado-mudancas-climaticas-e-ao-desmatamento-no-brasil"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

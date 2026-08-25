@@ -1,0 +1,35 @@
+{
+  "id": "57ee6afd-c5a2-49ea-b713-4e79a20cc3e4",
+  "name": "dengue_perspectivas_tratamentos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A ampla distribuição da vacina aprovada pela Anvisa que protege contra os quatro sorotipos da dengue, além de sua incorporação pelo Ministério da Saúde.\n\nFonte: https://news.un.org/pt/story/2024/05/1832436"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

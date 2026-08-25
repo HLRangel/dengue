@@ -1,0 +1,137 @@
+[
+  {
+    "id": "f5435bc7-357e-4ffa-b016-6ae5c83dc874",
+    "data": [
+      {
+        "text": "Eu me protejo usando o repelente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7b56293f-5244-47c0-9736-5d6845db20e1",
+    "data": [
+      {
+        "text": "Repelente ajuda a proteger?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "20cb3d4f-6601-4178-8f49-16ae9e4b8a65",
+    "data": [
+      {
+        "text": "Dá pra usar repelente?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f67ae043-12a1-40fe-b10f-94aaf1eb188e",
+    "data": [
+      {
+        "text": "Usar repelente previne a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "11a08a06-86bf-45b9-8d20-3c9988e32625",
+    "data": [
+      {
+        "text": "O uso de repelente previne a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "O repelente ajuda a prevenir a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Aquele fumacê la ajuda a matar o mosquito da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "O fumacê que passa pra dengue não ",
+        "userDefined": false
+      },
+      {
+        "text": "faz mal",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " pra gente que é morador não?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Repelente resolve?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 10,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "O uso de repelente é eficaz na prevenção da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

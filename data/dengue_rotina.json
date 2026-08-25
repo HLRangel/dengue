@@ -1,0 +1,35 @@
+{
+  "id": "0704555f-ca2c-43e5-9b3a-234605714936",
+  "name": "dengue_rotina",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Trata-se de um mosquito doméstico que habita dentro ou ao redor de residências e outros locais frequentados por pessoas, como comércios, escolas ou igrejas, por exemplo. Possui hábitos preferencialmente diurnos e se alimenta de sangue humano, principalmente ao amanhecer e ao entardecer. No entanto, ele também pode picar durante a noite? Sim. Ele não perde a oportunidade.\n\nPor viver próximo ao ser humano, sua presença é mais comum em áreas urbanas, e a infestação tende a ser mais intensa em regiões com alta densidade populacional, especialmente em áreas urbanas com ocupação desordenada, onde as fêmeas encontram mais oportunidades para se alimentar e têm maior disponibilidade de criadouros para depositar seus ovos. A infestação desse mosquito é mais intensa no verão, devido ao aumento das temperaturas e às chuvas mais frequentes – fatores que favorecem a eclosão dos ovos. Para evitar essa situação, é necessário adotar medidas permanentes de controle do vetor ao longo de todo o ano, com ações preventivas para eliminar possíveis focos de reprodução. Como o mosquito tem hábitos domésticos, o sucesso dessas ações depende, principalmente, do engajamento da população.\n\nFonte: Fiocruz (https://www.ioc.fiocruz.br/dengue/textos/oportunista.html)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

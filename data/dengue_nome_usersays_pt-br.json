@@ -1,0 +1,258 @@
+[
+  {
+    "id": "9b7834cc-9015-4478-b68d-66d22cf6e436",
+    "data": [
+      {
+        "text": "Quem deu nome a dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ba7e80af-6bc0-4f4b-bcea-5b09e5710735",
+    "data": [
+      {
+        "text": "De onde vem o nome da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "aff53c0f-4ab8-4e09-9706-63911d2d2188",
+    "data": [
+      {
+        "text": "Por que o nome dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "101cfd5b-d5d4-4775-8006-4c9b276a61fb",
+    "data": [
+      {
+        "text": "Por que a doença se chama dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "04925219-4f1c-42ad-a719-a17f6b0c0d76",
+    "data": [
+      {
+        "text": "De onde vem o nome \"dengue\"?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b5d551ef-cc0e-4360-8fcc-0271c404f985",
+    "data": [
+      {
+        "text": "Porque a doença ganhou o nome de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5d7f3cd8-9f4c-4c98-8eec-12a0d1c2f434",
+    "data": [
+      {
+        "text": "Dengue tem outro nome?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "89912106-7eee-4ed5-b966-8dd40f45a1ed",
+    "data": [
+      {
+        "text": "Dengue é chamada como fora ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " pais?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "68120367-6dda-4b34-883b-a0771b7580bf",
+    "data": [
+      {
+        "text": "Como a dengue é chamada fora ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " país?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "de146a43-4e9a-478b-b71f-c4d2da1ae993",
+    "data": [
+      {
+        "text": "De onde vem o nome dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3022ae67-7458-4ecb-b6af-a1a31c1ea2b9",
+    "data": [
+      {
+        "text": "Qual o significado ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " nome aedes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "174b7b69-9678-4e5a-b3f0-e5f141125bbf",
+    "data": [
+      {
+        "text": "O que significa aedes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "79e43970-315e-4c81-9b07-b6085cf4a653",
+    "data": [
+      {
+        "text": "Porque o nome dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b83f2622-5958-4612-ba1d-3abd475510d9",
+    "data": [
+      {
+        "text": "Porque o nome denv ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " o virus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Porque escolheu esse nome?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Qual a origem ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " nome da dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": "43eaa9f5-887d-4e96-aa31-34b82bcb3416",
+  "name": "coinfecção_dengue_covid",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "acb875b8-a0a1-4ea2-96d4-a2119e3cbea9",
+          "name": "unit-area-name",
+          "required": false,
+          "dataType": "@sys.unit-area-name",
+          "value": "$unit-area-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Embora dengue seja uma doença de transmissão vetorial e a COVID-19 se transmita pelo contato pessoa-pessoa, sabe-se que em regiões endêmicas de dengue há pessoas que apresentam coinfecção pelos dois vírus. \nFonte: https://www.unasus.gov.br/especial/covid19/markdown/681"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

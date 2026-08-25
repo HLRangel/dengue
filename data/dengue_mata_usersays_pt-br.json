@@ -1,0 +1,464 @@
+[
+  {
+    "id": "d7f7fb18-46d7-4041-9dcf-fbd52b69caf1",
+    "data": [
+      {
+        "text": "Quantas pessoas morrem de dengue por ",
+        "userDefined": false
+      },
+      {
+        "text": "ano",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "14c49771-01f4-4928-8096-ee074fa69fb6",
+    "data": [
+      {
+        "text": "Peguei dengue, e ",
+        "userDefined": false
+      },
+      {
+        "text": "agora",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " posso morrer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "433c968c-3845-4920-b058-06fe267b7c8d",
+    "data": [
+      {
+        "text": "Se eu pego dengue eu ",
+        "userDefined": false
+      },
+      {
+        "text": "durmo",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " e não acordo mais?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2a489fb4-561f-4cc2-9c80-027607c18636",
+    "data": [
+      {
+        "text": "A contração da dengue vai ",
+        "userDefined": false
+      },
+      {
+        "text": "mata",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ecd8d5d5-0de7-4f14-a28b-ec4525bc817e",
+    "data": [
+      {
+        "text": "Se eu pegar dengue, vou morrer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "44d4e8e0-3543-4468-8f87-68c48ec76672",
+    "data": [
+      {
+        "text": "Dengue pode me matar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0b69625c-3c61-43a8-9136-4a79a1ee6821",
+    "data": [
+      {
+        "text": "Posso ir a óbito se pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7dda7dcd-f76e-40a4-b72b-54f20417c787",
+    "data": [
+      {
+        "text": "Dengue pode levar a morte?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5cdd14f9-bd5f-45b4-959a-2865b4a9e562",
+    "data": [
+      {
+        "text": "É possível morrer de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "323b7bef-6944-47d5-9e39-c4aca8a17d40",
+    "data": [
+      {
+        "text": "A dengue é fatal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "596c7e02-33eb-4235-b4d4-e8fc835fec8c",
+    "data": [
+      {
+        "text": "A dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "é mortal",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3f358587-92e7-437c-a821-cc6a21d9eb86",
+    "data": [
+      {
+        "text": "A dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "mata",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e5e21cbe-29b8-454c-a03b-d84bfdcc991a",
+    "data": [
+      {
+        "text": "Se ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " individuo contraiu o flavivirus DENV, ele pode falecer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b8bae562-6fb5-48ed-b0b3-79fc476a1492",
+    "data": [
+      {
+        "text": "Se eu tiver dengue e ",
+        "userDefined": false
+      },
+      {
+        "text": "zika",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " junto eu morro?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b1643d75-eba7-46b9-949a-246c308ab596",
+    "data": [
+      {
+        "text": "Posso falecer se pegar dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "897a443c-8c41-4a8f-8feb-6e074b9fa521",
+    "data": [
+      {
+        "text": "Como identificar ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " dengue hemorrágica?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a0d1a053-0588-4d1f-b42f-f66e768459b4",
+    "data": [
+      {
+        "text": "quantas pessoas já foram mortas pela dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "12ca21d8-b997-4d44-a1d9-2ffea7a57d4a",
+    "data": [
+      {
+        "text": "Dengue é bom?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 24,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f559e302-ae56-4da1-b4a3-d08af2f08099",
+    "data": [
+      {
+        "text": "Dengue e cobid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 22,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "281d86f6-53b4-410c-b965-e84a4917d529",
+    "data": [
+      {
+        "text": "Existem casos de dengue muito pesados?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Dengue é bom pra pegar atestado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "É passível de acontecer ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " coinfecção de covid e dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Porque ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pessoa morre de dengue?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Dengue ",
+        "userDefined": false
+      },
+      {
+        "text": "mata",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      },
+      {
+        "text": " mesmo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 10,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "A denv é ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " doença fatal?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "A dengue pode ser grave?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": "76046068-2ea2-488c-8ddc-a5ad6048b8ce",
+  "name": "mosquito_nasce_infectado",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0ca02acc-58d9-4d25-9dd6-11d95fd515fb",
+          "name": "url",
+          "required": false,
+          "dataType": "@sys.url",
+          "value": "$url",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Parte dos filhotes de uma fêmea infectada já nasce com o vírus, que pode ser transmitido de forma hereditária através de várias gerações de mosquito. Neste caso, a dengue pode estar circulando entre os mosquitos de forma silenciosa, mesmo que não ocorra o registro de casos entre humanos.\nFonte: https://www.ioc.fiocruz.br/pages/informerede/corpo/hotsite/dengue/omosquito.htm#:~:text\u003dDeste%20modo%2C%20parte%20dos%20filhotes,registro%20de%20casos%20entre%20humanos."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
